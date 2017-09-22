@@ -1,0 +1,315 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>For Consumers | www.aboutads.info</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/aba_v1_favicon.png" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_074037e79cf6bae83fb13a0cddc3dab9.css" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/grid16-960.css?g"/>
+  <!--[if IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie8-fixes.css?g" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie7-fixes.css?g" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie6-fixes.css?g"/>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/aba_v1/css/ie6-fixes.css?g"/>
+  <![endif]-->
+  <!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+  <![endif]-->
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/aba_v1/css/local.css?g" />
+  <!--[if gte IE 9]>
+  <style type="text/css">
+    .reject-link-wrapper {
+      bottom: 38px;
+    }
+
+    .reject-link-wrapper .reject-link {
+      padding: 4px 5px;
+    }
+  </style>
+  <![endif]-->
+  <script type="text/javascript" src="/sites/default/files/js/js_5f9b16173b38b9119f829fc8f710cce7.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide", "clone": "clone" }, "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": true, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "show_caption": true, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false } });
+//--><!]]>
+</script>
+</head>
+
+<body id="pid-consumers" class="not-front not-logged-in page-node node-type-page no-sidebars full-node layout-main-last sidebars-split font-size-12 grid-type-960 grid-width-16">
+<!--{6a282d544dc348f55cf17f1c73fa9d1d}-->
+  <div id="page" class="page">
+    <div id="page-inner" class="page-inner">
+      <div id="skip">
+        <a href="#main-content-area">Skip to Main Content Area</a>
+      </div>
+
+      <!-- header-top row: width = grid_width -->
+      
+      <!-- header-group row: width = grid_width -->
+      <div id="header-group-wrapper" class="header-group-wrapper full-width">
+        <div id="header-group" class="header-group row grid16-16">
+          <div id="header-group-inner" class="header-group-inner inner clearfix">
+            <?//php print theme('grid_block', theme('links', $secondary_links), 'secondary-menu'); ?>
+            
+                        <div id="header-site-info" class="header-site-info block">
+              <div id="header-site-info-inner" class="header-site-info-inner inner">
+                                <div id="logo">
+                  <a href="/" title="Home"><img src="/sites/all/themes/fusion/aba_v1/logo.png" alt="Home" /></a>
+                </div>
+                                                <div id="site-name-wrapper" class="clearfix">
+                                    <span id="site-name"><a href="/" title="Home">www.aboutads.info</a></span>
+                                                    </div><!-- /site-name-wrapper -->
+                              </div><!-- /header-site-info-inner -->
+            </div><!-- /header-site-info -->
+                                                                            <h1 class="title">For Consumers</h1>
+                                                        <div id="primary-menu" class="primary-menu block">
+<div id="primary-menu-inner" class="primary-menu-inner inner clearfix">
+<ul class="menu sf-menu"><li class="leaf first dhtml-menu "><a href="/home" title="THE SELF-REGULATORY PROGRAM FOR ONLINE BEHAVIORAL ADVERTISING" id="dhtml_menu-861">Home</a></li>
+<li class="leaf  dhtml-menu "><a href="/principles" title="" id="dhtml_menu-932">Principles</a></li>
+<li class="leaf  dhtml-menu  active-trail"><a href="/consumers" title="For Consumers" id="dhtml_menu-864" class="active">Consumers</a></li>
+<li class="leaf  dhtml-menu "><a href="/participants" title="INFORMATION FOR INTERESTED COMPANIES" id="dhtml_menu-865">Companies</a></li>
+<li class="leaf  dhtml-menu "><a href="/participating" title="" id="dhtml_menu-934">Participants</a></li>
+<li class="leaf  dhtml-menu "><a href="/resources" title="" id="dhtml_menu-936">Resources</a></li>
+<li class="leaf  dhtml-menu "><a href="/news" title="" id="dhtml_menu-935">News &amp; Media Resources</a></li>
+<li class="leaf  dhtml-menu "><a href="/blog" title="Blog" id="dhtml_menu-961">Blog</a></li>
+<li class="leaf  dhtml-menu "><a href="/enforcement" title="Enforcement of the Principles" id="dhtml_menu-114">Enforcement</a></li>
+<li class="leaf last dhtml-menu "><a href="/contact-us" title="Contact Us" id="dhtml_menu-867">Contact</a></li>
+</ul></div><!-- /primary-menu-inner -->
+</div><!-- /primary-menu -->
+          </div><!-- /header-group-inner -->
+        </div><!-- /header-group -->
+      </div><!-- /header-group-wrapper -->
+
+      <!-- preface-top row: width = grid_width -->
+      
+      <!-- main row: width = grid_width -->
+      <div id="main-wrapper" class="main-wrapper full-width">
+        <div id="main" class="main row grid16-16">
+          <div id="main-inner" class="main-inner inner clearfix">
+            
+            <!-- main group: width = grid_width - sidebar_first_width -->
+            <div id="main-group" class="main-group row nested grid16-16">
+              <div id="main-group-inner" class="main-group-inner inner">
+                
+                <div id="main-content" class="main-content row nested">
+                  <div id="main-content-inner" class="main-content-inner inner">
+                    <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+                    <div id="content-group" class="content-group row nested grid16-12">
+                      <div id="content-group-inner" class="content-group-inner inner">
+                        <div id="breadcrumbs" class="breadcrumbs block">
+<div id="breadcrumbs-inner" class="breadcrumbs-inner inner clearfix">
+<div class="breadcrumb"><a href="/">Home</a></div></div><!-- /breadcrumbs-inner -->
+</div><!-- /breadcrumbs -->
+
+                        
+                        <div id="content-region" class="content-region row nested">
+                          <div id="content-region-inner" class="content-region-inner inner">
+                            <a name="main-content-area" id="main-content-area"></a>
+                                                        <div id="content-inner" class="content-inner block">
+                              <div id="content-inner-inner" class="content-inner-inner inner">
+                                                                <div id="content-content" class="content-content">
+                                  
+<div id="node-3" class="node odd full-node node-type-page">
+  <div class="inner">
+    
+    
+   
+
+    
+    <div class="content clearfix">
+      <div class="field field-type-text field-field-common-subheader">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>Understanding Online Advertising</p>
+        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-common-body">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>&nbsp;</p>
+<div id="ooImgDiv">
+<p class="rteright"><a href="/choices/" id="ooImg"><img alt="Click to view the Consumer Opt Out Page" src="/resource/image/choice_button.gif" /></a></p>
+<p>	Make choices with participating companies under the DAA Principles.</p></div>
+<p>All advertising seeks to target the right products to the right audience, and makes possible low- or no-cost content and services. Most online ads aren&#39;t matched to you as an individual, but to data categories -- such as demographics, interest groups, location, or online behavior. The Web sites you visit work with online advertising companies to provide you with advertising that is as relevant and useful as possible.</p>
+<p>&nbsp;</p>
+<ul>
+<li>
+		<a href="#oba">What is interest-based advertising?</a></li>
+<li>
+		<a href="#opt-out">What are Your Choices?</a></li>
+<li>
+		<a href="#cookies">Understanding Cookies.</a></li>
+<li>
+		<a href="#browsers">Browser Controls.</a></li>
+<li>
+		<a href="#Complaint">Report a Complaint</a></li>
+<li>
+		<a href="#More">More Information</a></li>
+</ul>
+<p><a id="oba" name="oba"></a><strong>What is interest-based advertising?</strong><br />
+	Interest-based advertising -- which is also sometimes called &quot;online behavioral advertising&quot; -- uses information collected across multiple web sites that you visit in order to predict your preferences and to show you ads that are most likely to be of interest to you.</p>
+<p>You can learn a great deal more about interest-based advertising, as well as review a variety of explanatory videos, by visiting the following sites:</p>
+<ul>
+<li>
+		<a class="external" href="http://www.iab.net/privacymatters/">The IAB&#39;s Privacy Matters website</a></li>
+<li>
+		<a class="external" href="http://networkadvertising.org/managing/learn_more.asp">The NAI&#39;s Learn More page</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; font-weight: bold; "><a name="opt-out"></a>What are Your Choices?</strong><br />
+	This website was jointly developed by a group of leading industry associations to serve as the &nbsp;home of a Consumer Choice Page that allows you to opt out from the collection of Web viewing data for interest-based advertising and other applicable uses under the DAA principles, by some or all of the participating companies. To manage your preferences, please visit the&nbsp;<a href="http://www.aboutads.info/choices">Consumer Choice Page</a>.</p>
+<p>	DAA offers a separate choice tool for the collection of cross-app data on a mobile device for interest-based advertising and other applicable uses. To exercise choice for companies participating in this choice tool, you can install the <a href="http://www.aboutads.info/appchoices">DAA&rsquo;s AppChoices app</a>.</p>
+<div>
+	&nbsp;</div>
+<p><!--	<a id="choice" name="choice"></a><strong>What are Your Choices?</strong><br />
+	This website is being jointly developed by a group of leading industry associations to serve as the future home of a Consumer Opt Out Page that will allow you to manage your preferences for online behavioral advertising for companies participating in the Cross-Industry Program. While this tool is being developed, you can in the meantime visit the <a href="http://www.networkadvertising.org/managing/opt_out.asp">Opt Out Page</a> developed by one of our participating associations (the NAI) that allows you to manage your online behavioral advertising preferences from a variety of companies.</p>
+<p> --><!--	<a id="choice" name="choice"></a><strong>What are Your Choices?</strong><br />
+	This website is being jointly developed by a group of leading industry associations to serve as the future home of a Consumer Opt Out Page that will allow you to manage your preferences for online behavioral advertising for companies participating in the Cross-Industry Program. While this tool is being developed, you can in the meantime visit the <a href="http://www.networkadvertising.org/managing/opt_out.asp">Opt Out Page</a> developed by one of our participating associations (the NAI) that allows you to manage your online behavioral advertising preferences from a variety of companies.</p>
+<p> --></p><p><a id="cookies" name="cookies"></a><strong>Understanding Cookies.</strong><br />
+	Cookies are small text files that a website stores in your web browser&#39;s cache. They are not programs, and cannot harm your computer. Cookies generally contain information that is associated with your web browser, information such as website preferences, login information, or a user ID.</p>
+<p>These websites provide helpful information for you to learn all about cookies and how they are used -- not just for advertising.</p>
+<ul>
+<li>
+		David Whalen&#39;s &quot;Unofficial Cookie FAQ Version 2.6&quot; provides a comprehensive overview: <a class="external" href="http://www.cookiecentral.com/faq/">http://www.cookiecentral.com/faq/</a></li>
+<li>
+		The Harvard Berkman Center&#39;s Cookie Crumble Contest: <a class="external" href="http://cyber.law.harvard.edu/cookiecontest/">http://cyber.law.harvard.edu/cookiecontest/</a></li>
+<li>
+		A simple description on Wikipedia: <a class="external" href="http://en.wikipedia.org/wiki/HTTP_cookie">http://en.wikipedia.org/wiki/HTTP_cookie</a></li>
+</ul>
+<p><a id="browsers" name="browsers"></a><strong>Browser Controls</strong></p>
+<p>Most modern web browsers contain extensive controls that give you the ability, among other things, to block or limit cookies.</p>
+<p>Start with these sites to learn more about your browser&#39;s privacy controls:</p>
+<ul>
+<li>
+		<a class="external" href="http://windows.microsoft.com/en-US/windows-vista/Change-Internet-Explorer-Privacy-settings">Internet Explorer</a></li>
+<li>
+		<a class="external" href="http://support.mozilla.com/en-US/kb/Options+window+-+Privacy+panel">Firefox</a></li>
+<li>
+		<a class="external" href="https://support.google.com/chrome#topic=3227046">Chrome</a></li>
+<li>
+		<a class="external" href="http://www.apple.com/safari/features.html#security">Safari</a></li>
+<li>
+		<a class="external" href="http://whttp://www.opera.com/abtest/hp-en-copy-1?utm_expid=8257061-86.gyVPVfJ5QN-0DjQizgoefg.1">Opera</a></li>
+</ul>
+<p>Additionally, Firefox and Chrome have extensive repositories of add-ons that can help enhance your control over your privacy:</p>
+<ul>
+<li>
+		<a class="external" href="https://addons.mozilla.org/en-US/firefox/extensions/privacy-security/">Firefox</a></li>
+<li>
+		<a class="external" href="https://chrome.google.com/extensions/search?itemlang=&amp;hl=en&amp;q=cookies">Chrome</a></li>
+</ul>
+<p><strong><a name="Complaint"></a>Report a Complaint</strong></p>
+<p>If you believe that you have witnessed a practice or ad that may violate the DAA Principles, you can&nbsp;<u><a href="/enforcement" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-decoration: none; ">report the incident</a></u>&nbsp;to either The&nbsp;Council of Better Business Bureaus (CBBB) or The Direct Marketing Association (DMA).&nbsp; Complaints may be filed by consumers, business entities or other stakeholders.</p>
+<p>&nbsp;</p>
+<p class="p1"><b><a name="More"></a>For More Information and Resources About the DAA Program</b></p>
+<p class="p1">Please visit <a href="http://www.youradchoices.com/"><span class="s1">www.youradchoices.com</span></a> where you can read more about interest-based advertising, the protections afforded by the YourAdChoices Icon, where you will see it and the control it gives you as a consumer.</p>
+        </div>
+        </div>
+</div>
+    </div>
+<br><br>
+     
+    
+      </div><!-- /inner -->
+
+  </div><!-- /node-3 -->
+                                                                  </div><!-- /content-content -->
+                                                              </div><!-- /content-inner-inner -->
+                            </div><!-- /content-inner -->
+                          </div><!-- /content-region-inner -->
+                        </div><!-- /content-region -->
+
+                                              </div><!-- /content-group-inner -->
+                    </div><!-- /content-group -->
+
+                    <div id="sidebar-last" class="sidebar-last row nested grid16-4">
+<div id="sidebar-last-inner" class="sidebar-last-inner inner clearfix">
+
+<div id="block-block-4" class="block block-block odd first last  grid16-4">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <h6 class="rtecenter">
+	<a href="/associations">Participating Associations</a></h6>
+<h6 class="rtecenter">
+	<a class="external" href="http://www.aaaa.org/" title="View the AAAA Website"><img alt="AAAA Logo" height="92" src="/resource/image/template/logo_AAAA.gif" width="98" /></a>&nbsp; <a class="external" href="http://www.aaf.org/" title="View the AAF Website"><img alt="AAF Logo" src="/resource/image/template/logo_AAF.gif" /></a>&nbsp; <a class="external" href="http://www.ana.net/" title="View the ANA Website"><img alt="ANA Logo" src="/resource/image/template/logo_ANA.gif" /></a>&nbsp; <a class="external" href="http://www.bbb.org/us/interest-based-advertising/consumers/" target="_blank" title="View the BBB Website"><img alt="BBB Logo" src="/resource/image/template/logo_BBB.gif" /></a> &nbsp; <img alt="http://www.aboutads.info/sites/default/files/resource/DMALogoColor.png" src="http://www.aboutads.info/sites/default/files/resource/dmaLogoTextU.png" style="width: 100px; height: 55px;" />&nbsp; <a class="external" href="http://www.iab.net/" title="View the IAB Website"><img alt="IAB Logo" src="/resource/image/template/logo_IAB.gif" /></a>&nbsp; <a class="external" href="http://www.networkadvertising.org/" title="View the NAI Website"><img alt="NAI Logo" src="/resource/image/template/logo_NAI.gif" /></a></h6>
+    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /sidebar-last-inner -->
+</div><!-- /sidebar-last -->
+                  </div><!-- /main-content-inner -->
+                </div><!-- /main-content -->
+
+                <div id="postscript-top" class="postscript-top row nested ">
+<div id="postscript-top-inner" class="postscript-top-inner inner clearfix">
+
+<div id="block-block-5" class="block block-block odd first  grid16-8">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <p>
+	<a href="/associations"><img alt="" src="http://www.aboutads.info/resource/download/logo/DAA_Logo_HiRes.jpg" style="width: 150px; height: 45px; " /></a></p>
+    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+
+<div id="block-block-2" class="block block-block even  last  grid16-8">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <div id="spacer">&nbsp;</div>
+    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /postscript-top-inner -->
+</div><!-- /postscript-top -->
+              </div><!-- /main-group-inner -->
+            </div><!-- /main-group -->
+          </div><!-- /main-inner -->
+        </div><!-- /main -->
+      </div><!-- /main-wrapper -->
+
+      <!-- postscript-bottom row: width = grid_width -->
+      
+      <!-- footer row: width = grid_width -->
+      <div id="footer-wrapper" class="footer-wrapper full-width">
+<div id="footer" class="footer row grid16-16">
+<div id="footer-inner" class="footer-inner inner clearfix">
+
+<div id="block-block-3" class="block block-block odd first last fusion-center fusion-center-content grid16-16">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <p><a href="/legal/">Terms of Use</a> | <a href="/privacy/">Privacy</a> <span>&copy;</span> 2017 Digital Advertising Alliance &ndash; All rights reserved</p>
+    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /footer-inner -->
+</div><!-- /footer -->
+</div><!-- /footer-wrapper -->
+
+      <!-- footer-message row: width = grid_width -->
+      <div id="footer-message-wrapper" class="footer-message-wrapper full-width">
+        <div id="footer-message" class="footer-message row grid16-16">
+          <div id="footer-message-inner" class="footer-message-inner inner clearfix">
+                      </div><!-- /footer-message-inner -->
+        </div><!-- /footer-message -->
+      </div><!-- /footer-message-wrapper -->
+
+    </div><!-- /page-inner -->
+  </div><!-- /page -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-19786180-1"]);_gaq.push(["_gat._anonymizeIp"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>

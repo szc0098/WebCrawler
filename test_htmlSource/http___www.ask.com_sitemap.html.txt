@@ -1,0 +1,201 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+	<head>
+		<title>Sitemap | http://www.ask.com</title>  
+		<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' /> 
+		<style type='text/css'> 
+			
+body{
+	margin: 0px;
+}
+
+#description{      
+	display: block;      
+	background: top left no-repeat;      
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+}  
+.cat-list {
+	list-style-type: none;
+	padding: 0;
+}
+#footer{ 
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+.partial {
+	width: 1080px;
+	margin-left: 85px;
+	display: inline-block;
+	line-height: 20px;
+	font-size: 14px;
+	vertical-align: top;
+	position: relative;
+	overflow: visible;			
+}
+.partial-logo-body {
+	position: relative;
+	overflow: visible;
+	width: 0;
+	float: left;
+}
+.partial-logo-link {
+	position: absolute;
+	z-index: 1;
+	top: 12px;
+	right: 12px;
+	display: block;
+}
+.partial-logo-image-ask {
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: 0 0;
+    width: 75px;
+    height: 54px;
+}
+
+.partial-logo-image-reference {
+    background-image: url(https://www.reference.com/logo.png);
+    background-position: 0 0;
+    width: 162px;
+    height: 27px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+.searchbar-body {
+	float: left;
+	height: 50px;
+	margin-top: 30px;
+}
+.partial-search-bar-box {
+	width: 696px;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	padding: 0 10px;
+	font-family: Sans-Serif;
+	font-size: 16px;
+	font-weight: lighter;
+	border: 1px solid silver;
+}
+.partial-search-bar-box:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.partial-search-bar-button {
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 50px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: -148px -198px;
+}
+.partial-search-bar-button:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.articles {
+	list-style-type: none;
+	padding: 0;
+}
+
+.reference {
+   margin-left: 0;
+   margin-top: 10px;
+}
+
+.reference .partial-logo-body {
+   width: 200px;
+   margin-left: 10px;
+   margin-top: 7px;
+}
+
+.reference .partial-logo-link {
+   position: relative;
+   top: 0;
+   right: 0;
+}
+
+.reference .partial-logo-image-reference {
+   top: 0;
+   left: 0;
+}
+
+.reference .searchbar-body {
+   width: 800px;
+   margin-top: 0;
+   margin-left: 0;
+}
+
+.reference .partial-search-bar-button {
+  background-image: url(https://www.reference.com/search-icon.png);
+  background-position: 12px 14px;
+  position: relative;
+  left: -48px;
+  border-left: 1px solid silver;
+}
+
+
+		</style>
+
+	</head>
+	<body>
+
+		<div class="partial partial-logo ask">
+			<div class="partial partial-logo-body">
+				<a class="partial-logo-link" href="http://www.ask.com">
+           <div class="partial-logo-image-ask"></div>
+				</a>
+			</div>
+
+			<div class="partial searchbar-body">
+			    <form action="http://www.ask.com/web" accept-charset="UTF-8">
+			        <input class="partial-search-bar-box" type="text" name="q" value="" maxlength="2048" autocomplete="off" placeholder="" />
+			        <input class="partial-search-bar-button" type="submit" value="" />
+			            <input type="hidden" name="qsrc" value="0" />
+			            <input type="hidden" name="o" value="0" />
+			            <input type="hidden" name="l" value="dir" />
+			            <input type="hidden" name="qo" value="contentSearchBox" />
+			    </form>
+			</div>  
+		</div>	
+
+		<div id='description'>    
+			<h1>Categories</h1>
+			<ul class="cat-list">
+			  <li><a href=art-literature/sitemap-art-literature1.html> Art Literature </a></li>
+			  <li><a href=beauty-fashion/sitemap-beauty-fashion1.html> Beauty Fashion </a></li>
+			  <li><a href=business-finance/sitemap-business-finance1.html> Business Finance </a></li>
+			  <li><a href=education/sitemap-education1.html> Education </a></li>
+			  <li><a href=family/sitemap-family1.html> Family </a></li>
+			  <li><a href=food/sitemap-food1.html> Food </a></li>
+			  <li><a href=geography/sitemap-geography1.html> Geography </a></li>
+			  <li><a href=government-politics/sitemap-government-politics1.html> Government Politics </a></li>
+			  <li><a href=health/sitemap-health1.html> Health </a></li>
+			  <li><a href=history/sitemap-history1.html> History </a></li>
+			  <li><a href=hobbies-games/sitemap-hobbies-games1.html> Hobbies Games </a></li>
+			  <li><a href=holidays-celebrations/sitemap-holidays-celebrations1.html> Holidays Celebrations </a></li>
+			  <li><a href=home-garden/sitemap-home-garden1.html> Home Garden </a></li>
+			  <li><a href=math/sitemap-math1.html> Math </a></li>
+			  <li><a href=pets-animals/sitemap-pets-animals1.html> Pets Animals </a></li>
+			  <li><a href=science/sitemap-science1.html> Science </a></li>
+			  <li><a href=sports-active-lifestyle/sitemap-sports-active-lifestyle1.html> Sports Active Lifestyle </a></li>
+			  <li><a href=technology/sitemap-technology1.html> Technology </a></li>
+			  <li><a href=vehicles/sitemap-vehicles1.html> Vehicles </a></li>
+			  <li><a href=world-view/sitemap-world-view1.html> World View </a></li>
+			</ul>		
+		</div>
+
+	</body>
+</html>

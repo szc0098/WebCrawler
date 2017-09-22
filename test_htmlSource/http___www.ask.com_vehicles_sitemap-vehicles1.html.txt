@@ -1,0 +1,278 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+	<head>
+		<title>Vehicles Sitemap | http://www.ask.com</title>  
+		<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' /> 
+		<style type='text/css'> 
+			
+body{
+	margin: 0px;
+}
+
+#description{      
+	display: block;      
+	background: top left no-repeat;      
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+}  
+.cat-list {
+	list-style-type: none;
+	padding: 0;
+}
+#footer{ 
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+.partial {
+	width: 1080px;
+	margin-left: 85px;
+	display: inline-block;
+	line-height: 20px;
+	font-size: 14px;
+	vertical-align: top;
+	position: relative;
+	overflow: visible;			
+}
+.partial-logo-body {
+	position: relative;
+	overflow: visible;
+	width: 0;
+	float: left;
+}
+.partial-logo-link {
+	position: absolute;
+	z-index: 1;
+	top: 12px;
+	right: 12px;
+	display: block;
+}
+.partial-logo-image-ask {
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: 0 0;
+    width: 75px;
+    height: 54px;
+}
+
+.partial-logo-image-reference {
+    background-image: url(https://www.reference.com/logo.png);
+    background-position: 0 0;
+    width: 162px;
+    height: 27px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+.searchbar-body {
+	float: left;
+	height: 50px;
+	margin-top: 30px;
+}
+.partial-search-bar-box {
+	width: 696px;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	padding: 0 10px;
+	font-family: Sans-Serif;
+	font-size: 16px;
+	font-weight: lighter;
+	border: 1px solid silver;
+}
+.partial-search-bar-box:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.partial-search-bar-button {
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 50px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: -148px -198px;
+}
+.partial-search-bar-button:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.articles {
+	list-style-type: none;
+	padding: 0;
+}
+
+.reference {
+   margin-left: 0;
+   margin-top: 10px;
+}
+
+.reference .partial-logo-body {
+   width: 200px;
+   margin-left: 10px;
+   margin-top: 7px;
+}
+
+.reference .partial-logo-link {
+   position: relative;
+   top: 0;
+   right: 0;
+}
+
+.reference .partial-logo-image-reference {
+   top: 0;
+   left: 0;
+}
+
+.reference .searchbar-body {
+   width: 800px;
+   margin-top: 0;
+   margin-left: 0;
+}
+
+.reference .partial-search-bar-button {
+  background-image: url(https://www.reference.com/search-icon.png);
+  background-position: 12px 14px;
+  position: relative;
+  left: -48px;
+  border-left: 1px solid silver;
+}
+
+
+		</style>
+
+	</head>
+
+		<div class="partial partial-logo ask">
+			<div class="partial partial-logo-body">
+				<a class="partial-logo-link" href="http://www.ask.com">
+					<div class="partial-logo-image-ask"></div>
+				</a>
+			</div>
+
+			<div class="partial searchbar-body">
+			    <form action="http://www.ask.com/web" accept-charset="UTF-8">
+			        <input class="partial-search-bar-box" type="text" name="q" value="" maxlength="2048" autocomplete="off" placeholder="" />
+			        <input class="partial-search-bar-button" type="submit" value="" />
+			            <input type="hidden" name="qsrc" value="0" />
+			            <input type="hidden" name="o" value="0" />
+			            <input type="hidden" name="l" value="dir" />
+			            <input type="hidden" name="qo" value="contentSearchBox" />
+			    </form>
+			</div>  
+		</div>	
+
+
+		<div id='description'>
+				<div id='subcats'>
+					<h1> Subcategories for <a href="http://www.ask.com/vehicles"> Vehicles </a></h1>
+						<a href="http://www.ask.com/vehicles/explore/car-makes-models">Car Makes Models</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/vehicles/explore/car-parts-maintenance">Car Parts Maintenance</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/vehicles/explore/buying-selling">Buying Selling</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/vehicles/explore/airplanes-helicopters">Airplanes Helicopters</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/vehicles/explore/transmission">Transmission</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/vehicles/explore/brakes">Brakes</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/vehicles/explore/engine">Engine</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/vehicles/explore/dmv-records">Dmv Records</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/vehicles/explore/tires-rims-wheels">Tires Rims Wheels</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/vehicles/explore/engine-oil">Engine Oil</a>&nbsp&nbsp 
+				</div> 
+			<h1>Articles for <a href="http://www.ask.com/vehicles">Vehicles </a></h1>
+			<ul class="articles">
+			  <li><a href="http://www.ask.com/vehicles/car-pass-smog-inspection-40098029027b16a9"> How do you know if your car will pass smog inspection? </a></li>
+			  <li><a href="http://www.ask.com/vehicles/parked-facing-downhill-should-1dfb9075aa91b560"> If you are parked facing downhill, what should you do? </a></li>
+			  <li><a href="http://www.ask.com/vehicles/tires-need-balanced-44f3943aa3718ce8"> How do I know if my tires need to be balanced? </a></li>
+			  <li><a href="http://www.ask.com/vehicles/many-mpg-chevy-trailblazer-cfbdae39316cf55"> How many MPG does a Chevy TrailBlazer get? </a></li>
+			  <li><a href="http://www.ask.com/vehicles/car-make-popping-noise-turn-ba46b2ed79c937a3"> Why does my car make a popping noise when I turn? </a></li>
+			</ul>		
+		</div>
+
+		<div id='footer'>
+			<div id='page_links'>
+				<a class="page-link" href="sitemap-vehicles1.html"> [1] </a>
+				<a class="page-link" href="sitemap-vehicles2.html"> [2] </a>
+				<a class="page-link" href="sitemap-vehicles3.html"> [3] </a>
+				<a class="page-link" href="sitemap-vehicles4.html"> [4] </a>
+				<a class="page-link" href="sitemap-vehicles5.html"> [5] </a>
+				<a class="page-link" href="sitemap-vehicles6.html"> [6] </a>
+				<a class="page-link" href="sitemap-vehicles7.html"> [7] </a>
+				<a class="page-link" href="sitemap-vehicles8.html"> [8] </a>
+				<a class="page-link" href="sitemap-vehicles9.html"> [9] </a>
+				<a class="page-link" href="sitemap-vehicles10.html"> [10] </a>
+				<a class="page-link" href="sitemap-vehicles11.html"> [11] </a>
+				<a class="page-link" href="sitemap-vehicles12.html"> [12] </a>
+				<a class="page-link" href="sitemap-vehicles13.html"> [13] </a>
+				<a class="page-link" href="sitemap-vehicles14.html"> [14] </a>
+				<a class="page-link" href="sitemap-vehicles15.html"> [15] </a>
+				<a class="page-link" href="sitemap-vehicles16.html"> [16] </a>
+				<a class="page-link" href="sitemap-vehicles17.html"> [17] </a>
+				<a class="page-link" href="sitemap-vehicles18.html"> [18] </a>
+				<a class="page-link" href="sitemap-vehicles19.html"> [19] </a>
+				<a class="page-link" href="sitemap-vehicles20.html"> [20] </a>
+				<a class="page-link" href="sitemap-vehicles21.html"> [21] </a>
+				<a class="page-link" href="sitemap-vehicles22.html"> [22] </a>
+				<a class="page-link" href="sitemap-vehicles23.html"> [23] </a>
+				<a class="page-link" href="sitemap-vehicles24.html"> [24] </a>
+				<a class="page-link" href="sitemap-vehicles25.html"> [25] </a>
+				<a class="page-link" href="sitemap-vehicles26.html"> [26] </a>
+				<a class="page-link" href="sitemap-vehicles27.html"> [27] </a>
+				<a class="page-link" href="sitemap-vehicles28.html"> [28] </a>
+				<a class="page-link" href="sitemap-vehicles29.html"> [29] </a>
+				<a class="page-link" href="sitemap-vehicles30.html"> [30] </a>
+				<a class="page-link" href="sitemap-vehicles31.html"> [31] </a>
+				<a class="page-link" href="sitemap-vehicles32.html"> [32] </a>
+				<a class="page-link" href="sitemap-vehicles33.html"> [33] </a>
+				<a class="page-link" href="sitemap-vehicles34.html"> [34] </a>
+				<a class="page-link" href="sitemap-vehicles35.html"> [35] </a>
+				<a class="page-link" href="sitemap-vehicles36.html"> [36] </a>
+				<a class="page-link" href="sitemap-vehicles37.html"> [37] </a>
+				<a class="page-link" href="sitemap-vehicles38.html"> [38] </a>
+				<a class="page-link" href="sitemap-vehicles39.html"> [39] </a>
+				<a class="page-link" href="sitemap-vehicles40.html"> [40] </a>
+				<a class="page-link" href="sitemap-vehicles41.html"> [41] </a>
+				<a class="page-link" href="sitemap-vehicles42.html"> [42] </a>
+				<a class="page-link" href="sitemap-vehicles43.html"> [43] </a>
+				<a class="page-link" href="sitemap-vehicles44.html"> [44] </a>
+				<a class="page-link" href="sitemap-vehicles45.html"> [45] </a>
+				<a class="page-link" href="sitemap-vehicles46.html"> [46] </a>
+				<a class="page-link" href="sitemap-vehicles47.html"> [47] </a>
+				<a class="page-link" href="sitemap-vehicles48.html"> [48] </a>
+				<a class="page-link" href="sitemap-vehicles49.html"> [49] </a>
+				<a class="page-link" href="sitemap-vehicles50.html"> [50] </a>
+				<a class="page-link" href="sitemap-vehicles51.html"> [51] </a>
+				<a class="page-link" href="sitemap-vehicles52.html"> [52] </a>
+				<a class="page-link" href="sitemap-vehicles53.html"> [53] </a>
+				<a class="page-link" href="sitemap-vehicles54.html"> [54] </a>
+				<a class="page-link" href="sitemap-vehicles55.html"> [55] </a>
+				<a class="page-link" href="sitemap-vehicles56.html"> [56] </a>
+				<a class="page-link" href="sitemap-vehicles57.html"> [57] </a>
+				<a class="page-link" href="sitemap-vehicles58.html"> [58] </a>
+				<a class="page-link" href="sitemap-vehicles59.html"> [59] </a>
+				<a class="page-link" href="sitemap-vehicles60.html"> [60] </a>
+				<a class="page-link" href="sitemap-vehicles61.html"> [61] </a>
+				<a class="page-link" href="sitemap-vehicles62.html"> [62] </a>
+				<a class="page-link" href="sitemap-vehicles63.html"> [63] </a>
+				<a class="page-link" href="sitemap-vehicles64.html"> [64] </a>
+				<a class="page-link" href="sitemap-vehicles65.html"> [65] </a>
+				<a class="page-link" href="sitemap-vehicles66.html"> [66] </a>
+				<a class="page-link" href="sitemap-vehicles67.html"> [67] </a>
+				<a class="page-link" href="sitemap-vehicles68.html"> [68] </a>
+				<a class="page-link" href="sitemap-vehicles69.html"> [69] </a>
+				<a class="page-link" href="sitemap-vehicles70.html"> [70] </a>
+				<a class="page-link" href="sitemap-vehicles71.html"> [71] </a>
+				<a class="page-link" href="sitemap-vehicles72.html"> [72] </a>
+				<a class="page-link" href="sitemap-vehicles73.html"> [73] </a>
+				<a class="page-link" href="sitemap-vehicles74.html"> [74] </a>
+			</div>
+			<a href='../sitemap.html'> Sitemap Home </a>
+		</div>		
+	</body>
+</html>

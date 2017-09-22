@@ -1,0 +1,357 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+	<head>
+		<title>History Sitemap | http://www.ask.com</title>  
+		<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' /> 
+		<style type='text/css'> 
+			
+body{
+	margin: 0px;
+}
+
+#description{      
+	display: block;      
+	background: top left no-repeat;      
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+}  
+.cat-list {
+	list-style-type: none;
+	padding: 0;
+}
+#footer{ 
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+.partial {
+	width: 1080px;
+	margin-left: 85px;
+	display: inline-block;
+	line-height: 20px;
+	font-size: 14px;
+	vertical-align: top;
+	position: relative;
+	overflow: visible;			
+}
+.partial-logo-body {
+	position: relative;
+	overflow: visible;
+	width: 0;
+	float: left;
+}
+.partial-logo-link {
+	position: absolute;
+	z-index: 1;
+	top: 12px;
+	right: 12px;
+	display: block;
+}
+.partial-logo-image-ask {
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: 0 0;
+    width: 75px;
+    height: 54px;
+}
+
+.partial-logo-image-reference {
+    background-image: url(https://www.reference.com/logo.png);
+    background-position: 0 0;
+    width: 162px;
+    height: 27px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+.searchbar-body {
+	float: left;
+	height: 50px;
+	margin-top: 30px;
+}
+.partial-search-bar-box {
+	width: 696px;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	padding: 0 10px;
+	font-family: Sans-Serif;
+	font-size: 16px;
+	font-weight: lighter;
+	border: 1px solid silver;
+}
+.partial-search-bar-box:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.partial-search-bar-button {
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 50px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: -148px -198px;
+}
+.partial-search-bar-button:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.articles {
+	list-style-type: none;
+	padding: 0;
+}
+
+.reference {
+   margin-left: 0;
+   margin-top: 10px;
+}
+
+.reference .partial-logo-body {
+   width: 200px;
+   margin-left: 10px;
+   margin-top: 7px;
+}
+
+.reference .partial-logo-link {
+   position: relative;
+   top: 0;
+   right: 0;
+}
+
+.reference .partial-logo-image-reference {
+   top: 0;
+   left: 0;
+}
+
+.reference .searchbar-body {
+   width: 800px;
+   margin-top: 0;
+   margin-left: 0;
+}
+
+.reference .partial-search-bar-button {
+  background-image: url(https://www.reference.com/search-icon.png);
+  background-position: 12px 14px;
+  position: relative;
+  left: -48px;
+  border-left: 1px solid silver;
+}
+
+
+		</style>
+
+	</head>
+
+		<div class="partial partial-logo ask">
+			<div class="partial partial-logo-body">
+				<a class="partial-logo-link" href="http://www.ask.com">
+					<div class="partial-logo-image-ask"></div>
+				</a>
+			</div>
+
+			<div class="partial searchbar-body">
+			    <form action="http://www.ask.com/web" accept-charset="UTF-8">
+			        <input class="partial-search-bar-box" type="text" name="q" value="" maxlength="2048" autocomplete="off" placeholder="" />
+			        <input class="partial-search-bar-button" type="submit" value="" />
+			            <input type="hidden" name="qsrc" value="0" />
+			            <input type="hidden" name="o" value="0" />
+			            <input type="hidden" name="l" value="dir" />
+			            <input type="hidden" name="qo" value="contentSearchBox" />
+			    </form>
+			</div>  
+		</div>	
+
+
+		<div id='description'>
+				<div id='subcats'>
+					<h1> Subcategories for <a href="http://www.ask.com/history"> History </a></h1>
+						<a href="http://www.ask.com/history/explore/ancient-greece">Ancient Greece</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/us-history">Us History</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/inventions">Inventions</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/world-war-1">World War 1</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/vietnam-war">Vietnam War</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/ancient-rome">Ancient Rome</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/modern-history">Modern History</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/modern-asia">Modern Asia</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/world-war-2">World War 2</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/exploration-imperialism">Exploration Imperialism</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/renaissance-reformation">Renaissance Reformation</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/middle-ages">Middle Ages</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/prehistory">Prehistory</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/industrial-revolution">Industrial Revolution</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/ancient-america">Ancient America</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/ancient-history">Ancient History</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/cold-war">Cold War</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/computer-history">Computer History</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/modern-europe">Modern Europe</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/ancient-egypt">Ancient Egypt</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/french-revolution">French Revolution</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/history/explore/mesopotamia">Mesopotamia</a>&nbsp&nbsp 
+				</div> 
+			<h1>Articles for <a href="http://www.ask.com/history">History </a></h1>
+			<ul class="articles">
+			  <li><a href="http://www.ask.com/history/did-marco-polo-bring-back-china-fb192cb0f6b6daf8"> What did Marco Polo bring back from China? </a></li>
+			  <li><a href="http://www.ask.com/history/american-presidents-were-accused-abusing-presidential-power-e0e2466f3fd29162"> Which American presidents were accused of abusing their presidential power? </a></li>
+			  <li><a href="http://www.ask.com/history/american-victory-saratoga-9470480509d748fe"> What was the American victory at Saratoga? </a></li>
+			  <li><a href="http://www.ask.com/history/battle-trenton-a3e74eb3e981dd81"> What was the Battle of Trenton? </a></li>
+			  <li><a href="http://www.ask.com/history/contributions-ancient-egypt-world-b76a8d09edb69b95"> What are the contributions of ancient Egypt to the world? </a></li>
+			</ul>		
+		</div>
+
+		<div id='footer'>
+			<div id='page_links'>
+				<a class="page-link" href="sitemap-history1.html"> [1] </a>
+				<a class="page-link" href="sitemap-history2.html"> [2] </a>
+				<a class="page-link" href="sitemap-history3.html"> [3] </a>
+				<a class="page-link" href="sitemap-history4.html"> [4] </a>
+				<a class="page-link" href="sitemap-history5.html"> [5] </a>
+				<a class="page-link" href="sitemap-history6.html"> [6] </a>
+				<a class="page-link" href="sitemap-history7.html"> [7] </a>
+				<a class="page-link" href="sitemap-history8.html"> [8] </a>
+				<a class="page-link" href="sitemap-history9.html"> [9] </a>
+				<a class="page-link" href="sitemap-history10.html"> [10] </a>
+				<a class="page-link" href="sitemap-history11.html"> [11] </a>
+				<a class="page-link" href="sitemap-history12.html"> [12] </a>
+				<a class="page-link" href="sitemap-history13.html"> [13] </a>
+				<a class="page-link" href="sitemap-history14.html"> [14] </a>
+				<a class="page-link" href="sitemap-history15.html"> [15] </a>
+				<a class="page-link" href="sitemap-history16.html"> [16] </a>
+				<a class="page-link" href="sitemap-history17.html"> [17] </a>
+				<a class="page-link" href="sitemap-history18.html"> [18] </a>
+				<a class="page-link" href="sitemap-history19.html"> [19] </a>
+				<a class="page-link" href="sitemap-history20.html"> [20] </a>
+				<a class="page-link" href="sitemap-history21.html"> [21] </a>
+				<a class="page-link" href="sitemap-history22.html"> [22] </a>
+				<a class="page-link" href="sitemap-history23.html"> [23] </a>
+				<a class="page-link" href="sitemap-history24.html"> [24] </a>
+				<a class="page-link" href="sitemap-history25.html"> [25] </a>
+				<a class="page-link" href="sitemap-history26.html"> [26] </a>
+				<a class="page-link" href="sitemap-history27.html"> [27] </a>
+				<a class="page-link" href="sitemap-history28.html"> [28] </a>
+				<a class="page-link" href="sitemap-history29.html"> [29] </a>
+				<a class="page-link" href="sitemap-history30.html"> [30] </a>
+				<a class="page-link" href="sitemap-history31.html"> [31] </a>
+				<a class="page-link" href="sitemap-history32.html"> [32] </a>
+				<a class="page-link" href="sitemap-history33.html"> [33] </a>
+				<a class="page-link" href="sitemap-history34.html"> [34] </a>
+				<a class="page-link" href="sitemap-history35.html"> [35] </a>
+				<a class="page-link" href="sitemap-history36.html"> [36] </a>
+				<a class="page-link" href="sitemap-history37.html"> [37] </a>
+				<a class="page-link" href="sitemap-history38.html"> [38] </a>
+				<a class="page-link" href="sitemap-history39.html"> [39] </a>
+				<a class="page-link" href="sitemap-history40.html"> [40] </a>
+				<a class="page-link" href="sitemap-history41.html"> [41] </a>
+				<a class="page-link" href="sitemap-history42.html"> [42] </a>
+				<a class="page-link" href="sitemap-history43.html"> [43] </a>
+				<a class="page-link" href="sitemap-history44.html"> [44] </a>
+				<a class="page-link" href="sitemap-history45.html"> [45] </a>
+				<a class="page-link" href="sitemap-history46.html"> [46] </a>
+				<a class="page-link" href="sitemap-history47.html"> [47] </a>
+				<a class="page-link" href="sitemap-history48.html"> [48] </a>
+				<a class="page-link" href="sitemap-history49.html"> [49] </a>
+				<a class="page-link" href="sitemap-history50.html"> [50] </a>
+				<a class="page-link" href="sitemap-history51.html"> [51] </a>
+				<a class="page-link" href="sitemap-history52.html"> [52] </a>
+				<a class="page-link" href="sitemap-history53.html"> [53] </a>
+				<a class="page-link" href="sitemap-history54.html"> [54] </a>
+				<a class="page-link" href="sitemap-history55.html"> [55] </a>
+				<a class="page-link" href="sitemap-history56.html"> [56] </a>
+				<a class="page-link" href="sitemap-history57.html"> [57] </a>
+				<a class="page-link" href="sitemap-history58.html"> [58] </a>
+				<a class="page-link" href="sitemap-history59.html"> [59] </a>
+				<a class="page-link" href="sitemap-history60.html"> [60] </a>
+				<a class="page-link" href="sitemap-history61.html"> [61] </a>
+				<a class="page-link" href="sitemap-history62.html"> [62] </a>
+				<a class="page-link" href="sitemap-history63.html"> [63] </a>
+				<a class="page-link" href="sitemap-history64.html"> [64] </a>
+				<a class="page-link" href="sitemap-history65.html"> [65] </a>
+				<a class="page-link" href="sitemap-history66.html"> [66] </a>
+				<a class="page-link" href="sitemap-history67.html"> [67] </a>
+				<a class="page-link" href="sitemap-history68.html"> [68] </a>
+				<a class="page-link" href="sitemap-history69.html"> [69] </a>
+				<a class="page-link" href="sitemap-history70.html"> [70] </a>
+				<a class="page-link" href="sitemap-history71.html"> [71] </a>
+				<a class="page-link" href="sitemap-history72.html"> [72] </a>
+				<a class="page-link" href="sitemap-history73.html"> [73] </a>
+				<a class="page-link" href="sitemap-history74.html"> [74] </a>
+				<a class="page-link" href="sitemap-history75.html"> [75] </a>
+				<a class="page-link" href="sitemap-history76.html"> [76] </a>
+				<a class="page-link" href="sitemap-history77.html"> [77] </a>
+				<a class="page-link" href="sitemap-history78.html"> [78] </a>
+				<a class="page-link" href="sitemap-history79.html"> [79] </a>
+				<a class="page-link" href="sitemap-history80.html"> [80] </a>
+				<a class="page-link" href="sitemap-history81.html"> [81] </a>
+				<a class="page-link" href="sitemap-history82.html"> [82] </a>
+				<a class="page-link" href="sitemap-history83.html"> [83] </a>
+				<a class="page-link" href="sitemap-history84.html"> [84] </a>
+				<a class="page-link" href="sitemap-history85.html"> [85] </a>
+				<a class="page-link" href="sitemap-history86.html"> [86] </a>
+				<a class="page-link" href="sitemap-history87.html"> [87] </a>
+				<a class="page-link" href="sitemap-history88.html"> [88] </a>
+				<a class="page-link" href="sitemap-history89.html"> [89] </a>
+				<a class="page-link" href="sitemap-history90.html"> [90] </a>
+				<a class="page-link" href="sitemap-history91.html"> [91] </a>
+				<a class="page-link" href="sitemap-history92.html"> [92] </a>
+				<a class="page-link" href="sitemap-history93.html"> [93] </a>
+				<a class="page-link" href="sitemap-history94.html"> [94] </a>
+				<a class="page-link" href="sitemap-history95.html"> [95] </a>
+				<a class="page-link" href="sitemap-history96.html"> [96] </a>
+				<a class="page-link" href="sitemap-history97.html"> [97] </a>
+				<a class="page-link" href="sitemap-history98.html"> [98] </a>
+				<a class="page-link" href="sitemap-history99.html"> [99] </a>
+				<a class="page-link" href="sitemap-history100.html"> [100] </a>
+				<a class="page-link" href="sitemap-history101.html"> [101] </a>
+				<a class="page-link" href="sitemap-history102.html"> [102] </a>
+				<a class="page-link" href="sitemap-history103.html"> [103] </a>
+				<a class="page-link" href="sitemap-history104.html"> [104] </a>
+				<a class="page-link" href="sitemap-history105.html"> [105] </a>
+				<a class="page-link" href="sitemap-history106.html"> [106] </a>
+				<a class="page-link" href="sitemap-history107.html"> [107] </a>
+				<a class="page-link" href="sitemap-history108.html"> [108] </a>
+				<a class="page-link" href="sitemap-history109.html"> [109] </a>
+				<a class="page-link" href="sitemap-history110.html"> [110] </a>
+				<a class="page-link" href="sitemap-history111.html"> [111] </a>
+				<a class="page-link" href="sitemap-history112.html"> [112] </a>
+				<a class="page-link" href="sitemap-history113.html"> [113] </a>
+				<a class="page-link" href="sitemap-history114.html"> [114] </a>
+				<a class="page-link" href="sitemap-history115.html"> [115] </a>
+				<a class="page-link" href="sitemap-history116.html"> [116] </a>
+				<a class="page-link" href="sitemap-history117.html"> [117] </a>
+				<a class="page-link" href="sitemap-history118.html"> [118] </a>
+				<a class="page-link" href="sitemap-history119.html"> [119] </a>
+				<a class="page-link" href="sitemap-history120.html"> [120] </a>
+				<a class="page-link" href="sitemap-history121.html"> [121] </a>
+				<a class="page-link" href="sitemap-history122.html"> [122] </a>
+				<a class="page-link" href="sitemap-history123.html"> [123] </a>
+				<a class="page-link" href="sitemap-history124.html"> [124] </a>
+				<a class="page-link" href="sitemap-history125.html"> [125] </a>
+				<a class="page-link" href="sitemap-history126.html"> [126] </a>
+				<a class="page-link" href="sitemap-history127.html"> [127] </a>
+				<a class="page-link" href="sitemap-history128.html"> [128] </a>
+				<a class="page-link" href="sitemap-history129.html"> [129] </a>
+				<a class="page-link" href="sitemap-history130.html"> [130] </a>
+				<a class="page-link" href="sitemap-history131.html"> [131] </a>
+				<a class="page-link" href="sitemap-history132.html"> [132] </a>
+				<a class="page-link" href="sitemap-history133.html"> [133] </a>
+				<a class="page-link" href="sitemap-history134.html"> [134] </a>
+				<a class="page-link" href="sitemap-history135.html"> [135] </a>
+				<a class="page-link" href="sitemap-history136.html"> [136] </a>
+				<a class="page-link" href="sitemap-history137.html"> [137] </a>
+				<a class="page-link" href="sitemap-history138.html"> [138] </a>
+				<a class="page-link" href="sitemap-history139.html"> [139] </a>
+				<a class="page-link" href="sitemap-history140.html"> [140] </a>
+				<a class="page-link" href="sitemap-history141.html"> [141] </a>
+			</div>
+			<a href='../sitemap.html'> Sitemap Home </a>
+		</div>		
+	</body>
+</html>

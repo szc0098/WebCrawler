@@ -1,0 +1,11 @@
+<html>
+<head>
+<script language="javascript" type="text/javascript">
+  var search = window.location.search? window.location.search + "&" : "?";
+  window.location.replace("/ics/default.asp" + search + "_referrer=" + document.referrer);
+</script>
+</head>
+<body>
+This Website requires your browser to be JavaScript enabled. Please enable JavaScript  and click <a href="/ics/default.asp">here</a> to continue.
+</body>
+</html>

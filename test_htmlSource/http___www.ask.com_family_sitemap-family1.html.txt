@@ -1,0 +1,244 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+	<head>
+		<title>Family Sitemap | http://www.ask.com</title>  
+		<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' /> 
+		<style type='text/css'> 
+			
+body{
+	margin: 0px;
+}
+
+#description{      
+	display: block;      
+	background: top left no-repeat;      
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+}  
+.cat-list {
+	list-style-type: none;
+	padding: 0;
+}
+#footer{ 
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+.partial {
+	width: 1080px;
+	margin-left: 85px;
+	display: inline-block;
+	line-height: 20px;
+	font-size: 14px;
+	vertical-align: top;
+	position: relative;
+	overflow: visible;			
+}
+.partial-logo-body {
+	position: relative;
+	overflow: visible;
+	width: 0;
+	float: left;
+}
+.partial-logo-link {
+	position: absolute;
+	z-index: 1;
+	top: 12px;
+	right: 12px;
+	display: block;
+}
+.partial-logo-image-ask {
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: 0 0;
+    width: 75px;
+    height: 54px;
+}
+
+.partial-logo-image-reference {
+    background-image: url(https://www.reference.com/logo.png);
+    background-position: 0 0;
+    width: 162px;
+    height: 27px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+.searchbar-body {
+	float: left;
+	height: 50px;
+	margin-top: 30px;
+}
+.partial-search-bar-box {
+	width: 696px;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	padding: 0 10px;
+	font-family: Sans-Serif;
+	font-size: 16px;
+	font-weight: lighter;
+	border: 1px solid silver;
+}
+.partial-search-bar-box:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.partial-search-bar-button {
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 50px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: -148px -198px;
+}
+.partial-search-bar-button:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.articles {
+	list-style-type: none;
+	padding: 0;
+}
+
+.reference {
+   margin-left: 0;
+   margin-top: 10px;
+}
+
+.reference .partial-logo-body {
+   width: 200px;
+   margin-left: 10px;
+   margin-top: 7px;
+}
+
+.reference .partial-logo-link {
+   position: relative;
+   top: 0;
+   right: 0;
+}
+
+.reference .partial-logo-image-reference {
+   top: 0;
+   left: 0;
+}
+
+.reference .searchbar-body {
+   width: 800px;
+   margin-top: 0;
+   margin-left: 0;
+}
+
+.reference .partial-search-bar-button {
+  background-image: url(https://www.reference.com/search-icon.png);
+  background-position: 12px 14px;
+  position: relative;
+  left: -48px;
+  border-left: 1px solid silver;
+}
+
+
+		</style>
+
+	</head>
+
+		<div class="partial partial-logo ask">
+			<div class="partial partial-logo-body">
+				<a class="partial-logo-link" href="http://www.ask.com">
+					<div class="partial-logo-image-ask"></div>
+				</a>
+			</div>
+
+			<div class="partial searchbar-body">
+			    <form action="http://www.ask.com/web" accept-charset="UTF-8">
+			        <input class="partial-search-bar-box" type="text" name="q" value="" maxlength="2048" autocomplete="off" placeholder="" />
+			        <input class="partial-search-bar-button" type="submit" value="" />
+			            <input type="hidden" name="qsrc" value="0" />
+			            <input type="hidden" name="o" value="0" />
+			            <input type="hidden" name="l" value="dir" />
+			            <input type="hidden" name="qo" value="contentSearchBox" />
+			    </form>
+			</div>  
+		</div>	
+
+
+		<div id='description'>
+				<div id='subcats'>
+					<h1> Subcategories for <a href="http://www.ask.com/family"> Family </a></h1>
+						<a href="http://www.ask.com/family/explore/genealogy">Genealogy</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/family/explore/parenting">Parenting</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/family/explore/child-care">Child Care</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/family/explore/babies-toddlers">Babies Toddlers</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/family/explore/teenagers">Teenagers</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/family/explore/adoption">Adoption</a>&nbsp&nbsp 
+				</div> 
+			<h1>Articles for <a href="http://www.ask.com/family">Family </a></h1>
+			<ul class="articles">
+			  <li><a href="http://www.ask.com/family/can-explain-first-grader-school-hours-same-eff598dcacb5dc3f"> What can I do to explain to a first grader that the school hours are the same? </a></li>
+			  <li><a href="http://www.ask.com/family/should-parents-charge-room-board-d1fba89f556175b0"> What should parents charge for room and board? </a></li>
+			  <li><a href="http://www.ask.com/family/deal-misbehaving-children-178e7545b539f07c"> How do you deal with misbehaving children? </a></li>
+			  <li><a href="http://www.ask.com/family/good-nursery-nurse-21dc5a1a63428fcc"> What makes a good nursery nurse? </a></li>
+			  <li><a href="http://www.ask.com/family/long-baby-considered-infant-1a1c646f71b950c"> How long is a baby considered an infant? </a></li>
+			  <li><a href="http://www.ask.com/family/can-complain-neighbor-getting-day-care-license-massachusetts-42e0e6bf7b0e82e3"> Who can I complain to about a neighbor getting a day care license in Massachusetts? </a></li>
+			  <li><a href="http://www.ask.com/family/call-grandmother-s-sister-5cd5eaa44a963c94"> What do you call your grandmother&#x27;s sister? </a></li>
+			  <li><a href="http://www.ask.com/family/can-see-pictures-children-need-homes-c972924a2bc6a6a5"> Where can I see pictures of children in need of homes? </a></li>
+			  <li><a href="http://www.ask.com/family/differences-between-nanny-babysitter-f397da0271260d14"> What are some differences between a nanny and a babysitter? </a></li>
+			  <li><a href="http://www.ask.com/family/can-adopt-twins-374da1ee316b03f6"> Can you adopt twins? </a></li>
+			  <li><a href="http://www.ask.com/family/become-home-daycare-provider-9e025a446b7a50c7"> How do you become a home daycare provider? </a></li>
+			  <li><a href="http://www.ask.com/family/easy-ways-fall-asleep-teen-cf3a81637142357d"> What are some easy ways to fall asleep as a teen? </a></li>
+			  <li><a href="http://www.ask.com/family/circle-time-activities-9c97b4e3cf3b69f3"> What are some circle time activities? </a></li>
+			  <li><a href="http://www.ask.com/family/third-cousin-twice-removed-mean-f3f0d6270faff1e9"> What does &quot;third cousin twice removed&quot; mean? </a></li>
+			  <li><a href="http://www.ask.com/family/scotland-old-baby-sit-bde351fc4811e302"> In Scotland, how old do you have to be to baby-sit? </a></li>
+			  <li><a href="http://www.ask.com/family/kind-periods-boys-49622a43e3306f5"> What kind of periods do boys have? </a></li>
+			  <li><a href="http://www.ask.com/family/ways-announce-pregnancy-516da01cc27f78af"> What are some ways to announce your pregnancy? </a></li>
+			  <li><a href="http://www.ask.com/family/stomach-supposed-feel-tight-during-first-six-weeks-pregnancy-2208818f83e7f0fe"> Is your stomach supposed to feel tight during your first six weeks of pregnancy? </a></li>
+			  <li><a href="http://www.ask.com/family/tall-sit-front-seat-164409b440f707c0"> How tall do you have to be to sit in the front seat? </a></li>
+			  <li><a href="http://www.ask.com/family/good-birthday-wishes-teenager-4534bc2aeedfe75c"> What are some good birthday wishes for a teenager? </a></li>
+			  <li><a href="http://www.ask.com/family/skills-responsible-parents-need-e78ec3639d839a3c"> What skills do responsible parents need to have? </a></li>
+			  <li><a href="http://www.ask.com/family/qualifications-need-become-childminder-ea02e386e94519d6"> What qualifications do I need to become a childminder? </a></li>
+			  <li><a href="http://www.ask.com/family/can-deceased-father-s-medical-records-united-kingdom-3845a8b69c8460e1"> Where can I get my deceased father&#x27;s medical records in the United Kingdom? </a></li>
+			  <li><a href="http://www.ask.com/family/can-babies-start-eating-cereal-d0eec026effa2f3f"> When can babies start eating cereal? </a></li>
+			  <li><a href="http://www.ask.com/family/age-youngest-premature-baby-survive-94562b261e69df1b"> What is the age of the youngest premature baby to survive? </a></li>
+			  <li><a href="http://www.ask.com/family/characteristics-good-dads-9467cc82ff5f5e7d"> What are some characteristics of good dads? </a></li>
+			  <li><a href="http://www.ask.com/family/happens-give-baby-unpasteurized-milk-ac08951c735484a9"> What happens if you give a baby unpasteurized milk? </a></li>
+			  <li><a href="http://www.ask.com/family/can-person-obtain-adoption-records-55a40355d6f157fa"> How can a person obtain adoption records? </a></li>
+			</ul>		
+		</div>
+
+		<div id='footer'>
+			<div id='page_links'>
+				<a class="page-link" href="sitemap-family1.html"> [1] </a>
+				<a class="page-link" href="sitemap-family2.html"> [2] </a>
+				<a class="page-link" href="sitemap-family3.html"> [3] </a>
+				<a class="page-link" href="sitemap-family4.html"> [4] </a>
+				<a class="page-link" href="sitemap-family5.html"> [5] </a>
+				<a class="page-link" href="sitemap-family6.html"> [6] </a>
+				<a class="page-link" href="sitemap-family7.html"> [7] </a>
+				<a class="page-link" href="sitemap-family8.html"> [8] </a>
+				<a class="page-link" href="sitemap-family9.html"> [9] </a>
+				<a class="page-link" href="sitemap-family10.html"> [10] </a>
+				<a class="page-link" href="sitemap-family11.html"> [11] </a>
+				<a class="page-link" href="sitemap-family12.html"> [12] </a>
+				<a class="page-link" href="sitemap-family13.html"> [13] </a>
+				<a class="page-link" href="sitemap-family14.html"> [14] </a>
+				<a class="page-link" href="sitemap-family15.html"> [15] </a>
+				<a class="page-link" href="sitemap-family16.html"> [16] </a>
+				<a class="page-link" href="sitemap-family17.html"> [17] </a>
+				<a class="page-link" href="sitemap-family18.html"> [18] </a>
+				<a class="page-link" href="sitemap-family19.html"> [19] </a>
+				<a class="page-link" href="sitemap-family20.html"> [20] </a>
+				<a class="page-link" href="sitemap-family21.html"> [21] </a>
+			</div>
+			<a href='../sitemap.html'> Sitemap Home </a>
+		</div>		
+	</body>
+</html>

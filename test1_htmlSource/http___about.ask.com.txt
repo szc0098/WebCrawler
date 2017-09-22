@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ask.com</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="assets/styles.min.css">
+</head>
+<body>
+<!--[if lt IE 9]>
+<script src="assets/html5shiv.js"></script>
+<![endif]-->
+<section>
+    <header>
+        <h1>
+            <a href="//www.ask.com/">
+                <img alt="Ask.com" title="Ask.com" src="assets/ASKcom-Logo.png">
+            </a>
+        </h1>
+    </header>
+    <main>
+        <section id="main-top">
+            <h2>What&rsquo;s the latest with <strong>ASK</strong>?</h2>
+            <p>
+                The same leading Q&amp;A brand responsible for answering billions of user questions over the last 20 years hasn&rsquo;t gone anywhere. We&rsquo;re still here at <strong>Ask.com</strong> when you need&nbsp;us.
+                You can also access Ask as a browser plug-in, which delivers fresh and relevant content, straight to your&nbsp;desktop.
+            </p>
+            <p>
+                What HAS changed is we&rsquo;re no longer a business organization but our products and services live on as part of two distinct groups within IAC, our parent&nbsp;company.
+            </p>
+            <p><strong>Learn more about the organizations, teams and job opportunities behind the Ask-branded products you know and&nbsp;love</strong></p>
+        </section>
+
+        <section id="main-bottom">
+            <div>
+                <a class="IAC" href="http://www.askmediagroup.com/">
+                    <img id="IAC-One" alt="Ask Media Group" title="Ask Media Group" src="assets/askmglarge-logo.png">
+                </a>
+                <h3><a href="http://www.askmediagroup.com/" alt="Visit Ask Media Group" title="Visit Ask Media Group">Visit Ask Media Group,</a>which operates top Q&amp;A search site&nbsp;Ask.com</h3>
+                <button onclick="location.href='http://www.askmediagroup.com/'" alt="Learn More" title="Learn More">Learn&nbsp;More</button>
+            </div>
+
+            <div>
+                <a class="IAC" href="http://www.iacapps.com/">
+                    <img alt="IAC Applications" title="IAC Applications" src="assets/IAC-App.png">
+                </a>
+                <h3><a href="http://www.iacapps.com/" alt="Visit IAC Applications" title="Visit IAC Applications">Visit IAC Applications,</a>which houses Ask Applications, a division focused on browser-based&nbsp;products.</h3>
+                <button onclick="location.href='http://www.iacapps.com/'" alt="Learn More" title="Learn More">Learn&nbsp;More</button>
+            </div>
+        </section>
+    </main>
+    <aside>
+        <h3>Have a question for Ask Customer&nbsp;Support?</h3>
+        <button onclick="location.href='http://help.ask.com'" alt="Get Help" title="Get Help">Get&nbsp;Help</button>
+    </aside>
+</section>
+<footer>
+    <nav>
+        <a href="//about.ask.com" title="About" alt="About" >About - </a>
+        <a href="//www.ask.com/privacy-policy" title="Privacy" alt="Privacy">Privacy - </a>
+        <a href="//www.ask.com/terms-of-service" title="Terms" alt="Terms">Terms - </a>
+        <a href="https://careers.smartrecruiters.com/IAC/iac-publishing-labs" title="Careers" alt="Careers">Careers - </a>
+        <a href="//help.ask.com" title="Help" alt="Help">Help - </a>
+        <a href="//feedback.ask.com" title="Feedback" alt="Feedback">Feedback - </a>
+        <a href="//www.ask.com/sitemap.html" title="Sitemap" alt="Sitemap">Sitemap - </a>
+        <span>&copy; 2017 IAC Publishing, LLC</span>
+    </nav>
+</footer>
+</body>
+</html>

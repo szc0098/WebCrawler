@@ -1,0 +1,361 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+	<head>
+		<title>World View Sitemap | http://www.ask.com</title>  
+		<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' /> 
+		<style type='text/css'> 
+			
+body{
+	margin: 0px;
+}
+
+#description{      
+	display: block;      
+	background: top left no-repeat;      
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+}  
+.cat-list {
+	list-style-type: none;
+	padding: 0;
+}
+#footer{ 
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+.partial {
+	width: 1080px;
+	margin-left: 85px;
+	display: inline-block;
+	line-height: 20px;
+	font-size: 14px;
+	vertical-align: top;
+	position: relative;
+	overflow: visible;			
+}
+.partial-logo-body {
+	position: relative;
+	overflow: visible;
+	width: 0;
+	float: left;
+}
+.partial-logo-link {
+	position: absolute;
+	z-index: 1;
+	top: 12px;
+	right: 12px;
+	display: block;
+}
+.partial-logo-image-ask {
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: 0 0;
+    width: 75px;
+    height: 54px;
+}
+
+.partial-logo-image-reference {
+    background-image: url(https://www.reference.com/logo.png);
+    background-position: 0 0;
+    width: 162px;
+    height: 27px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+.searchbar-body {
+	float: left;
+	height: 50px;
+	margin-top: 30px;
+}
+.partial-search-bar-box {
+	width: 696px;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	padding: 0 10px;
+	font-family: Sans-Serif;
+	font-size: 16px;
+	font-weight: lighter;
+	border: 1px solid silver;
+}
+.partial-search-bar-box:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.partial-search-bar-button {
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 50px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: -148px -198px;
+}
+.partial-search-bar-button:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.articles {
+	list-style-type: none;
+	padding: 0;
+}
+
+.reference {
+   margin-left: 0;
+   margin-top: 10px;
+}
+
+.reference .partial-logo-body {
+   width: 200px;
+   margin-left: 10px;
+   margin-top: 7px;
+}
+
+.reference .partial-logo-link {
+   position: relative;
+   top: 0;
+   right: 0;
+}
+
+.reference .partial-logo-image-reference {
+   top: 0;
+   left: 0;
+}
+
+.reference .searchbar-body {
+   width: 800px;
+   margin-top: 0;
+   margin-left: 0;
+}
+
+.reference .partial-search-bar-button {
+  background-image: url(https://www.reference.com/search-icon.png);
+  background-position: 12px 14px;
+  position: relative;
+  left: -48px;
+  border-left: 1px solid silver;
+}
+
+
+		</style>
+
+	</head>
+
+		<div class="partial partial-logo ask">
+			<div class="partial partial-logo-body">
+				<a class="partial-logo-link" href="http://www.ask.com">
+					<div class="partial-logo-image-ask"></div>
+				</a>
+			</div>
+
+			<div class="partial searchbar-body">
+			    <form action="http://www.ask.com/web" accept-charset="UTF-8">
+			        <input class="partial-search-bar-box" type="text" name="q" value="" maxlength="2048" autocomplete="off" placeholder="" />
+			        <input class="partial-search-bar-button" type="submit" value="" />
+			            <input type="hidden" name="qsrc" value="0" />
+			            <input type="hidden" name="o" value="0" />
+			            <input type="hidden" name="l" value="dir" />
+			            <input type="hidden" name="qo" value="contentSearchBox" />
+			    </form>
+			</div>  
+		</div>	
+
+
+		<div id='description'>
+				<div id='subcats'>
+					<h1> Subcategories for <a href="http://www.ask.com/world-view"> World View </a></h1>
+						<a href="http://www.ask.com/world-view/explore/hinduism">Hinduism</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/zodiac">Zodiac</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/cultures-traditions">Cultures Traditions</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/christianity">Christianity</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/psychology">Psychology</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/ethics">Ethics</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/economics">Economics</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/paranormal">Paranormal</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/population-demography">Population Demography</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/social-sciences">Social Sciences</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/religion">Religion</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/superstition">Superstition</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/philosophy">Philosophy</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/symbolism">Symbolism</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/the-bible">The Bible</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/anthropology">Anthropology</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/logic-reasoning">Logic Reasoning</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/judaism">Judaism</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/buddhism">Buddhism</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/islam">Islam</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/dream-interpretation">Dream Interpretation</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/world-view/explore/fortune">Fortune</a>&nbsp&nbsp 
+				</div> 
+			<h1>Articles for <a href="http://www.ask.com/world-view">World View </a></h1>
+			<ul class="articles">
+			  <li><a href="http://www.ask.com/world-view/zoroastrianism-different-religions-came-before-134a9980728f785b"> How was Zoroastrianism different from religions that came before it? </a></li>
+			  <li><a href="http://www.ask.com/world-view/examples-being-proactive-46244c0508671538"> What are some examples of being proactive? </a></li>
+			  <li><a href="http://www.ask.com/world-view/social-evil-f3d203373d28ea6f"> What is a social evil? </a></li>
+			  <li><a href="http://www.ask.com/world-view/catholic-statues-cfb008ddc623f04e"> What are Catholic statues? </a></li>
+			  <li><a href="http://www.ask.com/world-view/examples-socializing-agents-6c84150609b625e8"> What are some examples of socializing agents? </a></li>
+			  <li><a href="http://www.ask.com/world-view/barter-system-work-e4b8098929fcd707"> How does a barter system work? </a></li>
+			  <li><a href="http://www.ask.com/world-view/examples-substitute-goods-cbf748045d4b8a98"> What are some examples of substitute goods? </a></li>
+			  <li><a href="http://www.ask.com/world-view/canadians-wear-f71c0935688d122b"> What do Canadians wear? </a></li>
+			  <li><a href="http://www.ask.com/world-view/olive-branch-symbolize-7f8d6d0293a5b351"> What does the olive branch symbolize? </a></li>
+			  <li><a href="http://www.ask.com/world-view/examples-divergent-thinking-2c6712f9876bd227"> What are some examples of divergent thinking? </a></li>
+			  <li><a href="http://www.ask.com/world-view/population-density-9fcc8f4fbc8beada"> What is population density? </a></li>
+			</ul>		
+		</div>
+
+		<div id='footer'>
+			<div id='page_links'>
+				<a class="page-link" href="sitemap-world-view1.html"> [1] </a>
+				<a class="page-link" href="sitemap-world-view2.html"> [2] </a>
+				<a class="page-link" href="sitemap-world-view3.html"> [3] </a>
+				<a class="page-link" href="sitemap-world-view4.html"> [4] </a>
+				<a class="page-link" href="sitemap-world-view5.html"> [5] </a>
+				<a class="page-link" href="sitemap-world-view6.html"> [6] </a>
+				<a class="page-link" href="sitemap-world-view7.html"> [7] </a>
+				<a class="page-link" href="sitemap-world-view8.html"> [8] </a>
+				<a class="page-link" href="sitemap-world-view9.html"> [9] </a>
+				<a class="page-link" href="sitemap-world-view10.html"> [10] </a>
+				<a class="page-link" href="sitemap-world-view11.html"> [11] </a>
+				<a class="page-link" href="sitemap-world-view12.html"> [12] </a>
+				<a class="page-link" href="sitemap-world-view13.html"> [13] </a>
+				<a class="page-link" href="sitemap-world-view14.html"> [14] </a>
+				<a class="page-link" href="sitemap-world-view15.html"> [15] </a>
+				<a class="page-link" href="sitemap-world-view16.html"> [16] </a>
+				<a class="page-link" href="sitemap-world-view17.html"> [17] </a>
+				<a class="page-link" href="sitemap-world-view18.html"> [18] </a>
+				<a class="page-link" href="sitemap-world-view19.html"> [19] </a>
+				<a class="page-link" href="sitemap-world-view20.html"> [20] </a>
+				<a class="page-link" href="sitemap-world-view21.html"> [21] </a>
+				<a class="page-link" href="sitemap-world-view22.html"> [22] </a>
+				<a class="page-link" href="sitemap-world-view23.html"> [23] </a>
+				<a class="page-link" href="sitemap-world-view24.html"> [24] </a>
+				<a class="page-link" href="sitemap-world-view25.html"> [25] </a>
+				<a class="page-link" href="sitemap-world-view26.html"> [26] </a>
+				<a class="page-link" href="sitemap-world-view27.html"> [27] </a>
+				<a class="page-link" href="sitemap-world-view28.html"> [28] </a>
+				<a class="page-link" href="sitemap-world-view29.html"> [29] </a>
+				<a class="page-link" href="sitemap-world-view30.html"> [30] </a>
+				<a class="page-link" href="sitemap-world-view31.html"> [31] </a>
+				<a class="page-link" href="sitemap-world-view32.html"> [32] </a>
+				<a class="page-link" href="sitemap-world-view33.html"> [33] </a>
+				<a class="page-link" href="sitemap-world-view34.html"> [34] </a>
+				<a class="page-link" href="sitemap-world-view35.html"> [35] </a>
+				<a class="page-link" href="sitemap-world-view36.html"> [36] </a>
+				<a class="page-link" href="sitemap-world-view37.html"> [37] </a>
+				<a class="page-link" href="sitemap-world-view38.html"> [38] </a>
+				<a class="page-link" href="sitemap-world-view39.html"> [39] </a>
+				<a class="page-link" href="sitemap-world-view40.html"> [40] </a>
+				<a class="page-link" href="sitemap-world-view41.html"> [41] </a>
+				<a class="page-link" href="sitemap-world-view42.html"> [42] </a>
+				<a class="page-link" href="sitemap-world-view43.html"> [43] </a>
+				<a class="page-link" href="sitemap-world-view44.html"> [44] </a>
+				<a class="page-link" href="sitemap-world-view45.html"> [45] </a>
+				<a class="page-link" href="sitemap-world-view46.html"> [46] </a>
+				<a class="page-link" href="sitemap-world-view47.html"> [47] </a>
+				<a class="page-link" href="sitemap-world-view48.html"> [48] </a>
+				<a class="page-link" href="sitemap-world-view49.html"> [49] </a>
+				<a class="page-link" href="sitemap-world-view50.html"> [50] </a>
+				<a class="page-link" href="sitemap-world-view51.html"> [51] </a>
+				<a class="page-link" href="sitemap-world-view52.html"> [52] </a>
+				<a class="page-link" href="sitemap-world-view53.html"> [53] </a>
+				<a class="page-link" href="sitemap-world-view54.html"> [54] </a>
+				<a class="page-link" href="sitemap-world-view55.html"> [55] </a>
+				<a class="page-link" href="sitemap-world-view56.html"> [56] </a>
+				<a class="page-link" href="sitemap-world-view57.html"> [57] </a>
+				<a class="page-link" href="sitemap-world-view58.html"> [58] </a>
+				<a class="page-link" href="sitemap-world-view59.html"> [59] </a>
+				<a class="page-link" href="sitemap-world-view60.html"> [60] </a>
+				<a class="page-link" href="sitemap-world-view61.html"> [61] </a>
+				<a class="page-link" href="sitemap-world-view62.html"> [62] </a>
+				<a class="page-link" href="sitemap-world-view63.html"> [63] </a>
+				<a class="page-link" href="sitemap-world-view64.html"> [64] </a>
+				<a class="page-link" href="sitemap-world-view65.html"> [65] </a>
+				<a class="page-link" href="sitemap-world-view66.html"> [66] </a>
+				<a class="page-link" href="sitemap-world-view67.html"> [67] </a>
+				<a class="page-link" href="sitemap-world-view68.html"> [68] </a>
+				<a class="page-link" href="sitemap-world-view69.html"> [69] </a>
+				<a class="page-link" href="sitemap-world-view70.html"> [70] </a>
+				<a class="page-link" href="sitemap-world-view71.html"> [71] </a>
+				<a class="page-link" href="sitemap-world-view72.html"> [72] </a>
+				<a class="page-link" href="sitemap-world-view73.html"> [73] </a>
+				<a class="page-link" href="sitemap-world-view74.html"> [74] </a>
+				<a class="page-link" href="sitemap-world-view75.html"> [75] </a>
+				<a class="page-link" href="sitemap-world-view76.html"> [76] </a>
+				<a class="page-link" href="sitemap-world-view77.html"> [77] </a>
+				<a class="page-link" href="sitemap-world-view78.html"> [78] </a>
+				<a class="page-link" href="sitemap-world-view79.html"> [79] </a>
+				<a class="page-link" href="sitemap-world-view80.html"> [80] </a>
+				<a class="page-link" href="sitemap-world-view81.html"> [81] </a>
+				<a class="page-link" href="sitemap-world-view82.html"> [82] </a>
+				<a class="page-link" href="sitemap-world-view83.html"> [83] </a>
+				<a class="page-link" href="sitemap-world-view84.html"> [84] </a>
+				<a class="page-link" href="sitemap-world-view85.html"> [85] </a>
+				<a class="page-link" href="sitemap-world-view86.html"> [86] </a>
+				<a class="page-link" href="sitemap-world-view87.html"> [87] </a>
+				<a class="page-link" href="sitemap-world-view88.html"> [88] </a>
+				<a class="page-link" href="sitemap-world-view89.html"> [89] </a>
+				<a class="page-link" href="sitemap-world-view90.html"> [90] </a>
+				<a class="page-link" href="sitemap-world-view91.html"> [91] </a>
+				<a class="page-link" href="sitemap-world-view92.html"> [92] </a>
+				<a class="page-link" href="sitemap-world-view93.html"> [93] </a>
+				<a class="page-link" href="sitemap-world-view94.html"> [94] </a>
+				<a class="page-link" href="sitemap-world-view95.html"> [95] </a>
+				<a class="page-link" href="sitemap-world-view96.html"> [96] </a>
+				<a class="page-link" href="sitemap-world-view97.html"> [97] </a>
+				<a class="page-link" href="sitemap-world-view98.html"> [98] </a>
+				<a class="page-link" href="sitemap-world-view99.html"> [99] </a>
+				<a class="page-link" href="sitemap-world-view100.html"> [100] </a>
+				<a class="page-link" href="sitemap-world-view101.html"> [101] </a>
+				<a class="page-link" href="sitemap-world-view102.html"> [102] </a>
+				<a class="page-link" href="sitemap-world-view103.html"> [103] </a>
+				<a class="page-link" href="sitemap-world-view104.html"> [104] </a>
+				<a class="page-link" href="sitemap-world-view105.html"> [105] </a>
+				<a class="page-link" href="sitemap-world-view106.html"> [106] </a>
+				<a class="page-link" href="sitemap-world-view107.html"> [107] </a>
+				<a class="page-link" href="sitemap-world-view108.html"> [108] </a>
+				<a class="page-link" href="sitemap-world-view109.html"> [109] </a>
+				<a class="page-link" href="sitemap-world-view110.html"> [110] </a>
+				<a class="page-link" href="sitemap-world-view111.html"> [111] </a>
+				<a class="page-link" href="sitemap-world-view112.html"> [112] </a>
+				<a class="page-link" href="sitemap-world-view113.html"> [113] </a>
+				<a class="page-link" href="sitemap-world-view114.html"> [114] </a>
+				<a class="page-link" href="sitemap-world-view115.html"> [115] </a>
+				<a class="page-link" href="sitemap-world-view116.html"> [116] </a>
+				<a class="page-link" href="sitemap-world-view117.html"> [117] </a>
+				<a class="page-link" href="sitemap-world-view118.html"> [118] </a>
+				<a class="page-link" href="sitemap-world-view119.html"> [119] </a>
+				<a class="page-link" href="sitemap-world-view120.html"> [120] </a>
+				<a class="page-link" href="sitemap-world-view121.html"> [121] </a>
+				<a class="page-link" href="sitemap-world-view122.html"> [122] </a>
+				<a class="page-link" href="sitemap-world-view123.html"> [123] </a>
+				<a class="page-link" href="sitemap-world-view124.html"> [124] </a>
+				<a class="page-link" href="sitemap-world-view125.html"> [125] </a>
+				<a class="page-link" href="sitemap-world-view126.html"> [126] </a>
+				<a class="page-link" href="sitemap-world-view127.html"> [127] </a>
+				<a class="page-link" href="sitemap-world-view128.html"> [128] </a>
+				<a class="page-link" href="sitemap-world-view129.html"> [129] </a>
+				<a class="page-link" href="sitemap-world-view130.html"> [130] </a>
+				<a class="page-link" href="sitemap-world-view131.html"> [131] </a>
+				<a class="page-link" href="sitemap-world-view132.html"> [132] </a>
+				<a class="page-link" href="sitemap-world-view133.html"> [133] </a>
+				<a class="page-link" href="sitemap-world-view134.html"> [134] </a>
+				<a class="page-link" href="sitemap-world-view135.html"> [135] </a>
+				<a class="page-link" href="sitemap-world-view136.html"> [136] </a>
+				<a class="page-link" href="sitemap-world-view137.html"> [137] </a>
+				<a class="page-link" href="sitemap-world-view138.html"> [138] </a>
+				<a class="page-link" href="sitemap-world-view139.html"> [139] </a>
+			</div>
+			<a href='../sitemap.html'> Sitemap Home </a>
+		</div>		
+	</body>
+</html>

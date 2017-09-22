@@ -1,0 +1,362 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+	<head>
+		<title>Technology Sitemap | http://www.ask.com</title>  
+		<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' /> 
+		<style type='text/css'> 
+			
+body{
+	margin: 0px;
+}
+
+#description{      
+	display: block;      
+	background: top left no-repeat;      
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+}  
+.cat-list {
+	list-style-type: none;
+	padding: 0;
+}
+#footer{ 
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+.partial {
+	width: 1080px;
+	margin-left: 85px;
+	display: inline-block;
+	line-height: 20px;
+	font-size: 14px;
+	vertical-align: top;
+	position: relative;
+	overflow: visible;			
+}
+.partial-logo-body {
+	position: relative;
+	overflow: visible;
+	width: 0;
+	float: left;
+}
+.partial-logo-link {
+	position: absolute;
+	z-index: 1;
+	top: 12px;
+	right: 12px;
+	display: block;
+}
+.partial-logo-image-ask {
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: 0 0;
+    width: 75px;
+    height: 54px;
+}
+
+.partial-logo-image-reference {
+    background-image: url(https://www.reference.com/logo.png);
+    background-position: 0 0;
+    width: 162px;
+    height: 27px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+.searchbar-body {
+	float: left;
+	height: 50px;
+	margin-top: 30px;
+}
+.partial-search-bar-box {
+	width: 696px;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	padding: 0 10px;
+	font-family: Sans-Serif;
+	font-size: 16px;
+	font-weight: lighter;
+	border: 1px solid silver;
+}
+.partial-search-bar-box:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.partial-search-bar-button {
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 50px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: -148px -198px;
+}
+.partial-search-bar-button:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.articles {
+	list-style-type: none;
+	padding: 0;
+}
+
+.reference {
+   margin-left: 0;
+   margin-top: 10px;
+}
+
+.reference .partial-logo-body {
+   width: 200px;
+   margin-left: 10px;
+   margin-top: 7px;
+}
+
+.reference .partial-logo-link {
+   position: relative;
+   top: 0;
+   right: 0;
+}
+
+.reference .partial-logo-image-reference {
+   top: 0;
+   left: 0;
+}
+
+.reference .searchbar-body {
+   width: 800px;
+   margin-top: 0;
+   margin-left: 0;
+}
+
+.reference .partial-search-bar-button {
+  background-image: url(https://www.reference.com/search-icon.png);
+  background-position: 12px 14px;
+  position: relative;
+  left: -48px;
+  border-left: 1px solid silver;
+}
+
+
+		</style>
+
+	</head>
+
+		<div class="partial partial-logo ask">
+			<div class="partial partial-logo-body">
+				<a class="partial-logo-link" href="http://www.ask.com">
+					<div class="partial-logo-image-ask"></div>
+				</a>
+			</div>
+
+			<div class="partial searchbar-body">
+			    <form action="http://www.ask.com/web" accept-charset="UTF-8">
+			        <input class="partial-search-bar-box" type="text" name="q" value="" maxlength="2048" autocomplete="off" placeholder="" />
+			        <input class="partial-search-bar-button" type="submit" value="" />
+			            <input type="hidden" name="qsrc" value="0" />
+			            <input type="hidden" name="o" value="0" />
+			            <input type="hidden" name="l" value="dir" />
+			            <input type="hidden" name="qo" value="contentSearchBox" />
+			    </form>
+			</div>  
+		</div>	
+
+
+		<div id='description'>
+				<div id='subcats'>
+					<h1> Subcategories for <a href="http://www.ask.com/technology"> Technology </a></h1>
+						<a href="http://www.ask.com/technology/explore/software">Software</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/mobile">Mobile</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/computers-hardware">Computers Hardware</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/computer-help">Computer Help</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/e-mail">E Mail</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/internet-networking">Internet Networking</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/computer-programming">Computer Programming</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/audio-equipment">Audio Equipment</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/social-media">Social Media</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/printers">Printers</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/television-video">Television Video</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/keyboard">Keyboard</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/digital-storage">Digital Storage</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/technology/explore/monitor">Monitor</a>&nbsp&nbsp 
+				</div> 
+			<h1>Articles for <a href="http://www.ask.com/technology">Technology </a></h1>
+			<ul class="articles">
+			  <li><a href="http://www.ask.com/technology/install-rpm-package-e125cc2daf07b3a1"> How do you install an RPM package? </a></li>
+			  <li><a href="http://www.ask.com/technology/codes-program-rca-remote-orion-television-f80d505528e6b6fb"> What are the codes to program an RCA remote to an Orion television? </a></li>
+			  <li><a href="http://www.ask.com/technology/out-name-searched-85e6b5ad80fd78d7"> How do you find out if your name has been searched? </a></li>
+			  <li><a href="http://www.ask.com/technology/use-weight-watchers-points-calculator-ce0d1b5b5a56425"> How do I use a Weight Watchers points calculator? </a></li>
+			  <li><a href="http://www.ask.com/technology/can-retrieve-deleted-text-messages-a84b003bcc777dd3"> Can you retrieve deleted text messages? </a></li>
+			  <li><a href="http://www.ask.com/technology/create-tick-box-excel-fd1327c0ca1e8872"> How do you create a tick box in Excel? </a></li>
+			  <li><a href="http://www.ask.com/technology/proximity-sensors-work-72da4ba4472985ba"> How do proximity sensors work? </a></li>
+			  <li><a href="http://www.ask.com/technology/burn-mp4-disc-play-dvd-player-4520b59997e68604"> How do you burn an MP4 to disc to play in a DVD player? </a></li>
+			  <li><a href="http://www.ask.com/technology/disadvantages-fax-machine-47cd7298ef896cad"> What are the disadvantages of a fax machine? </a></li>
+			  <li><a href="http://www.ask.com/technology/etsy-work-39a18cb2c7edda9b"> How does Etsy work? </a></li>
+			  <li><a href="http://www.ask.com/technology/access-smith-barney-account-7e26374f55870d27"> How do you access a Smith Barney account? </a></li>
+			  <li><a href="http://www.ask.com/technology/tv-station-shows-boston-pops-christmas-concert-acf40d15169e750d"> What TV station shows the Boston Pops Christmas concert? </a></li>
+			  <li><a href="http://www.ask.com/technology/add-widget-blogger-845ee59f7f29a696"> How do you add a widget to Blogger? </a></li>
+			  <li><a href="http://www.ask.com/technology/difference-between-ddr-ddr2-1c687cbc53336608"> What is the difference between DDR and DDR2? </a></li>
+			  <li><a href="http://www.ask.com/technology/ignition-switch-wiring-diagram-657f0dd3493d05b3"> What is an ignition switch wiring diagram? </a></li>
+			  <li><a href="http://www.ask.com/technology/laptop-run-slowly-c602d8f67075e52b"> Why does my laptop run so slowly? </a></li>
+			  <li><a href="http://www.ask.com/technology/create-chart-excel-1ce293cafe3eb3e2"> How do you create a chart in Excel? </a></li>
+			  <li><a href="http://www.ask.com/technology/save-files-flash-drive-e5ffd4c9e3578924"> How do you save files to a flash drive? </a></li>
+			  <li><a href="http://www.ask.com/technology/someone-close-gmail-account-68ab5ce389d2b615"> How does someone close a Gmail account? </a></li>
+			  <li><a href="http://www.ask.com/technology/advantages-speech-recognition-100fadc6b980a624"> What are some advantages of speech recognition? </a></li>
+			  <li><a href="http://www.ask.com/technology/javascript-void-0-c29ddf90183b97a"> What is a JavaScript Void 0? </a></li>
+			  <li><a href="http://www.ask.com/technology/selenium-ide-96b4b1f387e2b06"> What is the Selenium IDE? </a></li>
+			  <li><a href="http://www.ask.com/technology/error-message-pfn-list-corrupt-indicate-a2574bca2a56fc5a"> What does the error message &quot;PFN list corrupt&quot; indicate? </a></li>
+			  <li><a href="http://www.ask.com/technology/can-play-karaoke-dvd-player-c6c293587c16ee5d"> Can I play karaoke on my DVD player? </a></li>
+			  <li><a href="http://www.ask.com/technology/url-sbc-global-sign-8e438509cb746b81"> What is the URL for the SBC Global sign-in page? </a></li>
+			  <li><a href="http://www.ask.com/technology/main-functions-cpu-b69273fb0ea37190"> What are the main functions of the CPU? </a></li>
+			  <li><a href="http://www.ask.com/technology/delete-songs-ipad-c8af7c9644f67b2c"> How do you delete songs from an iPad? </a></li>
+			  <li><a href="http://www.ask.com/technology/ways-make-degree-symbol-computers-5495f838eab9d258"> What are the ways to make the degree symbol on computers? </a></li>
+			</ul>		
+		</div>
+
+		<div id='footer'>
+			<div id='page_links'>
+				<a class="page-link" href="sitemap-technology1.html"> [1] </a>
+				<a class="page-link" href="sitemap-technology2.html"> [2] </a>
+				<a class="page-link" href="sitemap-technology3.html"> [3] </a>
+				<a class="page-link" href="sitemap-technology4.html"> [4] </a>
+				<a class="page-link" href="sitemap-technology5.html"> [5] </a>
+				<a class="page-link" href="sitemap-technology6.html"> [6] </a>
+				<a class="page-link" href="sitemap-technology7.html"> [7] </a>
+				<a class="page-link" href="sitemap-technology8.html"> [8] </a>
+				<a class="page-link" href="sitemap-technology9.html"> [9] </a>
+				<a class="page-link" href="sitemap-technology10.html"> [10] </a>
+				<a class="page-link" href="sitemap-technology11.html"> [11] </a>
+				<a class="page-link" href="sitemap-technology12.html"> [12] </a>
+				<a class="page-link" href="sitemap-technology13.html"> [13] </a>
+				<a class="page-link" href="sitemap-technology14.html"> [14] </a>
+				<a class="page-link" href="sitemap-technology15.html"> [15] </a>
+				<a class="page-link" href="sitemap-technology16.html"> [16] </a>
+				<a class="page-link" href="sitemap-technology17.html"> [17] </a>
+				<a class="page-link" href="sitemap-technology18.html"> [18] </a>
+				<a class="page-link" href="sitemap-technology19.html"> [19] </a>
+				<a class="page-link" href="sitemap-technology20.html"> [20] </a>
+				<a class="page-link" href="sitemap-technology21.html"> [21] </a>
+				<a class="page-link" href="sitemap-technology22.html"> [22] </a>
+				<a class="page-link" href="sitemap-technology23.html"> [23] </a>
+				<a class="page-link" href="sitemap-technology24.html"> [24] </a>
+				<a class="page-link" href="sitemap-technology25.html"> [25] </a>
+				<a class="page-link" href="sitemap-technology26.html"> [26] </a>
+				<a class="page-link" href="sitemap-technology27.html"> [27] </a>
+				<a class="page-link" href="sitemap-technology28.html"> [28] </a>
+				<a class="page-link" href="sitemap-technology29.html"> [29] </a>
+				<a class="page-link" href="sitemap-technology30.html"> [30] </a>
+				<a class="page-link" href="sitemap-technology31.html"> [31] </a>
+				<a class="page-link" href="sitemap-technology32.html"> [32] </a>
+				<a class="page-link" href="sitemap-technology33.html"> [33] </a>
+				<a class="page-link" href="sitemap-technology34.html"> [34] </a>
+				<a class="page-link" href="sitemap-technology35.html"> [35] </a>
+				<a class="page-link" href="sitemap-technology36.html"> [36] </a>
+				<a class="page-link" href="sitemap-technology37.html"> [37] </a>
+				<a class="page-link" href="sitemap-technology38.html"> [38] </a>
+				<a class="page-link" href="sitemap-technology39.html"> [39] </a>
+				<a class="page-link" href="sitemap-technology40.html"> [40] </a>
+				<a class="page-link" href="sitemap-technology41.html"> [41] </a>
+				<a class="page-link" href="sitemap-technology42.html"> [42] </a>
+				<a class="page-link" href="sitemap-technology43.html"> [43] </a>
+				<a class="page-link" href="sitemap-technology44.html"> [44] </a>
+				<a class="page-link" href="sitemap-technology45.html"> [45] </a>
+				<a class="page-link" href="sitemap-technology46.html"> [46] </a>
+				<a class="page-link" href="sitemap-technology47.html"> [47] </a>
+				<a class="page-link" href="sitemap-technology48.html"> [48] </a>
+				<a class="page-link" href="sitemap-technology49.html"> [49] </a>
+				<a class="page-link" href="sitemap-technology50.html"> [50] </a>
+				<a class="page-link" href="sitemap-technology51.html"> [51] </a>
+				<a class="page-link" href="sitemap-technology52.html"> [52] </a>
+				<a class="page-link" href="sitemap-technology53.html"> [53] </a>
+				<a class="page-link" href="sitemap-technology54.html"> [54] </a>
+				<a class="page-link" href="sitemap-technology55.html"> [55] </a>
+				<a class="page-link" href="sitemap-technology56.html"> [56] </a>
+				<a class="page-link" href="sitemap-technology57.html"> [57] </a>
+				<a class="page-link" href="sitemap-technology58.html"> [58] </a>
+				<a class="page-link" href="sitemap-technology59.html"> [59] </a>
+				<a class="page-link" href="sitemap-technology60.html"> [60] </a>
+				<a class="page-link" href="sitemap-technology61.html"> [61] </a>
+				<a class="page-link" href="sitemap-technology62.html"> [62] </a>
+				<a class="page-link" href="sitemap-technology63.html"> [63] </a>
+				<a class="page-link" href="sitemap-technology64.html"> [64] </a>
+				<a class="page-link" href="sitemap-technology65.html"> [65] </a>
+				<a class="page-link" href="sitemap-technology66.html"> [66] </a>
+				<a class="page-link" href="sitemap-technology67.html"> [67] </a>
+				<a class="page-link" href="sitemap-technology68.html"> [68] </a>
+				<a class="page-link" href="sitemap-technology69.html"> [69] </a>
+				<a class="page-link" href="sitemap-technology70.html"> [70] </a>
+				<a class="page-link" href="sitemap-technology71.html"> [71] </a>
+				<a class="page-link" href="sitemap-technology72.html"> [72] </a>
+				<a class="page-link" href="sitemap-technology73.html"> [73] </a>
+				<a class="page-link" href="sitemap-technology74.html"> [74] </a>
+				<a class="page-link" href="sitemap-technology75.html"> [75] </a>
+				<a class="page-link" href="sitemap-technology76.html"> [76] </a>
+				<a class="page-link" href="sitemap-technology77.html"> [77] </a>
+				<a class="page-link" href="sitemap-technology78.html"> [78] </a>
+				<a class="page-link" href="sitemap-technology79.html"> [79] </a>
+				<a class="page-link" href="sitemap-technology80.html"> [80] </a>
+				<a class="page-link" href="sitemap-technology81.html"> [81] </a>
+				<a class="page-link" href="sitemap-technology82.html"> [82] </a>
+				<a class="page-link" href="sitemap-technology83.html"> [83] </a>
+				<a class="page-link" href="sitemap-technology84.html"> [84] </a>
+				<a class="page-link" href="sitemap-technology85.html"> [85] </a>
+				<a class="page-link" href="sitemap-technology86.html"> [86] </a>
+				<a class="page-link" href="sitemap-technology87.html"> [87] </a>
+				<a class="page-link" href="sitemap-technology88.html"> [88] </a>
+				<a class="page-link" href="sitemap-technology89.html"> [89] </a>
+				<a class="page-link" href="sitemap-technology90.html"> [90] </a>
+				<a class="page-link" href="sitemap-technology91.html"> [91] </a>
+				<a class="page-link" href="sitemap-technology92.html"> [92] </a>
+				<a class="page-link" href="sitemap-technology93.html"> [93] </a>
+				<a class="page-link" href="sitemap-technology94.html"> [94] </a>
+				<a class="page-link" href="sitemap-technology95.html"> [95] </a>
+				<a class="page-link" href="sitemap-technology96.html"> [96] </a>
+				<a class="page-link" href="sitemap-technology97.html"> [97] </a>
+				<a class="page-link" href="sitemap-technology98.html"> [98] </a>
+				<a class="page-link" href="sitemap-technology99.html"> [99] </a>
+				<a class="page-link" href="sitemap-technology100.html"> [100] </a>
+				<a class="page-link" href="sitemap-technology101.html"> [101] </a>
+				<a class="page-link" href="sitemap-technology102.html"> [102] </a>
+				<a class="page-link" href="sitemap-technology103.html"> [103] </a>
+				<a class="page-link" href="sitemap-technology104.html"> [104] </a>
+				<a class="page-link" href="sitemap-technology105.html"> [105] </a>
+				<a class="page-link" href="sitemap-technology106.html"> [106] </a>
+				<a class="page-link" href="sitemap-technology107.html"> [107] </a>
+				<a class="page-link" href="sitemap-technology108.html"> [108] </a>
+				<a class="page-link" href="sitemap-technology109.html"> [109] </a>
+				<a class="page-link" href="sitemap-technology110.html"> [110] </a>
+				<a class="page-link" href="sitemap-technology111.html"> [111] </a>
+				<a class="page-link" href="sitemap-technology112.html"> [112] </a>
+				<a class="page-link" href="sitemap-technology113.html"> [113] </a>
+				<a class="page-link" href="sitemap-technology114.html"> [114] </a>
+				<a class="page-link" href="sitemap-technology115.html"> [115] </a>
+				<a class="page-link" href="sitemap-technology116.html"> [116] </a>
+				<a class="page-link" href="sitemap-technology117.html"> [117] </a>
+				<a class="page-link" href="sitemap-technology118.html"> [118] </a>
+				<a class="page-link" href="sitemap-technology119.html"> [119] </a>
+				<a class="page-link" href="sitemap-technology120.html"> [120] </a>
+				<a class="page-link" href="sitemap-technology121.html"> [121] </a>
+				<a class="page-link" href="sitemap-technology122.html"> [122] </a>
+				<a class="page-link" href="sitemap-technology123.html"> [123] </a>
+				<a class="page-link" href="sitemap-technology124.html"> [124] </a>
+				<a class="page-link" href="sitemap-technology125.html"> [125] </a>
+				<a class="page-link" href="sitemap-technology126.html"> [126] </a>
+				<a class="page-link" href="sitemap-technology127.html"> [127] </a>
+				<a class="page-link" href="sitemap-technology128.html"> [128] </a>
+				<a class="page-link" href="sitemap-technology129.html"> [129] </a>
+				<a class="page-link" href="sitemap-technology130.html"> [130] </a>
+				<a class="page-link" href="sitemap-technology131.html"> [131] </a>
+			</div>
+			<a href='../sitemap.html'> Sitemap Home </a>
+		</div>		
+	</body>
+</html>

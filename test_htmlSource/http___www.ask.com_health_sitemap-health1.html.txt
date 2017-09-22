@@ -1,0 +1,602 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+	<head>
+		<title>Health Sitemap | http://www.ask.com</title>  
+		<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' /> 
+		<style type='text/css'> 
+			
+body{
+	margin: 0px;
+}
+
+#description{      
+	display: block;      
+	background: top left no-repeat;      
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+}  
+.cat-list {
+	list-style-type: none;
+	padding: 0;
+}
+#footer{ 
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+.partial {
+	width: 1080px;
+	margin-left: 85px;
+	display: inline-block;
+	line-height: 20px;
+	font-size: 14px;
+	vertical-align: top;
+	position: relative;
+	overflow: visible;			
+}
+.partial-logo-body {
+	position: relative;
+	overflow: visible;
+	width: 0;
+	float: left;
+}
+.partial-logo-link {
+	position: absolute;
+	z-index: 1;
+	top: 12px;
+	right: 12px;
+	display: block;
+}
+.partial-logo-image-ask {
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: 0 0;
+    width: 75px;
+    height: 54px;
+}
+
+.partial-logo-image-reference {
+    background-image: url(https://www.reference.com/logo.png);
+    background-position: 0 0;
+    width: 162px;
+    height: 27px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+.searchbar-body {
+	float: left;
+	height: 50px;
+	margin-top: 30px;
+}
+.partial-search-bar-box {
+	width: 696px;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	padding: 0 10px;
+	font-family: Sans-Serif;
+	font-size: 16px;
+	font-weight: lighter;
+	border: 1px solid silver;
+}
+.partial-search-bar-box:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.partial-search-bar-button {
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 50px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: -148px -198px;
+}
+.partial-search-bar-button:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.articles {
+	list-style-type: none;
+	padding: 0;
+}
+
+.reference {
+   margin-left: 0;
+   margin-top: 10px;
+}
+
+.reference .partial-logo-body {
+   width: 200px;
+   margin-left: 10px;
+   margin-top: 7px;
+}
+
+.reference .partial-logo-link {
+   position: relative;
+   top: 0;
+   right: 0;
+}
+
+.reference .partial-logo-image-reference {
+   top: 0;
+   left: 0;
+}
+
+.reference .searchbar-body {
+   width: 800px;
+   margin-top: 0;
+   margin-left: 0;
+}
+
+.reference .partial-search-bar-button {
+  background-image: url(https://www.reference.com/search-icon.png);
+  background-position: 12px 14px;
+  position: relative;
+  left: -48px;
+  border-left: 1px solid silver;
+}
+
+
+		</style>
+
+	</head>
+
+		<div class="partial partial-logo ask">
+			<div class="partial partial-logo-body">
+				<a class="partial-logo-link" href="http://www.ask.com">
+					<div class="partial-logo-image-ask"></div>
+				</a>
+			</div>
+
+			<div class="partial searchbar-body">
+			    <form action="http://www.ask.com/web" accept-charset="UTF-8">
+			        <input class="partial-search-bar-box" type="text" name="q" value="" maxlength="2048" autocomplete="off" placeholder="" />
+			        <input class="partial-search-bar-button" type="submit" value="" />
+			            <input type="hidden" name="qsrc" value="0" />
+			            <input type="hidden" name="o" value="0" />
+			            <input type="hidden" name="l" value="dir" />
+			            <input type="hidden" name="qo" value="contentSearchBox" />
+			    </form>
+			</div>  
+		</div>	
+
+
+		<div id='description'>
+				<div id='subcats'>
+					<h1> Subcategories for <a href="http://www.ask.com/health"> Health </a></h1>
+						<a href="http://www.ask.com/health/explore/diagnostics-imaging">Diagnostics Imaging</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/medications-vitamins">Medications Vitamins</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/diet-plans">Diet Plans</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/fitness-exercise">Fitness Exercise</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/medical-ranges-levels">Medical Ranges Levels</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/vitamins-supplements">Vitamins Supplements</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/dental">Dental</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/conditions-diseases">Conditions Diseases</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/cardiac-health">Cardiac Health</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/breaks-sprains">Breaks Sprains</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/home-fitness-equipment">Home Fitness Equipment</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/pregnancy">Pregnancy</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/reproductive-anatomy">Reproductive Anatomy</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/cancer">Cancer</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/insect-animal-bites">Insect Animal Bites</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/drug-interactions">Drug Interactions</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/exercise">Exercise</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/nutrition-diets">Nutrition Diets</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/pain-symptoms">Pain Symptoms</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/muscle-toning">Muscle Toning</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/gastrointestinal-issues">Gastrointestinal Issues</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/childbirth">Childbirth</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/cold-flu">Cold Flu</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/yoga">Yoga</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/skin-conditions">Skin Conditions</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/side-effects">Side Effects</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/mental-health">Mental Health</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/birth-control">Birth Control</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/menstruation">Menstruation</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/nutritional-content">Nutritional Content</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/womens-health">Womens Health</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/vision">Vision</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/nutritional-amounts-limits">Nutritional Amounts Limits</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/dental-hygiene">Dental Hygiene</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/calories-in-food">Calories In Food</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/allergies">Allergies</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/burning-calories">Burning Calories</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/wounds-bruises">Wounds Bruises</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/glasses-contacts">Glasses Contacts</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/race-training-events">Race Training Events</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/stis">Stis</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/older-adults">Older Adults</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/health/explore/running">Running</a>&nbsp&nbsp 
+				</div> 
+			<h1>Articles for <a href="http://www.ask.com/health">Health </a></h1>
+			<ul class="articles">
+			  <li><a href="http://www.ask.com/health/dangers-night-sweats-fcd10badd6d72269"> What are the dangers of night sweats? </a></li>
+			  <li><a href="http://www.ask.com/health/psychosocial-nursing-diagnosis-11064f09fd25552a"> What is a psychosocial nursing diagnosis? </a></li>
+			  <li><a href="http://www.ask.com/health/exercises-reduce-size-waist-c03b0909b84582f3"> What are the best exercises to reduce the size of the waist? </a></li>
+			  <li><a href="http://www.ask.com/health/can-shingles-once-8bee593f4de8a5f9"> Can you get shingles more than once? </a></li>
+			  <li><a href="http://www.ask.com/health/many-flights-stairs-equal-mile-bab0966b609d5e8c"> How many flights of stairs equal a mile? </a></li>
+			  <li><a href="http://www.ask.com/health/causes-high-granulocyte-count-2878a508d4079e70"> What causes a high granulocyte count? </a></li>
+			  <li><a href="http://www.ask.com/health/period-bright-red-orange-color-ca83163351c5b293"> Why is your period a bright red orange color? </a></li>
+			  <li><a href="http://www.ask.com/health/side-effects-dinintel-c6fd2aec14a1fee8"> What are the side effects of Dinintel? </a></li>
+			  <li><a href="http://www.ask.com/health/tamiflu-5e1adebab9830a5c"> What is Tamiflu? </a></li>
+			  <li><a href="http://www.ask.com/health/long-retin-work-54d5395422b67839"> How long does it take Retin-A to work? </a></li>
+			  <li><a href="http://www.ask.com/health/long-after-stop-using-birth-control-patch-can-become-pregnant-f5a1a91e29969be5"> How long after I stop using the birth control patch can I become pregnant? </a></li>
+			  <li><a href="http://www.ask.com/health/can-lose-60-pounds-6-months-831de16320beabb2"> How can you lose 60 pounds in 6 months? </a></li>
+			  <li><a href="http://www.ask.com/health/mouth-taste-like-metal-ffe60a36d074d3db"> Why does my mouth taste like metal? </a></li>
+			  <li><a href="http://www.ask.com/health/long-bruised-finger-heal-901c9a90fd5c842d"> How long does it take for a bruised finger to heal? </a></li>
+			  <li><a href="http://www.ask.com/health/acceptable-range-eosinophils-c858436db2dde548"> What is the acceptable range for eosinophils? </a></li>
+			  <li><a href="http://www.ask.com/health/weight-watcher-s-points-book-6d763078f5fc0fe6"> What is Weight Watcher&#x27;s &quot;points book&quot;? </a></li>
+			  <li><a href="http://www.ask.com/health/difference-between-drug-medicine-4f273e7f2142b078"> What is the difference between a drug and a medicine? </a></li>
+			  <li><a href="http://www.ask.com/health/side-effects-800-milligram-dose-ibuprofen-402bcf23d2b3e6b6"> What are the side effects of an 800 milligram dose of ibuprofen? </a></li>
+			  <li><a href="http://www.ask.com/health/can-make-teeth-whiter-61a9806baf8267ef"> How can you make your teeth whiter? </a></li>
+			</ul>		
+		</div>
+
+		<div id='footer'>
+			<div id='page_links'>
+				<a class="page-link" href="sitemap-health1.html"> [1] </a>
+				<a class="page-link" href="sitemap-health2.html"> [2] </a>
+				<a class="page-link" href="sitemap-health3.html"> [3] </a>
+				<a class="page-link" href="sitemap-health4.html"> [4] </a>
+				<a class="page-link" href="sitemap-health5.html"> [5] </a>
+				<a class="page-link" href="sitemap-health6.html"> [6] </a>
+				<a class="page-link" href="sitemap-health7.html"> [7] </a>
+				<a class="page-link" href="sitemap-health8.html"> [8] </a>
+				<a class="page-link" href="sitemap-health9.html"> [9] </a>
+				<a class="page-link" href="sitemap-health10.html"> [10] </a>
+				<a class="page-link" href="sitemap-health11.html"> [11] </a>
+				<a class="page-link" href="sitemap-health12.html"> [12] </a>
+				<a class="page-link" href="sitemap-health13.html"> [13] </a>
+				<a class="page-link" href="sitemap-health14.html"> [14] </a>
+				<a class="page-link" href="sitemap-health15.html"> [15] </a>
+				<a class="page-link" href="sitemap-health16.html"> [16] </a>
+				<a class="page-link" href="sitemap-health17.html"> [17] </a>
+				<a class="page-link" href="sitemap-health18.html"> [18] </a>
+				<a class="page-link" href="sitemap-health19.html"> [19] </a>
+				<a class="page-link" href="sitemap-health20.html"> [20] </a>
+				<a class="page-link" href="sitemap-health21.html"> [21] </a>
+				<a class="page-link" href="sitemap-health22.html"> [22] </a>
+				<a class="page-link" href="sitemap-health23.html"> [23] </a>
+				<a class="page-link" href="sitemap-health24.html"> [24] </a>
+				<a class="page-link" href="sitemap-health25.html"> [25] </a>
+				<a class="page-link" href="sitemap-health26.html"> [26] </a>
+				<a class="page-link" href="sitemap-health27.html"> [27] </a>
+				<a class="page-link" href="sitemap-health28.html"> [28] </a>
+				<a class="page-link" href="sitemap-health29.html"> [29] </a>
+				<a class="page-link" href="sitemap-health30.html"> [30] </a>
+				<a class="page-link" href="sitemap-health31.html"> [31] </a>
+				<a class="page-link" href="sitemap-health32.html"> [32] </a>
+				<a class="page-link" href="sitemap-health33.html"> [33] </a>
+				<a class="page-link" href="sitemap-health34.html"> [34] </a>
+				<a class="page-link" href="sitemap-health35.html"> [35] </a>
+				<a class="page-link" href="sitemap-health36.html"> [36] </a>
+				<a class="page-link" href="sitemap-health37.html"> [37] </a>
+				<a class="page-link" href="sitemap-health38.html"> [38] </a>
+				<a class="page-link" href="sitemap-health39.html"> [39] </a>
+				<a class="page-link" href="sitemap-health40.html"> [40] </a>
+				<a class="page-link" href="sitemap-health41.html"> [41] </a>
+				<a class="page-link" href="sitemap-health42.html"> [42] </a>
+				<a class="page-link" href="sitemap-health43.html"> [43] </a>
+				<a class="page-link" href="sitemap-health44.html"> [44] </a>
+				<a class="page-link" href="sitemap-health45.html"> [45] </a>
+				<a class="page-link" href="sitemap-health46.html"> [46] </a>
+				<a class="page-link" href="sitemap-health47.html"> [47] </a>
+				<a class="page-link" href="sitemap-health48.html"> [48] </a>
+				<a class="page-link" href="sitemap-health49.html"> [49] </a>
+				<a class="page-link" href="sitemap-health50.html"> [50] </a>
+				<a class="page-link" href="sitemap-health51.html"> [51] </a>
+				<a class="page-link" href="sitemap-health52.html"> [52] </a>
+				<a class="page-link" href="sitemap-health53.html"> [53] </a>
+				<a class="page-link" href="sitemap-health54.html"> [54] </a>
+				<a class="page-link" href="sitemap-health55.html"> [55] </a>
+				<a class="page-link" href="sitemap-health56.html"> [56] </a>
+				<a class="page-link" href="sitemap-health57.html"> [57] </a>
+				<a class="page-link" href="sitemap-health58.html"> [58] </a>
+				<a class="page-link" href="sitemap-health59.html"> [59] </a>
+				<a class="page-link" href="sitemap-health60.html"> [60] </a>
+				<a class="page-link" href="sitemap-health61.html"> [61] </a>
+				<a class="page-link" href="sitemap-health62.html"> [62] </a>
+				<a class="page-link" href="sitemap-health63.html"> [63] </a>
+				<a class="page-link" href="sitemap-health64.html"> [64] </a>
+				<a class="page-link" href="sitemap-health65.html"> [65] </a>
+				<a class="page-link" href="sitemap-health66.html"> [66] </a>
+				<a class="page-link" href="sitemap-health67.html"> [67] </a>
+				<a class="page-link" href="sitemap-health68.html"> [68] </a>
+				<a class="page-link" href="sitemap-health69.html"> [69] </a>
+				<a class="page-link" href="sitemap-health70.html"> [70] </a>
+				<a class="page-link" href="sitemap-health71.html"> [71] </a>
+				<a class="page-link" href="sitemap-health72.html"> [72] </a>
+				<a class="page-link" href="sitemap-health73.html"> [73] </a>
+				<a class="page-link" href="sitemap-health74.html"> [74] </a>
+				<a class="page-link" href="sitemap-health75.html"> [75] </a>
+				<a class="page-link" href="sitemap-health76.html"> [76] </a>
+				<a class="page-link" href="sitemap-health77.html"> [77] </a>
+				<a class="page-link" href="sitemap-health78.html"> [78] </a>
+				<a class="page-link" href="sitemap-health79.html"> [79] </a>
+				<a class="page-link" href="sitemap-health80.html"> [80] </a>
+				<a class="page-link" href="sitemap-health81.html"> [81] </a>
+				<a class="page-link" href="sitemap-health82.html"> [82] </a>
+				<a class="page-link" href="sitemap-health83.html"> [83] </a>
+				<a class="page-link" href="sitemap-health84.html"> [84] </a>
+				<a class="page-link" href="sitemap-health85.html"> [85] </a>
+				<a class="page-link" href="sitemap-health86.html"> [86] </a>
+				<a class="page-link" href="sitemap-health87.html"> [87] </a>
+				<a class="page-link" href="sitemap-health88.html"> [88] </a>
+				<a class="page-link" href="sitemap-health89.html"> [89] </a>
+				<a class="page-link" href="sitemap-health90.html"> [90] </a>
+				<a class="page-link" href="sitemap-health91.html"> [91] </a>
+				<a class="page-link" href="sitemap-health92.html"> [92] </a>
+				<a class="page-link" href="sitemap-health93.html"> [93] </a>
+				<a class="page-link" href="sitemap-health94.html"> [94] </a>
+				<a class="page-link" href="sitemap-health95.html"> [95] </a>
+				<a class="page-link" href="sitemap-health96.html"> [96] </a>
+				<a class="page-link" href="sitemap-health97.html"> [97] </a>
+				<a class="page-link" href="sitemap-health98.html"> [98] </a>
+				<a class="page-link" href="sitemap-health99.html"> [99] </a>
+				<a class="page-link" href="sitemap-health100.html"> [100] </a>
+				<a class="page-link" href="sitemap-health101.html"> [101] </a>
+				<a class="page-link" href="sitemap-health102.html"> [102] </a>
+				<a class="page-link" href="sitemap-health103.html"> [103] </a>
+				<a class="page-link" href="sitemap-health104.html"> [104] </a>
+				<a class="page-link" href="sitemap-health105.html"> [105] </a>
+				<a class="page-link" href="sitemap-health106.html"> [106] </a>
+				<a class="page-link" href="sitemap-health107.html"> [107] </a>
+				<a class="page-link" href="sitemap-health108.html"> [108] </a>
+				<a class="page-link" href="sitemap-health109.html"> [109] </a>
+				<a class="page-link" href="sitemap-health110.html"> [110] </a>
+				<a class="page-link" href="sitemap-health111.html"> [111] </a>
+				<a class="page-link" href="sitemap-health112.html"> [112] </a>
+				<a class="page-link" href="sitemap-health113.html"> [113] </a>
+				<a class="page-link" href="sitemap-health114.html"> [114] </a>
+				<a class="page-link" href="sitemap-health115.html"> [115] </a>
+				<a class="page-link" href="sitemap-health116.html"> [116] </a>
+				<a class="page-link" href="sitemap-health117.html"> [117] </a>
+				<a class="page-link" href="sitemap-health118.html"> [118] </a>
+				<a class="page-link" href="sitemap-health119.html"> [119] </a>
+				<a class="page-link" href="sitemap-health120.html"> [120] </a>
+				<a class="page-link" href="sitemap-health121.html"> [121] </a>
+				<a class="page-link" href="sitemap-health122.html"> [122] </a>
+				<a class="page-link" href="sitemap-health123.html"> [123] </a>
+				<a class="page-link" href="sitemap-health124.html"> [124] </a>
+				<a class="page-link" href="sitemap-health125.html"> [125] </a>
+				<a class="page-link" href="sitemap-health126.html"> [126] </a>
+				<a class="page-link" href="sitemap-health127.html"> [127] </a>
+				<a class="page-link" href="sitemap-health128.html"> [128] </a>
+				<a class="page-link" href="sitemap-health129.html"> [129] </a>
+				<a class="page-link" href="sitemap-health130.html"> [130] </a>
+				<a class="page-link" href="sitemap-health131.html"> [131] </a>
+				<a class="page-link" href="sitemap-health132.html"> [132] </a>
+				<a class="page-link" href="sitemap-health133.html"> [133] </a>
+				<a class="page-link" href="sitemap-health134.html"> [134] </a>
+				<a class="page-link" href="sitemap-health135.html"> [135] </a>
+				<a class="page-link" href="sitemap-health136.html"> [136] </a>
+				<a class="page-link" href="sitemap-health137.html"> [137] </a>
+				<a class="page-link" href="sitemap-health138.html"> [138] </a>
+				<a class="page-link" href="sitemap-health139.html"> [139] </a>
+				<a class="page-link" href="sitemap-health140.html"> [140] </a>
+				<a class="page-link" href="sitemap-health141.html"> [141] </a>
+				<a class="page-link" href="sitemap-health142.html"> [142] </a>
+				<a class="page-link" href="sitemap-health143.html"> [143] </a>
+				<a class="page-link" href="sitemap-health144.html"> [144] </a>
+				<a class="page-link" href="sitemap-health145.html"> [145] </a>
+				<a class="page-link" href="sitemap-health146.html"> [146] </a>
+				<a class="page-link" href="sitemap-health147.html"> [147] </a>
+				<a class="page-link" href="sitemap-health148.html"> [148] </a>
+				<a class="page-link" href="sitemap-health149.html"> [149] </a>
+				<a class="page-link" href="sitemap-health150.html"> [150] </a>
+				<a class="page-link" href="sitemap-health151.html"> [151] </a>
+				<a class="page-link" href="sitemap-health152.html"> [152] </a>
+				<a class="page-link" href="sitemap-health153.html"> [153] </a>
+				<a class="page-link" href="sitemap-health154.html"> [154] </a>
+				<a class="page-link" href="sitemap-health155.html"> [155] </a>
+				<a class="page-link" href="sitemap-health156.html"> [156] </a>
+				<a class="page-link" href="sitemap-health157.html"> [157] </a>
+				<a class="page-link" href="sitemap-health158.html"> [158] </a>
+				<a class="page-link" href="sitemap-health159.html"> [159] </a>
+				<a class="page-link" href="sitemap-health160.html"> [160] </a>
+				<a class="page-link" href="sitemap-health161.html"> [161] </a>
+				<a class="page-link" href="sitemap-health162.html"> [162] </a>
+				<a class="page-link" href="sitemap-health163.html"> [163] </a>
+				<a class="page-link" href="sitemap-health164.html"> [164] </a>
+				<a class="page-link" href="sitemap-health165.html"> [165] </a>
+				<a class="page-link" href="sitemap-health166.html"> [166] </a>
+				<a class="page-link" href="sitemap-health167.html"> [167] </a>
+				<a class="page-link" href="sitemap-health168.html"> [168] </a>
+				<a class="page-link" href="sitemap-health169.html"> [169] </a>
+				<a class="page-link" href="sitemap-health170.html"> [170] </a>
+				<a class="page-link" href="sitemap-health171.html"> [171] </a>
+				<a class="page-link" href="sitemap-health172.html"> [172] </a>
+				<a class="page-link" href="sitemap-health173.html"> [173] </a>
+				<a class="page-link" href="sitemap-health174.html"> [174] </a>
+				<a class="page-link" href="sitemap-health175.html"> [175] </a>
+				<a class="page-link" href="sitemap-health176.html"> [176] </a>
+				<a class="page-link" href="sitemap-health177.html"> [177] </a>
+				<a class="page-link" href="sitemap-health178.html"> [178] </a>
+				<a class="page-link" href="sitemap-health179.html"> [179] </a>
+				<a class="page-link" href="sitemap-health180.html"> [180] </a>
+				<a class="page-link" href="sitemap-health181.html"> [181] </a>
+				<a class="page-link" href="sitemap-health182.html"> [182] </a>
+				<a class="page-link" href="sitemap-health183.html"> [183] </a>
+				<a class="page-link" href="sitemap-health184.html"> [184] </a>
+				<a class="page-link" href="sitemap-health185.html"> [185] </a>
+				<a class="page-link" href="sitemap-health186.html"> [186] </a>
+				<a class="page-link" href="sitemap-health187.html"> [187] </a>
+				<a class="page-link" href="sitemap-health188.html"> [188] </a>
+				<a class="page-link" href="sitemap-health189.html"> [189] </a>
+				<a class="page-link" href="sitemap-health190.html"> [190] </a>
+				<a class="page-link" href="sitemap-health191.html"> [191] </a>
+				<a class="page-link" href="sitemap-health192.html"> [192] </a>
+				<a class="page-link" href="sitemap-health193.html"> [193] </a>
+				<a class="page-link" href="sitemap-health194.html"> [194] </a>
+				<a class="page-link" href="sitemap-health195.html"> [195] </a>
+				<a class="page-link" href="sitemap-health196.html"> [196] </a>
+				<a class="page-link" href="sitemap-health197.html"> [197] </a>
+				<a class="page-link" href="sitemap-health198.html"> [198] </a>
+				<a class="page-link" href="sitemap-health199.html"> [199] </a>
+				<a class="page-link" href="sitemap-health200.html"> [200] </a>
+				<a class="page-link" href="sitemap-health201.html"> [201] </a>
+				<a class="page-link" href="sitemap-health202.html"> [202] </a>
+				<a class="page-link" href="sitemap-health203.html"> [203] </a>
+				<a class="page-link" href="sitemap-health204.html"> [204] </a>
+				<a class="page-link" href="sitemap-health205.html"> [205] </a>
+				<a class="page-link" href="sitemap-health206.html"> [206] </a>
+				<a class="page-link" href="sitemap-health207.html"> [207] </a>
+				<a class="page-link" href="sitemap-health208.html"> [208] </a>
+				<a class="page-link" href="sitemap-health209.html"> [209] </a>
+				<a class="page-link" href="sitemap-health210.html"> [210] </a>
+				<a class="page-link" href="sitemap-health211.html"> [211] </a>
+				<a class="page-link" href="sitemap-health212.html"> [212] </a>
+				<a class="page-link" href="sitemap-health213.html"> [213] </a>
+				<a class="page-link" href="sitemap-health214.html"> [214] </a>
+				<a class="page-link" href="sitemap-health215.html"> [215] </a>
+				<a class="page-link" href="sitemap-health216.html"> [216] </a>
+				<a class="page-link" href="sitemap-health217.html"> [217] </a>
+				<a class="page-link" href="sitemap-health218.html"> [218] </a>
+				<a class="page-link" href="sitemap-health219.html"> [219] </a>
+				<a class="page-link" href="sitemap-health220.html"> [220] </a>
+				<a class="page-link" href="sitemap-health221.html"> [221] </a>
+				<a class="page-link" href="sitemap-health222.html"> [222] </a>
+				<a class="page-link" href="sitemap-health223.html"> [223] </a>
+				<a class="page-link" href="sitemap-health224.html"> [224] </a>
+				<a class="page-link" href="sitemap-health225.html"> [225] </a>
+				<a class="page-link" href="sitemap-health226.html"> [226] </a>
+				<a class="page-link" href="sitemap-health227.html"> [227] </a>
+				<a class="page-link" href="sitemap-health228.html"> [228] </a>
+				<a class="page-link" href="sitemap-health229.html"> [229] </a>
+				<a class="page-link" href="sitemap-health230.html"> [230] </a>
+				<a class="page-link" href="sitemap-health231.html"> [231] </a>
+				<a class="page-link" href="sitemap-health232.html"> [232] </a>
+				<a class="page-link" href="sitemap-health233.html"> [233] </a>
+				<a class="page-link" href="sitemap-health234.html"> [234] </a>
+				<a class="page-link" href="sitemap-health235.html"> [235] </a>
+				<a class="page-link" href="sitemap-health236.html"> [236] </a>
+				<a class="page-link" href="sitemap-health237.html"> [237] </a>
+				<a class="page-link" href="sitemap-health238.html"> [238] </a>
+				<a class="page-link" href="sitemap-health239.html"> [239] </a>
+				<a class="page-link" href="sitemap-health240.html"> [240] </a>
+				<a class="page-link" href="sitemap-health241.html"> [241] </a>
+				<a class="page-link" href="sitemap-health242.html"> [242] </a>
+				<a class="page-link" href="sitemap-health243.html"> [243] </a>
+				<a class="page-link" href="sitemap-health244.html"> [244] </a>
+				<a class="page-link" href="sitemap-health245.html"> [245] </a>
+				<a class="page-link" href="sitemap-health246.html"> [246] </a>
+				<a class="page-link" href="sitemap-health247.html"> [247] </a>
+				<a class="page-link" href="sitemap-health248.html"> [248] </a>
+				<a class="page-link" href="sitemap-health249.html"> [249] </a>
+				<a class="page-link" href="sitemap-health250.html"> [250] </a>
+				<a class="page-link" href="sitemap-health251.html"> [251] </a>
+				<a class="page-link" href="sitemap-health252.html"> [252] </a>
+				<a class="page-link" href="sitemap-health253.html"> [253] </a>
+				<a class="page-link" href="sitemap-health254.html"> [254] </a>
+				<a class="page-link" href="sitemap-health255.html"> [255] </a>
+				<a class="page-link" href="sitemap-health256.html"> [256] </a>
+				<a class="page-link" href="sitemap-health257.html"> [257] </a>
+				<a class="page-link" href="sitemap-health258.html"> [258] </a>
+				<a class="page-link" href="sitemap-health259.html"> [259] </a>
+				<a class="page-link" href="sitemap-health260.html"> [260] </a>
+				<a class="page-link" href="sitemap-health261.html"> [261] </a>
+				<a class="page-link" href="sitemap-health262.html"> [262] </a>
+				<a class="page-link" href="sitemap-health263.html"> [263] </a>
+				<a class="page-link" href="sitemap-health264.html"> [264] </a>
+				<a class="page-link" href="sitemap-health265.html"> [265] </a>
+				<a class="page-link" href="sitemap-health266.html"> [266] </a>
+				<a class="page-link" href="sitemap-health267.html"> [267] </a>
+				<a class="page-link" href="sitemap-health268.html"> [268] </a>
+				<a class="page-link" href="sitemap-health269.html"> [269] </a>
+				<a class="page-link" href="sitemap-health270.html"> [270] </a>
+				<a class="page-link" href="sitemap-health271.html"> [271] </a>
+				<a class="page-link" href="sitemap-health272.html"> [272] </a>
+				<a class="page-link" href="sitemap-health273.html"> [273] </a>
+				<a class="page-link" href="sitemap-health274.html"> [274] </a>
+				<a class="page-link" href="sitemap-health275.html"> [275] </a>
+				<a class="page-link" href="sitemap-health276.html"> [276] </a>
+				<a class="page-link" href="sitemap-health277.html"> [277] </a>
+				<a class="page-link" href="sitemap-health278.html"> [278] </a>
+				<a class="page-link" href="sitemap-health279.html"> [279] </a>
+				<a class="page-link" href="sitemap-health280.html"> [280] </a>
+				<a class="page-link" href="sitemap-health281.html"> [281] </a>
+				<a class="page-link" href="sitemap-health282.html"> [282] </a>
+				<a class="page-link" href="sitemap-health283.html"> [283] </a>
+				<a class="page-link" href="sitemap-health284.html"> [284] </a>
+				<a class="page-link" href="sitemap-health285.html"> [285] </a>
+				<a class="page-link" href="sitemap-health286.html"> [286] </a>
+				<a class="page-link" href="sitemap-health287.html"> [287] </a>
+				<a class="page-link" href="sitemap-health288.html"> [288] </a>
+				<a class="page-link" href="sitemap-health289.html"> [289] </a>
+				<a class="page-link" href="sitemap-health290.html"> [290] </a>
+				<a class="page-link" href="sitemap-health291.html"> [291] </a>
+				<a class="page-link" href="sitemap-health292.html"> [292] </a>
+				<a class="page-link" href="sitemap-health293.html"> [293] </a>
+				<a class="page-link" href="sitemap-health294.html"> [294] </a>
+				<a class="page-link" href="sitemap-health295.html"> [295] </a>
+				<a class="page-link" href="sitemap-health296.html"> [296] </a>
+				<a class="page-link" href="sitemap-health297.html"> [297] </a>
+				<a class="page-link" href="sitemap-health298.html"> [298] </a>
+				<a class="page-link" href="sitemap-health299.html"> [299] </a>
+				<a class="page-link" href="sitemap-health300.html"> [300] </a>
+				<a class="page-link" href="sitemap-health301.html"> [301] </a>
+				<a class="page-link" href="sitemap-health302.html"> [302] </a>
+				<a class="page-link" href="sitemap-health303.html"> [303] </a>
+				<a class="page-link" href="sitemap-health304.html"> [304] </a>
+				<a class="page-link" href="sitemap-health305.html"> [305] </a>
+				<a class="page-link" href="sitemap-health306.html"> [306] </a>
+				<a class="page-link" href="sitemap-health307.html"> [307] </a>
+				<a class="page-link" href="sitemap-health308.html"> [308] </a>
+				<a class="page-link" href="sitemap-health309.html"> [309] </a>
+				<a class="page-link" href="sitemap-health310.html"> [310] </a>
+				<a class="page-link" href="sitemap-health311.html"> [311] </a>
+				<a class="page-link" href="sitemap-health312.html"> [312] </a>
+				<a class="page-link" href="sitemap-health313.html"> [313] </a>
+				<a class="page-link" href="sitemap-health314.html"> [314] </a>
+				<a class="page-link" href="sitemap-health315.html"> [315] </a>
+				<a class="page-link" href="sitemap-health316.html"> [316] </a>
+				<a class="page-link" href="sitemap-health317.html"> [317] </a>
+				<a class="page-link" href="sitemap-health318.html"> [318] </a>
+				<a class="page-link" href="sitemap-health319.html"> [319] </a>
+				<a class="page-link" href="sitemap-health320.html"> [320] </a>
+				<a class="page-link" href="sitemap-health321.html"> [321] </a>
+				<a class="page-link" href="sitemap-health322.html"> [322] </a>
+				<a class="page-link" href="sitemap-health323.html"> [323] </a>
+				<a class="page-link" href="sitemap-health324.html"> [324] </a>
+				<a class="page-link" href="sitemap-health325.html"> [325] </a>
+				<a class="page-link" href="sitemap-health326.html"> [326] </a>
+				<a class="page-link" href="sitemap-health327.html"> [327] </a>
+				<a class="page-link" href="sitemap-health328.html"> [328] </a>
+				<a class="page-link" href="sitemap-health329.html"> [329] </a>
+				<a class="page-link" href="sitemap-health330.html"> [330] </a>
+				<a class="page-link" href="sitemap-health331.html"> [331] </a>
+				<a class="page-link" href="sitemap-health332.html"> [332] </a>
+				<a class="page-link" href="sitemap-health333.html"> [333] </a>
+				<a class="page-link" href="sitemap-health334.html"> [334] </a>
+				<a class="page-link" href="sitemap-health335.html"> [335] </a>
+				<a class="page-link" href="sitemap-health336.html"> [336] </a>
+				<a class="page-link" href="sitemap-health337.html"> [337] </a>
+				<a class="page-link" href="sitemap-health338.html"> [338] </a>
+				<a class="page-link" href="sitemap-health339.html"> [339] </a>
+				<a class="page-link" href="sitemap-health340.html"> [340] </a>
+				<a class="page-link" href="sitemap-health341.html"> [341] </a>
+				<a class="page-link" href="sitemap-health342.html"> [342] </a>
+				<a class="page-link" href="sitemap-health343.html"> [343] </a>
+				<a class="page-link" href="sitemap-health344.html"> [344] </a>
+				<a class="page-link" href="sitemap-health345.html"> [345] </a>
+				<a class="page-link" href="sitemap-health346.html"> [346] </a>
+				<a class="page-link" href="sitemap-health347.html"> [347] </a>
+				<a class="page-link" href="sitemap-health348.html"> [348] </a>
+				<a class="page-link" href="sitemap-health349.html"> [349] </a>
+				<a class="page-link" href="sitemap-health350.html"> [350] </a>
+				<a class="page-link" href="sitemap-health351.html"> [351] </a>
+			</div>
+			<a href='../sitemap.html'> Sitemap Home </a>
+		</div>		
+	</body>
+</html>

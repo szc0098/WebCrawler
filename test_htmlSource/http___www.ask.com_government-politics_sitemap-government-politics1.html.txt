@@ -1,0 +1,370 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+	<head>
+		<title>Government Politics Sitemap | http://www.ask.com</title>  
+		<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' /> 
+		<style type='text/css'> 
+			
+body{
+	margin: 0px;
+}
+
+#description{      
+	display: block;      
+	background: top left no-repeat;      
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+}  
+.cat-list {
+	list-style-type: none;
+	padding: 0;
+}
+#footer{ 
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+.partial {
+	width: 1080px;
+	margin-left: 85px;
+	display: inline-block;
+	line-height: 20px;
+	font-size: 14px;
+	vertical-align: top;
+	position: relative;
+	overflow: visible;			
+}
+.partial-logo-body {
+	position: relative;
+	overflow: visible;
+	width: 0;
+	float: left;
+}
+.partial-logo-link {
+	position: absolute;
+	z-index: 1;
+	top: 12px;
+	right: 12px;
+	display: block;
+}
+.partial-logo-image-ask {
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: 0 0;
+    width: 75px;
+    height: 54px;
+}
+
+.partial-logo-image-reference {
+    background-image: url(https://www.reference.com/logo.png);
+    background-position: 0 0;
+    width: 162px;
+    height: 27px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+.searchbar-body {
+	float: left;
+	height: 50px;
+	margin-top: 30px;
+}
+.partial-search-bar-box {
+	width: 696px;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	padding: 0 10px;
+	font-family: Sans-Serif;
+	font-size: 16px;
+	font-weight: lighter;
+	border: 1px solid silver;
+}
+.partial-search-bar-box:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.partial-search-bar-button {
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 50px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: -148px -198px;
+}
+.partial-search-bar-button:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.articles {
+	list-style-type: none;
+	padding: 0;
+}
+
+.reference {
+   margin-left: 0;
+   margin-top: 10px;
+}
+
+.reference .partial-logo-body {
+   width: 200px;
+   margin-left: 10px;
+   margin-top: 7px;
+}
+
+.reference .partial-logo-link {
+   position: relative;
+   top: 0;
+   right: 0;
+}
+
+.reference .partial-logo-image-reference {
+   top: 0;
+   left: 0;
+}
+
+.reference .searchbar-body {
+   width: 800px;
+   margin-top: 0;
+   margin-left: 0;
+}
+
+.reference .partial-search-bar-button {
+  background-image: url(https://www.reference.com/search-icon.png);
+  background-position: 12px 14px;
+  position: relative;
+  left: -48px;
+  border-left: 1px solid silver;
+}
+
+
+		</style>
+
+	</head>
+
+		<div class="partial partial-logo ask">
+			<div class="partial partial-logo-body">
+				<a class="partial-logo-link" href="http://www.ask.com">
+					<div class="partial-logo-image-ask"></div>
+				</a>
+			</div>
+
+			<div class="partial searchbar-body">
+			    <form action="http://www.ask.com/web" accept-charset="UTF-8">
+			        <input class="partial-search-bar-box" type="text" name="q" value="" maxlength="2048" autocomplete="off" placeholder="" />
+			        <input class="partial-search-bar-button" type="submit" value="" />
+			            <input type="hidden" name="qsrc" value="0" />
+			            <input type="hidden" name="o" value="0" />
+			            <input type="hidden" name="l" value="dir" />
+			            <input type="hidden" name="qo" value="contentSearchBox" />
+			    </form>
+			</div>  
+		</div>	
+
+
+		<div id='description'>
+				<div id='subcats'>
+					<h1> Subcategories for <a href="http://www.ask.com/government-politics"> Government Politics </a></h1>
+						<a href="http://www.ask.com/government-politics/explore/law">Law</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/crime">Crime</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/legal-ages">Legal Ages</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/military">Military</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/types-of-government">Types Of Government</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/social-services">Social Services</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/is-this-illegal">Is This Illegal</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/public-records">Public Records</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/branches-of-government">Branches Of Government</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/politics">Politics</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/political-parties">Political Parties</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/immigration">Immigration</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/driving-laws">Driving Laws</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/law-enforcement">Law Enforcement</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/child-support-custody">Child Support Custody</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/debt-law">Debt Law</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/foreign-laws">Foreign Laws</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/us-government">Us Government</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/international-orgs">International Orgs</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/the-constitution">The Constitution</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/elections">Elections</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/guns-weapons-laws">Guns Weapons Laws</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/monarchies">Monarchies</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/government-politics/explore/famous-crimes">Famous Crimes</a>&nbsp&nbsp 
+				</div> 
+			<h1>Articles for <a href="http://www.ask.com/government-politics">Government Politics </a></h1>
+			<ul class="articles">
+			  <li><a href="http://www.ask.com/government-politics/main-point-14th-amendment-ec985b6d5f2b9b0e"> What was the main point of the 14th Amendment? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/godfather-based-true-cbf3419467e91b36"> Was The Godfather based on true facts? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/leader-house-representatives-2c207dd36a304370"> Who is the leader of the House of Representatives? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/better-apply-ssi-online-person-3d3ca769013d576f"> Is it better to apply for SSI online or in person? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/way-tell-looking-5686a92c27f847c1"> Is there a free way to tell who is looking for me? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/legal-pet-giraffe-united-states-ea798b32614ffe95"> Is it legal to have a pet giraffe in the United States? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/ssi-eligibility-requirements-c0d1838ec652781a"> What are the SSI eligibility requirements? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/sample-expungement-letter-145cee8d428efbb1"> What is a sample expungement letter? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/can-debt-collector-car-679932ecb75c0850"> Can a debt collector take my car? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/become-recon-marine-c6a6af4e8897e8c2"> How do you become a Recon Marine? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/exempt-va-funding-fee-af8548544ff1cc6f"> Who is exempt from the VA funding fee? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/check-fraud-felony-ee781a47d4a44315"> Is check fraud a felony? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/can-someone-89cb51aeb708c0ba"> How can I find someone for free? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/11th-amendment-7d5252f28daf7dee"> What is the 11th Amendment? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/age-child-stop-getting-child-support-new-york-state-7ac2f429fae4c0fc"> At what age does a child stop getting child support in New York state? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/things-can-turn-18-72dd91e067f783b1"> What are some things you can do when you turn 18? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/democratic-party-headquarters-located-8971158d8ad5abea"> Where are the Democratic Party headquarters located? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/definition-loose-construction-7845e0e108108d72"> What is the definition of &quot;loose construction&quot;? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/appeal-eeoc-complaint-2e1c90bfa2468e8c"> How do you appeal an EEOC complaint? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/copy-south-carolina-birth-certificate-66beb53a04ad9c39"> How do you get a copy of a South Carolina birth certificate? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/can-neighbor-trim-trees-permission-94c433ba578ea7ab"> Can my neighbor trim my trees without permission? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/international-calling-code-u-s-69309b0a56cecc15"> What is the international calling code for the U.S.? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/meaning-27th-amendment-ec993cb862db99e2"> What is the meaning of the 27th Amendment? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/dodd-frank-legislation-19e71ce610124bc1"> What is the Dodd-Frank legislation? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/name-president-france-dee982f90fdc1628"> What is the name of the president of France? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/section-8-fraud-d3bb0b2a001e3bd8"> What is Section 8 fraud? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/california-s-runaway-laws-449b8bc8718fcd04"> What are California&#x27;s runaway laws? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/child-left-behind-act-3b4733c9c40054f4"> What is the No Child Left Behind Act? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/white-curb-mean-3fc0812545b0bb25"> What does a white curb mean? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/much-money-sultan-brunei-8ccbabcc240ea7d1"> How much money does the Sultan of Brunei have? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/consent-order-b3192256b94e4d2e"> What is a consent order? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/file-florida-bar-association-complaint-6216949d789ba41e"> How do you file a Florida Bar Association complaint? </a></li>
+			  <li><a href="http://www.ask.com/government-politics/call-list-53755738cd422dba"> What is a &quot;do not call list&quot;? </a></li>
+			</ul>		
+		</div>
+
+		<div id='footer'>
+			<div id='page_links'>
+				<a class="page-link" href="sitemap-government-politics1.html"> [1] </a>
+				<a class="page-link" href="sitemap-government-politics2.html"> [2] </a>
+				<a class="page-link" href="sitemap-government-politics3.html"> [3] </a>
+				<a class="page-link" href="sitemap-government-politics4.html"> [4] </a>
+				<a class="page-link" href="sitemap-government-politics5.html"> [5] </a>
+				<a class="page-link" href="sitemap-government-politics6.html"> [6] </a>
+				<a class="page-link" href="sitemap-government-politics7.html"> [7] </a>
+				<a class="page-link" href="sitemap-government-politics8.html"> [8] </a>
+				<a class="page-link" href="sitemap-government-politics9.html"> [9] </a>
+				<a class="page-link" href="sitemap-government-politics10.html"> [10] </a>
+				<a class="page-link" href="sitemap-government-politics11.html"> [11] </a>
+				<a class="page-link" href="sitemap-government-politics12.html"> [12] </a>
+				<a class="page-link" href="sitemap-government-politics13.html"> [13] </a>
+				<a class="page-link" href="sitemap-government-politics14.html"> [14] </a>
+				<a class="page-link" href="sitemap-government-politics15.html"> [15] </a>
+				<a class="page-link" href="sitemap-government-politics16.html"> [16] </a>
+				<a class="page-link" href="sitemap-government-politics17.html"> [17] </a>
+				<a class="page-link" href="sitemap-government-politics18.html"> [18] </a>
+				<a class="page-link" href="sitemap-government-politics19.html"> [19] </a>
+				<a class="page-link" href="sitemap-government-politics20.html"> [20] </a>
+				<a class="page-link" href="sitemap-government-politics21.html"> [21] </a>
+				<a class="page-link" href="sitemap-government-politics22.html"> [22] </a>
+				<a class="page-link" href="sitemap-government-politics23.html"> [23] </a>
+				<a class="page-link" href="sitemap-government-politics24.html"> [24] </a>
+				<a class="page-link" href="sitemap-government-politics25.html"> [25] </a>
+				<a class="page-link" href="sitemap-government-politics26.html"> [26] </a>
+				<a class="page-link" href="sitemap-government-politics27.html"> [27] </a>
+				<a class="page-link" href="sitemap-government-politics28.html"> [28] </a>
+				<a class="page-link" href="sitemap-government-politics29.html"> [29] </a>
+				<a class="page-link" href="sitemap-government-politics30.html"> [30] </a>
+				<a class="page-link" href="sitemap-government-politics31.html"> [31] </a>
+				<a class="page-link" href="sitemap-government-politics32.html"> [32] </a>
+				<a class="page-link" href="sitemap-government-politics33.html"> [33] </a>
+				<a class="page-link" href="sitemap-government-politics34.html"> [34] </a>
+				<a class="page-link" href="sitemap-government-politics35.html"> [35] </a>
+				<a class="page-link" href="sitemap-government-politics36.html"> [36] </a>
+				<a class="page-link" href="sitemap-government-politics37.html"> [37] </a>
+				<a class="page-link" href="sitemap-government-politics38.html"> [38] </a>
+				<a class="page-link" href="sitemap-government-politics39.html"> [39] </a>
+				<a class="page-link" href="sitemap-government-politics40.html"> [40] </a>
+				<a class="page-link" href="sitemap-government-politics41.html"> [41] </a>
+				<a class="page-link" href="sitemap-government-politics42.html"> [42] </a>
+				<a class="page-link" href="sitemap-government-politics43.html"> [43] </a>
+				<a class="page-link" href="sitemap-government-politics44.html"> [44] </a>
+				<a class="page-link" href="sitemap-government-politics45.html"> [45] </a>
+				<a class="page-link" href="sitemap-government-politics46.html"> [46] </a>
+				<a class="page-link" href="sitemap-government-politics47.html"> [47] </a>
+				<a class="page-link" href="sitemap-government-politics48.html"> [48] </a>
+				<a class="page-link" href="sitemap-government-politics49.html"> [49] </a>
+				<a class="page-link" href="sitemap-government-politics50.html"> [50] </a>
+				<a class="page-link" href="sitemap-government-politics51.html"> [51] </a>
+				<a class="page-link" href="sitemap-government-politics52.html"> [52] </a>
+				<a class="page-link" href="sitemap-government-politics53.html"> [53] </a>
+				<a class="page-link" href="sitemap-government-politics54.html"> [54] </a>
+				<a class="page-link" href="sitemap-government-politics55.html"> [55] </a>
+				<a class="page-link" href="sitemap-government-politics56.html"> [56] </a>
+				<a class="page-link" href="sitemap-government-politics57.html"> [57] </a>
+				<a class="page-link" href="sitemap-government-politics58.html"> [58] </a>
+				<a class="page-link" href="sitemap-government-politics59.html"> [59] </a>
+				<a class="page-link" href="sitemap-government-politics60.html"> [60] </a>
+				<a class="page-link" href="sitemap-government-politics61.html"> [61] </a>
+				<a class="page-link" href="sitemap-government-politics62.html"> [62] </a>
+				<a class="page-link" href="sitemap-government-politics63.html"> [63] </a>
+				<a class="page-link" href="sitemap-government-politics64.html"> [64] </a>
+				<a class="page-link" href="sitemap-government-politics65.html"> [65] </a>
+				<a class="page-link" href="sitemap-government-politics66.html"> [66] </a>
+				<a class="page-link" href="sitemap-government-politics67.html"> [67] </a>
+				<a class="page-link" href="sitemap-government-politics68.html"> [68] </a>
+				<a class="page-link" href="sitemap-government-politics69.html"> [69] </a>
+				<a class="page-link" href="sitemap-government-politics70.html"> [70] </a>
+				<a class="page-link" href="sitemap-government-politics71.html"> [71] </a>
+				<a class="page-link" href="sitemap-government-politics72.html"> [72] </a>
+				<a class="page-link" href="sitemap-government-politics73.html"> [73] </a>
+				<a class="page-link" href="sitemap-government-politics74.html"> [74] </a>
+				<a class="page-link" href="sitemap-government-politics75.html"> [75] </a>
+				<a class="page-link" href="sitemap-government-politics76.html"> [76] </a>
+				<a class="page-link" href="sitemap-government-politics77.html"> [77] </a>
+				<a class="page-link" href="sitemap-government-politics78.html"> [78] </a>
+				<a class="page-link" href="sitemap-government-politics79.html"> [79] </a>
+				<a class="page-link" href="sitemap-government-politics80.html"> [80] </a>
+				<a class="page-link" href="sitemap-government-politics81.html"> [81] </a>
+				<a class="page-link" href="sitemap-government-politics82.html"> [82] </a>
+				<a class="page-link" href="sitemap-government-politics83.html"> [83] </a>
+				<a class="page-link" href="sitemap-government-politics84.html"> [84] </a>
+				<a class="page-link" href="sitemap-government-politics85.html"> [85] </a>
+				<a class="page-link" href="sitemap-government-politics86.html"> [86] </a>
+				<a class="page-link" href="sitemap-government-politics87.html"> [87] </a>
+				<a class="page-link" href="sitemap-government-politics88.html"> [88] </a>
+				<a class="page-link" href="sitemap-government-politics89.html"> [89] </a>
+				<a class="page-link" href="sitemap-government-politics90.html"> [90] </a>
+				<a class="page-link" href="sitemap-government-politics91.html"> [91] </a>
+				<a class="page-link" href="sitemap-government-politics92.html"> [92] </a>
+				<a class="page-link" href="sitemap-government-politics93.html"> [93] </a>
+				<a class="page-link" href="sitemap-government-politics94.html"> [94] </a>
+				<a class="page-link" href="sitemap-government-politics95.html"> [95] </a>
+				<a class="page-link" href="sitemap-government-politics96.html"> [96] </a>
+				<a class="page-link" href="sitemap-government-politics97.html"> [97] </a>
+				<a class="page-link" href="sitemap-government-politics98.html"> [98] </a>
+				<a class="page-link" href="sitemap-government-politics99.html"> [99] </a>
+				<a class="page-link" href="sitemap-government-politics100.html"> [100] </a>
+				<a class="page-link" href="sitemap-government-politics101.html"> [101] </a>
+				<a class="page-link" href="sitemap-government-politics102.html"> [102] </a>
+				<a class="page-link" href="sitemap-government-politics103.html"> [103] </a>
+				<a class="page-link" href="sitemap-government-politics104.html"> [104] </a>
+				<a class="page-link" href="sitemap-government-politics105.html"> [105] </a>
+				<a class="page-link" href="sitemap-government-politics106.html"> [106] </a>
+				<a class="page-link" href="sitemap-government-politics107.html"> [107] </a>
+				<a class="page-link" href="sitemap-government-politics108.html"> [108] </a>
+				<a class="page-link" href="sitemap-government-politics109.html"> [109] </a>
+				<a class="page-link" href="sitemap-government-politics110.html"> [110] </a>
+				<a class="page-link" href="sitemap-government-politics111.html"> [111] </a>
+				<a class="page-link" href="sitemap-government-politics112.html"> [112] </a>
+				<a class="page-link" href="sitemap-government-politics113.html"> [113] </a>
+				<a class="page-link" href="sitemap-government-politics114.html"> [114] </a>
+				<a class="page-link" href="sitemap-government-politics115.html"> [115] </a>
+				<a class="page-link" href="sitemap-government-politics116.html"> [116] </a>
+				<a class="page-link" href="sitemap-government-politics117.html"> [117] </a>
+				<a class="page-link" href="sitemap-government-politics118.html"> [118] </a>
+				<a class="page-link" href="sitemap-government-politics119.html"> [119] </a>
+				<a class="page-link" href="sitemap-government-politics120.html"> [120] </a>
+				<a class="page-link" href="sitemap-government-politics121.html"> [121] </a>
+				<a class="page-link" href="sitemap-government-politics122.html"> [122] </a>
+				<a class="page-link" href="sitemap-government-politics123.html"> [123] </a>
+				<a class="page-link" href="sitemap-government-politics124.html"> [124] </a>
+			</div>
+			<a href='../sitemap.html'> Sitemap Home </a>
+		</div>		
+	</body>
+</html>

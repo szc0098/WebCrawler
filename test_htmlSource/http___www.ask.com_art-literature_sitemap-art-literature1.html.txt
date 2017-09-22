@@ -1,0 +1,313 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+	<head>
+		<title>Art Literature Sitemap | http://www.ask.com</title>  
+		<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' /> 
+		<style type='text/css'> 
+			
+body{
+	margin: 0px;
+}
+
+#description{      
+	display: block;      
+	background: top left no-repeat;      
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+}  
+.cat-list {
+	list-style-type: none;
+	padding: 0;
+}
+#footer{ 
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+.partial {
+	width: 1080px;
+	margin-left: 85px;
+	display: inline-block;
+	line-height: 20px;
+	font-size: 14px;
+	vertical-align: top;
+	position: relative;
+	overflow: visible;			
+}
+.partial-logo-body {
+	position: relative;
+	overflow: visible;
+	width: 0;
+	float: left;
+}
+.partial-logo-link {
+	position: absolute;
+	z-index: 1;
+	top: 12px;
+	right: 12px;
+	display: block;
+}
+.partial-logo-image-ask {
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: 0 0;
+    width: 75px;
+    height: 54px;
+}
+
+.partial-logo-image-reference {
+    background-image: url(https://www.reference.com/logo.png);
+    background-position: 0 0;
+    width: 162px;
+    height: 27px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+.searchbar-body {
+	float: left;
+	height: 50px;
+	margin-top: 30px;
+}
+.partial-search-bar-box {
+	width: 696px;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	padding: 0 10px;
+	font-family: Sans-Serif;
+	font-size: 16px;
+	font-weight: lighter;
+	border: 1px solid silver;
+}
+.partial-search-bar-box:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.partial-search-bar-button {
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 50px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: -148px -198px;
+}
+.partial-search-bar-button:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.articles {
+	list-style-type: none;
+	padding: 0;
+}
+
+.reference {
+   margin-left: 0;
+   margin-top: 10px;
+}
+
+.reference .partial-logo-body {
+   width: 200px;
+   margin-left: 10px;
+   margin-top: 7px;
+}
+
+.reference .partial-logo-link {
+   position: relative;
+   top: 0;
+   right: 0;
+}
+
+.reference .partial-logo-image-reference {
+   top: 0;
+   left: 0;
+}
+
+.reference .searchbar-body {
+   width: 800px;
+   margin-top: 0;
+   margin-left: 0;
+}
+
+.reference .partial-search-bar-button {
+  background-image: url(https://www.reference.com/search-icon.png);
+  background-position: 12px 14px;
+  position: relative;
+  left: -48px;
+  border-left: 1px solid silver;
+}
+
+
+		</style>
+
+	</head>
+
+		<div class="partial partial-logo ask">
+			<div class="partial partial-logo-body">
+				<a class="partial-logo-link" href="http://www.ask.com">
+					<div class="partial-logo-image-ask"></div>
+				</a>
+			</div>
+
+			<div class="partial searchbar-body">
+			    <form action="http://www.ask.com/web" accept-charset="UTF-8">
+			        <input class="partial-search-bar-box" type="text" name="q" value="" maxlength="2048" autocomplete="off" placeholder="" />
+			        <input class="partial-search-bar-button" type="submit" value="" />
+			            <input type="hidden" name="qsrc" value="0" />
+			            <input type="hidden" name="o" value="0" />
+			            <input type="hidden" name="l" value="dir" />
+			            <input type="hidden" name="qo" value="contentSearchBox" />
+			    </form>
+			</div>  
+		</div>	
+
+
+		<div id='description'>
+				<div id='subcats'>
+					<h1> Subcategories for <a href="http://www.ask.com/art-literature"> Art Literature </a></h1>
+						<a href="http://www.ask.com/art-literature/explore/poetry">Poetry</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/magazines-newspapers">Magazines Newspapers</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/literature">Literature</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/fiction">Fiction</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/classics">Classics</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/plays">Plays</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/architecture">Architecture</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/fine-art">Fine Art</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/painting">Painting</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/mythology">Mythology</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/non-fiction">Non Fiction</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/graphic-design">Graphic Design</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/comic-books">Comic Books</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/folklore">Folklore</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/comics-anime">Comics Anime</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/drawing">Drawing</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/art-literature/explore/childrens-books">Childrens Books</a>&nbsp&nbsp 
+				</div> 
+			<h1>Articles for <a href="http://www.ask.com/art-literature">Art Literature </a></h1>
+			<ul class="articles">
+			  <li><a href="http://www.ask.com/art-literature/examples-constructive-criticism-95c378240583c2fc"> What are some examples of constructive criticism? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/harry-potter-s-real-name-34df28073c113d9a"> What is Harry Potter&#x27;s real name? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/characteristics-elizabethan-literature-5e3867fdf9dad9"> What are some characteristics of Elizabethan literature? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/giles-francis-want-talk-danforth-b73bf40b61b6adad"> Why do Giles and Francis want to talk to Danforth? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/kareena-kapoor-s-biography-96b0183450d56712"> What is Kareena Kapoor&#x27;s biography? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/musical-instrument-did-sherlock-holmes-play-1632b211f6a40ddc"> What musical instrument did Sherlock Holmes play? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/asura-soul-eater-51ec25b50fb52059"> Who is Asura in Soul Eater? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/bio-poem-f90113c866ed9d10"> What is a bio poem? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/personification-dangerous-game-e4d4449eb632c0c2"> What is the personification in &quot;The Most Dangerous Game&quot;? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/funny-newspaper-names-db32e7b796b2112b"> What are some funny newspaper names? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/hera-s-husband-bac5ed50cf338503"> Who was Hera&#x27;s husband? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/can-original-bob-ross-paintings-d28f0ce194c252b"> Where can you find original Bob Ross paintings? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/climax-story-eleven-sandra-cisneros-448ac3d64753d51e"> What is the climax to the story &quot;Eleven&quot; by Sandra Cisneros? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/biographical-data-e3f461ee51b47356"> What is biographical data? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/much-average-person-read-21156d1b7282ae96"> How much does the average person read? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/mood-poem-phenomenal-woman-maya-angelou-314549cce83143ae"> What is the mood of the poem &quot;Phenomenal Woman&quot; by Maya Angelou? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/theme-occurrence-owl-creek-bridge-447df87d415e443e"> What is the theme of &quot;An Occurrence at Owl Creek Bridge&quot;? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/epic-conventions-iliad-a1827c089de4ffae"> What are the epic conventions in the Iliad? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/theme-oliver-twist-charles-dickens-3ecc5e2425c3cc62"> What is the theme of &quot;Oliver Twist&quot; by Charles Dickens? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/magic-crochet-magazine-680d8c609489d74c"> What is Magic Crochet Magazine? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/popular-fairy-tales-578ba5a8fc92dc27"> What are some popular fairy tales? </a></li>
+			  <li><a href="http://www.ask.com/art-literature/huck-grangerfords-e75464d88f7b4e6c"> How does Huck get to the Grangerfords? </a></li>
+			</ul>		
+		</div>
+
+		<div id='footer'>
+			<div id='page_links'>
+				<a class="page-link" href="sitemap-art-literature1.html"> [1] </a>
+				<a class="page-link" href="sitemap-art-literature2.html"> [2] </a>
+				<a class="page-link" href="sitemap-art-literature3.html"> [3] </a>
+				<a class="page-link" href="sitemap-art-literature4.html"> [4] </a>
+				<a class="page-link" href="sitemap-art-literature5.html"> [5] </a>
+				<a class="page-link" href="sitemap-art-literature6.html"> [6] </a>
+				<a class="page-link" href="sitemap-art-literature7.html"> [7] </a>
+				<a class="page-link" href="sitemap-art-literature8.html"> [8] </a>
+				<a class="page-link" href="sitemap-art-literature9.html"> [9] </a>
+				<a class="page-link" href="sitemap-art-literature10.html"> [10] </a>
+				<a class="page-link" href="sitemap-art-literature11.html"> [11] </a>
+				<a class="page-link" href="sitemap-art-literature12.html"> [12] </a>
+				<a class="page-link" href="sitemap-art-literature13.html"> [13] </a>
+				<a class="page-link" href="sitemap-art-literature14.html"> [14] </a>
+				<a class="page-link" href="sitemap-art-literature15.html"> [15] </a>
+				<a class="page-link" href="sitemap-art-literature16.html"> [16] </a>
+				<a class="page-link" href="sitemap-art-literature17.html"> [17] </a>
+				<a class="page-link" href="sitemap-art-literature18.html"> [18] </a>
+				<a class="page-link" href="sitemap-art-literature19.html"> [19] </a>
+				<a class="page-link" href="sitemap-art-literature20.html"> [20] </a>
+				<a class="page-link" href="sitemap-art-literature21.html"> [21] </a>
+				<a class="page-link" href="sitemap-art-literature22.html"> [22] </a>
+				<a class="page-link" href="sitemap-art-literature23.html"> [23] </a>
+				<a class="page-link" href="sitemap-art-literature24.html"> [24] </a>
+				<a class="page-link" href="sitemap-art-literature25.html"> [25] </a>
+				<a class="page-link" href="sitemap-art-literature26.html"> [26] </a>
+				<a class="page-link" href="sitemap-art-literature27.html"> [27] </a>
+				<a class="page-link" href="sitemap-art-literature28.html"> [28] </a>
+				<a class="page-link" href="sitemap-art-literature29.html"> [29] </a>
+				<a class="page-link" href="sitemap-art-literature30.html"> [30] </a>
+				<a class="page-link" href="sitemap-art-literature31.html"> [31] </a>
+				<a class="page-link" href="sitemap-art-literature32.html"> [32] </a>
+				<a class="page-link" href="sitemap-art-literature33.html"> [33] </a>
+				<a class="page-link" href="sitemap-art-literature34.html"> [34] </a>
+				<a class="page-link" href="sitemap-art-literature35.html"> [35] </a>
+				<a class="page-link" href="sitemap-art-literature36.html"> [36] </a>
+				<a class="page-link" href="sitemap-art-literature37.html"> [37] </a>
+				<a class="page-link" href="sitemap-art-literature38.html"> [38] </a>
+				<a class="page-link" href="sitemap-art-literature39.html"> [39] </a>
+				<a class="page-link" href="sitemap-art-literature40.html"> [40] </a>
+				<a class="page-link" href="sitemap-art-literature41.html"> [41] </a>
+				<a class="page-link" href="sitemap-art-literature42.html"> [42] </a>
+				<a class="page-link" href="sitemap-art-literature43.html"> [43] </a>
+				<a class="page-link" href="sitemap-art-literature44.html"> [44] </a>
+				<a class="page-link" href="sitemap-art-literature45.html"> [45] </a>
+				<a class="page-link" href="sitemap-art-literature46.html"> [46] </a>
+				<a class="page-link" href="sitemap-art-literature47.html"> [47] </a>
+				<a class="page-link" href="sitemap-art-literature48.html"> [48] </a>
+				<a class="page-link" href="sitemap-art-literature49.html"> [49] </a>
+				<a class="page-link" href="sitemap-art-literature50.html"> [50] </a>
+				<a class="page-link" href="sitemap-art-literature51.html"> [51] </a>
+				<a class="page-link" href="sitemap-art-literature52.html"> [52] </a>
+				<a class="page-link" href="sitemap-art-literature53.html"> [53] </a>
+				<a class="page-link" href="sitemap-art-literature54.html"> [54] </a>
+				<a class="page-link" href="sitemap-art-literature55.html"> [55] </a>
+				<a class="page-link" href="sitemap-art-literature56.html"> [56] </a>
+				<a class="page-link" href="sitemap-art-literature57.html"> [57] </a>
+				<a class="page-link" href="sitemap-art-literature58.html"> [58] </a>
+				<a class="page-link" href="sitemap-art-literature59.html"> [59] </a>
+				<a class="page-link" href="sitemap-art-literature60.html"> [60] </a>
+				<a class="page-link" href="sitemap-art-literature61.html"> [61] </a>
+				<a class="page-link" href="sitemap-art-literature62.html"> [62] </a>
+				<a class="page-link" href="sitemap-art-literature63.html"> [63] </a>
+				<a class="page-link" href="sitemap-art-literature64.html"> [64] </a>
+				<a class="page-link" href="sitemap-art-literature65.html"> [65] </a>
+				<a class="page-link" href="sitemap-art-literature66.html"> [66] </a>
+				<a class="page-link" href="sitemap-art-literature67.html"> [67] </a>
+				<a class="page-link" href="sitemap-art-literature68.html"> [68] </a>
+				<a class="page-link" href="sitemap-art-literature69.html"> [69] </a>
+				<a class="page-link" href="sitemap-art-literature70.html"> [70] </a>
+				<a class="page-link" href="sitemap-art-literature71.html"> [71] </a>
+				<a class="page-link" href="sitemap-art-literature72.html"> [72] </a>
+				<a class="page-link" href="sitemap-art-literature73.html"> [73] </a>
+				<a class="page-link" href="sitemap-art-literature74.html"> [74] </a>
+				<a class="page-link" href="sitemap-art-literature75.html"> [75] </a>
+				<a class="page-link" href="sitemap-art-literature76.html"> [76] </a>
+				<a class="page-link" href="sitemap-art-literature77.html"> [77] </a>
+				<a class="page-link" href="sitemap-art-literature78.html"> [78] </a>
+				<a class="page-link" href="sitemap-art-literature79.html"> [79] </a>
+				<a class="page-link" href="sitemap-art-literature80.html"> [80] </a>
+				<a class="page-link" href="sitemap-art-literature81.html"> [81] </a>
+				<a class="page-link" href="sitemap-art-literature82.html"> [82] </a>
+				<a class="page-link" href="sitemap-art-literature83.html"> [83] </a>
+				<a class="page-link" href="sitemap-art-literature84.html"> [84] </a>
+				<a class="page-link" href="sitemap-art-literature85.html"> [85] </a>
+			</div>
+			<a href='../sitemap.html'> Sitemap Home </a>
+		</div>		
+	</body>
+</html>

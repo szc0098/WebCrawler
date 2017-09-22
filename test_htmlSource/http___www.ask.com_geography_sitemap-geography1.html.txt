@@ -1,0 +1,335 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+	<head>
+		<title>Geography Sitemap | http://www.ask.com</title>  
+		<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' /> 
+		<style type='text/css'> 
+			
+body{
+	margin: 0px;
+}
+
+#description{      
+	display: block;      
+	background: top left no-repeat;      
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+}  
+.cat-list {
+	list-style-type: none;
+	padding: 0;
+}
+#footer{ 
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+.partial {
+	width: 1080px;
+	margin-left: 85px;
+	display: inline-block;
+	line-height: 20px;
+	font-size: 14px;
+	vertical-align: top;
+	position: relative;
+	overflow: visible;			
+}
+.partial-logo-body {
+	position: relative;
+	overflow: visible;
+	width: 0;
+	float: left;
+}
+.partial-logo-link {
+	position: absolute;
+	z-index: 1;
+	top: 12px;
+	right: 12px;
+	display: block;
+}
+.partial-logo-image-ask {
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: 0 0;
+    width: 75px;
+    height: 54px;
+}
+
+.partial-logo-image-reference {
+    background-image: url(https://www.reference.com/logo.png);
+    background-position: 0 0;
+    width: 162px;
+    height: 27px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+.searchbar-body {
+	float: left;
+	height: 50px;
+	margin-top: 30px;
+}
+.partial-search-bar-box {
+	width: 696px;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	padding: 0 10px;
+	font-family: Sans-Serif;
+	font-size: 16px;
+	font-weight: lighter;
+	border: 1px solid silver;
+}
+.partial-search-bar-box:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.partial-search-bar-button {
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 50px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: -148px -198px;
+}
+.partial-search-bar-button:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.articles {
+	list-style-type: none;
+	padding: 0;
+}
+
+.reference {
+   margin-left: 0;
+   margin-top: 10px;
+}
+
+.reference .partial-logo-body {
+   width: 200px;
+   margin-left: 10px;
+   margin-top: 7px;
+}
+
+.reference .partial-logo-link {
+   position: relative;
+   top: 0;
+   right: 0;
+}
+
+.reference .partial-logo-image-reference {
+   top: 0;
+   left: 0;
+}
+
+.reference .searchbar-body {
+   width: 800px;
+   margin-top: 0;
+   margin-left: 0;
+}
+
+.reference .partial-search-bar-button {
+  background-image: url(https://www.reference.com/search-icon.png);
+  background-position: 12px 14px;
+  position: relative;
+  left: -48px;
+  border-left: 1px solid silver;
+}
+
+
+		</style>
+
+	</head>
+
+		<div class="partial partial-logo ask">
+			<div class="partial partial-logo-body">
+				<a class="partial-logo-link" href="http://www.ask.com">
+					<div class="partial-logo-image-ask"></div>
+				</a>
+			</div>
+
+			<div class="partial searchbar-body">
+			    <form action="http://www.ask.com/web" accept-charset="UTF-8">
+			        <input class="partial-search-bar-box" type="text" name="q" value="" maxlength="2048" autocomplete="off" placeholder="" />
+			        <input class="partial-search-bar-button" type="submit" value="" />
+			            <input type="hidden" name="qsrc" value="0" />
+			            <input type="hidden" name="o" value="0" />
+			            <input type="hidden" name="l" value="dir" />
+			            <input type="hidden" name="qo" value="contentSearchBox" />
+			    </form>
+			</div>  
+		</div>	
+
+
+		<div id='description'>
+				<div id='subcats'>
+					<h1> Subcategories for <a href="http://www.ask.com/geography"> Geography </a></h1>
+						<a href="http://www.ask.com/geography/explore/bodies-of-water">Bodies Of Water</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/south-asia">South Asia</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/asia">Asia</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/italy">Italy</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/the-midwest">The Midwest</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/maps-cartography">Maps Cartography</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/the-northeast">The Northeast</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/south-america">South America</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/germany">Germany</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/east-asia">East Asia</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/europe">Europe</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/the-west">The West</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/caribbean">Caribbean</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/africa">Africa</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/united-states">United States</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/australia">Australia</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/the-south">The South</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/southeast-asia">Southeast Asia</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/canada">Canada</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/united-kingdom">United Kingdom</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/antarctica">Antarctica</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/hawaii">Hawaii</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/central-america">Central America</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/greece">Greece</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/russia">Russia</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/france">France</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/mexico">Mexico</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/geography/explore/alaska">Alaska</a>&nbsp&nbsp 
+				</div> 
+			<h1>Articles for <a href="http://www.ask.com/geography">Geography </a></h1>
+			<ul class="articles">
+			  <li><a href="http://www.ask.com/geography/type-government-modern-germany-c80a50aedbfc019"> What type of government does modern Germany have? </a></li>
+			  <li><a href="http://www.ask.com/geography/countries-border-iran-cbbec98bd2cd1fdd"> What countries border Iran? </a></li>
+			  <li><a href="http://www.ask.com/geography/earth-people-live-longest-8cecdf9e015c0c76"> Where on earth do people live the longest? </a></li>
+			  <li><a href="http://www.ask.com/geography/major-religions-puerto-rico-c728fc42f034f835"> What are the major religions of Puerto Rico? </a></li>
+			  <li><a href="http://www.ask.com/geography/jamaican-lion-7423ade755942017"> What is the Jamaican lion? </a></li>
+			  <li><a href="http://www.ask.com/geography/main-rivers-france-134503407e1a8986"> What are the main rivers of France? </a></li>
+			  <li><a href="http://www.ask.com/geography/physical-characteristics-london-england-ca29bed5775a89b6"> What are the physical characteristics of London, England? </a></li>
+			  <li><a href="http://www.ask.com/geography/ways-obtain-mexican-citizenship-1d58b78f96782088"> What are ways to obtain Mexican citizenship? </a></li>
+			  <li><a href="http://www.ask.com/geography/southernmost-state-united-states-15bd010d26563eaa"> What is the southernmost state in the United States? </a></li>
+			  <li><a href="http://www.ask.com/geography/germany-s-natural-resources-e90f30f3c2a261e6"> What are Germany&#x27;s natural resources? </a></li>
+			  <li><a href="http://www.ask.com/geography/main-physical-features-italy-9f6d270a750aad77"> What are some main physical features of Italy? </a></li>
+			  <li><a href="http://www.ask.com/geography/ecuador-located-3d10680602f6169"> Where is Ecuador located? </a></li>
+			  <li><a href="http://www.ask.com/geography/lowest-point-texas-79d39d8e2f0ac333"> What is the lowest point in Texas? </a></li>
+			  <li><a href="http://www.ask.com/geography/major-landforms-east-asia-81f0c389985dd8f"> What are the major landforms in East Asia? </a></li>
+			  <li><a href="http://www.ask.com/geography/redwoods-near-san-francisco-ed4beb00c7c8b733"> Where are redwoods near San Francisco? </a></li>
+			  <li><a href="http://www.ask.com/geography/kansas-famous-505f2db655ac41c8"> What is Kansas famous for? </a></li>
+			  <li><a href="http://www.ask.com/geography/distance-between-abu-dhabi-dubai-a69ff76fc4daaa3e"> What is the distance between Abu Dhabi and Dubai? </a></li>
+			  <li><a href="http://www.ask.com/geography/natural-resources-present-saudi-arabia-3ce25e12a5ba6b74"> What natural resources are present in Saudi Arabia? </a></li>
+			  <li><a href="http://www.ask.com/geography/states-border-michigan-8871fdffadbf1626"> What states border Michigan? </a></li>
+			  <li><a href="http://www.ask.com/geography/warmest-ocean-world-a3e3d49e7ef6133f"> What is the warmest ocean in the world? </a></li>
+			  <li><a href="http://www.ask.com/geography/mississippi-river-4bd49cfc0bca6c43"> What are some facts about the Mississippi River? </a></li>
+			  <li><a href="http://www.ask.com/geography/many-states-africa-1a198297d33f13c5"> How many states are there in Africa? </a></li>
+			  <li><a href="http://www.ask.com/geography/countries-start-letter-m-e9fcf0840d26d16b"> Which countries start with the letter &quot;M&quot;? </a></li>
+			  <li><a href="http://www.ask.com/geography/japan-famous-c1d5096badcedb35"> What is Japan famous for? </a></li>
+			  <li><a href="http://www.ask.com/geography/biafra-now-called-e6f93db4529347d1"> What is Biafra now called? </a></li>
+			  <li><a href="http://www.ask.com/geography/types-water-waves-726d3bbf59fb154d"> What are the types of water waves? </a></li>
+			  <li><a href="http://www.ask.com/geography/type-plate-boundaries-form-red-sea-66c9edd5bd44d703"> What type of plate boundaries form the Red Sea? </a></li>
+			  <li><a href="http://www.ask.com/geography/climate-colonial-connecticut-like-57586a8eee522129"> What was the climate of colonial Connecticut like? </a></li>
+			</ul>		
+		</div>
+
+		<div id='footer'>
+			<div id='page_links'>
+				<a class="page-link" href="sitemap-geography1.html"> [1] </a>
+				<a class="page-link" href="sitemap-geography2.html"> [2] </a>
+				<a class="page-link" href="sitemap-geography3.html"> [3] </a>
+				<a class="page-link" href="sitemap-geography4.html"> [4] </a>
+				<a class="page-link" href="sitemap-geography5.html"> [5] </a>
+				<a class="page-link" href="sitemap-geography6.html"> [6] </a>
+				<a class="page-link" href="sitemap-geography7.html"> [7] </a>
+				<a class="page-link" href="sitemap-geography8.html"> [8] </a>
+				<a class="page-link" href="sitemap-geography9.html"> [9] </a>
+				<a class="page-link" href="sitemap-geography10.html"> [10] </a>
+				<a class="page-link" href="sitemap-geography11.html"> [11] </a>
+				<a class="page-link" href="sitemap-geography12.html"> [12] </a>
+				<a class="page-link" href="sitemap-geography13.html"> [13] </a>
+				<a class="page-link" href="sitemap-geography14.html"> [14] </a>
+				<a class="page-link" href="sitemap-geography15.html"> [15] </a>
+				<a class="page-link" href="sitemap-geography16.html"> [16] </a>
+				<a class="page-link" href="sitemap-geography17.html"> [17] </a>
+				<a class="page-link" href="sitemap-geography18.html"> [18] </a>
+				<a class="page-link" href="sitemap-geography19.html"> [19] </a>
+				<a class="page-link" href="sitemap-geography20.html"> [20] </a>
+				<a class="page-link" href="sitemap-geography21.html"> [21] </a>
+				<a class="page-link" href="sitemap-geography22.html"> [22] </a>
+				<a class="page-link" href="sitemap-geography23.html"> [23] </a>
+				<a class="page-link" href="sitemap-geography24.html"> [24] </a>
+				<a class="page-link" href="sitemap-geography25.html"> [25] </a>
+				<a class="page-link" href="sitemap-geography26.html"> [26] </a>
+				<a class="page-link" href="sitemap-geography27.html"> [27] </a>
+				<a class="page-link" href="sitemap-geography28.html"> [28] </a>
+				<a class="page-link" href="sitemap-geography29.html"> [29] </a>
+				<a class="page-link" href="sitemap-geography30.html"> [30] </a>
+				<a class="page-link" href="sitemap-geography31.html"> [31] </a>
+				<a class="page-link" href="sitemap-geography32.html"> [32] </a>
+				<a class="page-link" href="sitemap-geography33.html"> [33] </a>
+				<a class="page-link" href="sitemap-geography34.html"> [34] </a>
+				<a class="page-link" href="sitemap-geography35.html"> [35] </a>
+				<a class="page-link" href="sitemap-geography36.html"> [36] </a>
+				<a class="page-link" href="sitemap-geography37.html"> [37] </a>
+				<a class="page-link" href="sitemap-geography38.html"> [38] </a>
+				<a class="page-link" href="sitemap-geography39.html"> [39] </a>
+				<a class="page-link" href="sitemap-geography40.html"> [40] </a>
+				<a class="page-link" href="sitemap-geography41.html"> [41] </a>
+				<a class="page-link" href="sitemap-geography42.html"> [42] </a>
+				<a class="page-link" href="sitemap-geography43.html"> [43] </a>
+				<a class="page-link" href="sitemap-geography44.html"> [44] </a>
+				<a class="page-link" href="sitemap-geography45.html"> [45] </a>
+				<a class="page-link" href="sitemap-geography46.html"> [46] </a>
+				<a class="page-link" href="sitemap-geography47.html"> [47] </a>
+				<a class="page-link" href="sitemap-geography48.html"> [48] </a>
+				<a class="page-link" href="sitemap-geography49.html"> [49] </a>
+				<a class="page-link" href="sitemap-geography50.html"> [50] </a>
+				<a class="page-link" href="sitemap-geography51.html"> [51] </a>
+				<a class="page-link" href="sitemap-geography52.html"> [52] </a>
+				<a class="page-link" href="sitemap-geography53.html"> [53] </a>
+				<a class="page-link" href="sitemap-geography54.html"> [54] </a>
+				<a class="page-link" href="sitemap-geography55.html"> [55] </a>
+				<a class="page-link" href="sitemap-geography56.html"> [56] </a>
+				<a class="page-link" href="sitemap-geography57.html"> [57] </a>
+				<a class="page-link" href="sitemap-geography58.html"> [58] </a>
+				<a class="page-link" href="sitemap-geography59.html"> [59] </a>
+				<a class="page-link" href="sitemap-geography60.html"> [60] </a>
+				<a class="page-link" href="sitemap-geography61.html"> [61] </a>
+				<a class="page-link" href="sitemap-geography62.html"> [62] </a>
+				<a class="page-link" href="sitemap-geography63.html"> [63] </a>
+				<a class="page-link" href="sitemap-geography64.html"> [64] </a>
+				<a class="page-link" href="sitemap-geography65.html"> [65] </a>
+				<a class="page-link" href="sitemap-geography66.html"> [66] </a>
+				<a class="page-link" href="sitemap-geography67.html"> [67] </a>
+				<a class="page-link" href="sitemap-geography68.html"> [68] </a>
+				<a class="page-link" href="sitemap-geography69.html"> [69] </a>
+				<a class="page-link" href="sitemap-geography70.html"> [70] </a>
+				<a class="page-link" href="sitemap-geography71.html"> [71] </a>
+				<a class="page-link" href="sitemap-geography72.html"> [72] </a>
+				<a class="page-link" href="sitemap-geography73.html"> [73] </a>
+				<a class="page-link" href="sitemap-geography74.html"> [74] </a>
+				<a class="page-link" href="sitemap-geography75.html"> [75] </a>
+				<a class="page-link" href="sitemap-geography76.html"> [76] </a>
+				<a class="page-link" href="sitemap-geography77.html"> [77] </a>
+				<a class="page-link" href="sitemap-geography78.html"> [78] </a>
+				<a class="page-link" href="sitemap-geography79.html"> [79] </a>
+				<a class="page-link" href="sitemap-geography80.html"> [80] </a>
+				<a class="page-link" href="sitemap-geography81.html"> [81] </a>
+				<a class="page-link" href="sitemap-geography82.html"> [82] </a>
+				<a class="page-link" href="sitemap-geography83.html"> [83] </a>
+				<a class="page-link" href="sitemap-geography84.html"> [84] </a>
+				<a class="page-link" href="sitemap-geography85.html"> [85] </a>
+				<a class="page-link" href="sitemap-geography86.html"> [86] </a>
+				<a class="page-link" href="sitemap-geography87.html"> [87] </a>
+				<a class="page-link" href="sitemap-geography88.html"> [88] </a>
+				<a class="page-link" href="sitemap-geography89.html"> [89] </a>
+				<a class="page-link" href="sitemap-geography90.html"> [90] </a>
+			</div>
+			<a href='../sitemap.html'> Sitemap Home </a>
+		</div>		
+	</body>
+</html>

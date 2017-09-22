@@ -1,0 +1,828 @@
+<input type="hidden" name="ParatureCSRFSecurityToken" value="18ea7fa9-56cb-41a0-80a1-30bda40e41ec"/><input type="hidden" name="ParatureCSRFSecurityToken" value="18ea7fa9-56cb-41a0-80a1-30bda40e41ec"/><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    
+    <title>Ask.com | Help Center</title>
+     <style type="text/css">
+        .resizing
+        {
+            background-color: #E0E0E0;
+        }
+        
+        #resize_table  th
+        {
+            cursor: w-resize;        
+        }
+        #resize_table  th.unselectable::selection { background: transparent; }
+        #resize_table  th.unselectable::-moz-selection { background: transparent; }
+        .unselectable
+        {
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            -o-user-select:none;
+        }
+        select 
+        {
+            background-color: inherit;
+        }
+    </style>
+<head>
+
+<meta name="viewport" content="width=device-width, maximum-scale=1">
+<script type="text/javascript" src="http://help.ask.com/FileManagement/Download/3840767f8abf4b8183434f846bbc08b4"></script>
+
+<script type="text/javascript">
+var _AH = "QWRhbSBIb25nIC0gUGFyYXR1cmUgSW5j";
+function getParameterByName(name)
+	{
+	  name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+	  var regexS = "[\\?&]" + name + "=([^&#]*)";
+	  var regex = new RegExp(regexS);
+	  var results = regex.exec(window.location.href);
+	  if(results == null)
+		return "";
+	  else
+		return decodeURIComponent(results[1].replace(/\+/g, " "));
+	}
+	
+	
+	//Sets cookie
+	function setCookie(c_name,value,expires)
+	{
+		if( expires != undefined ) {
+			var today = new Date();
+			today.setTime( today.getTime() );
+			expires = expires * 1000 * 60 * 60 * 24;
+			var expires_date = new Date( today.getTime() + (expires) );
+			var utc_expires = new Date(expires_date.getUTCFullYear(), expires_date.getUTCMonth(), expires_date.getUTCDate(),  expires_date.getUTCHours(), expires_date.getUTCMinutes(), expires_date.getUTCSeconds());
+			document.cookie = c_name + "=" + value + ";path=/" + ";expires=" + expires_date;
+		} else {
+			document.cookie = c_name + "=" + value + ";path=/";
+		}
+	}
+	//Gets cookie, returns a blank string if it does not exist
+	function getCookie(c_name)
+	{	
+		var i,x,y,ARRcookies = document.cookie.split(";");
+		for (i=0;i<ARRcookies.length;i++)
+		{
+			x = ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+			y = ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+			x = x.replace(/^\s+|\s+$/g,"");
+			if (x == c_name)
+			{
+				return unescape(y);
+			}
+		}
+		
+		return "";
+	}
+(function() {
+	var referrer = document.referrer;
+	var regexp = /:\/\/(.+?)\//;
+	var referrerDomain = referrer.match(regexp);
+	setCookie('lastpage',document.location.href);
+	var lastpage = getCookie('lastpage');
+	if( lastpage == "" ) {
+		setCookie('referrer',referrer);
+	}
+	if( referrerDomain != undefined ) {
+		if( referrerDomain[1].trim() != "help.ask.com" && referrerDomain[1].trim() != "feedback.ask.com" ) {
+			console.log('test');
+			setCookie('referrer',referrer);
+		}
+	}
+	if( referrer == "" ) {
+		setCookie('referrer', "none");
+	}
+})();
+if(	 document.location.host == "feedback.ask.com" && document.location.pathname == "/ics/support/default.asp" ) {
+	document.location.href = '/ics/support/ticketnewwizard.asp?style=classic&feedback=true';
+}
+
+if( getParameterByName('lightbox') == 'true' || getCookie('lightbox') == 'true') {
+		document.getElementsByTagName('html')[0].className += " lightbox";
+	}
+if( getCookie('lightbox') == 'true' && getParameterByName('lightbox') != 'true') {
+	setCookie('lightbox','');
+}
+</script>
+<!-- HTML5 Shiv -->
+<!--[if lt IE 9]> <script src="http://help.ask.com/FileManagement/Download/cf71b6cf383843638903704e7084a9d4" type="text/javascript"></script> <![endif]-->
+
+</head>    <link type="text/css" rel="stylesheet" href="/ics/support/accounts/30015/30018_nf_style.css">
+
+    <!-- YUI -->
+    <link rel="stylesheet" type="text/css" href="/ics/support/inc/yui/build/treeview/assets/skins/sam/treeview.css?ver=Spring+%2709" />
+    <script type="text/javascript" src="https://az686636.vo.msecnd.net/yui/yahoo-dom-event.js""></script>
+    <script type="text/javascript" src="https://az686636.vo.msecnd.net/yui/treeview-min.js"></script>
+    <script type="text/javascript">
+        var initializeTree = function() {
+            try {
+                var markupTree = new YAHOO.widget.TreeView("treeViewChildMarkup"); markupTree.render();
+                var basehref = document.getElementsByTagName("base")[0].href;
+                function replaceAllInvalidLinks() {
+                    // we just replace a with base href  # in yahoo tree
+                    var links = document.getElementsByTagName("a");
+                    for (var i = 0; i < links.length; i++) {
+                        if (links[i].className.indexOf("ygtvspacer") != -1 && (links[i].href == basehref + "#" || links[i].href == "#")){
+                            links[i].href = "javascript:void(0)"; 
+                            }
+                    }
+                }
+
+                markupTree.subscribe("expandComplete", function() {
+                    replaceAllInvalidLinks();
+                });
+                // replace # in all a in the page
+                replaceAllInvalidLinks();
+            } catch (e) { }
+        };
+      YAHOO.util.Event.onDOMReady(initializeTree);
+    </script>
+
+    <script type="text/javascript">
+        var CYRACLE_HOST = "s7.parature.com";
+      var DEBUG        = 'false';
+    </script>
+	
+    <script type="text/javascript" src="/ics/ic1.js?ver=Spring+%2709"></script>
+	
+    <script type="text/javascript">
+      var duplicateChatError = 'Another chat is already active.  You must end your current chat before you initiate a new chat request.';
+	  
+      var backUrl = '';
+	  
+      var isLogin = false;
+	  
+      var timeoutErrorMessage = "Your session has expired due to inactivity.";
+    </script>
+
+    <script type="text/javascript" src="/ics/support/inc/frameless/portalheader.js?ver=Spring+%2709"></script>
+
+<script type="text/javascript" language="javascript">
+function sessionRenew_Do() {
+	var sessionImg = new Image(1,1);
+	sessionImg.src = "sessionRenewal.asp?deptID=30018&i="+Math.random();
+	setTimeout(function(){
+	    sessionRenew_Do();
+	}, 20 * 60 * 1000); 
+}
+if (20 > 0) {
+    setTimeout(function(){
+        sessionRenew_Do();
+    }, 20  * 60 * 1000); 
+}
+</script>
+
+
+    <base href="https://help.ask.com/ics/support/frameless" />  
+  </head>
+  <body class="yui-skin-sam ask_com___help_center help_ask_com splash_asp default_asp">
+    <script type="text/javascript">
+(function() {
+	var folderID = getParameterByName('folderID');
+	if( folderID != '' ) {
+		var className;
+		switch( folderID ) {
+			case '10':
+			className = "ask_com_search";
+			break;
+			case '11':
+			className = "ask_com_browser_toolbar";
+			break;
+			case '9':
+			className = "ask_com_q_a_community";
+			break;
+			case '12':
+			className = "ask_com_mobile_apps";
+			break;
+		}
+		document.getElementsByTagName('body')[0].className += " " + className;
+	}
+})();
+
+</script>
+<div id='1518514c-459a-4ed6-b5b1-4866f114d684' style='position: absolute; z-index: 100'></div>
+<script src='http://help.ask.com/ics/csrchat/inc/chatDeployment.js' type='text/javascript'></script>
+<script type='text/javascript'>
+function setProactiveDelay(delay, id){
+    chatDeploymentSetup(id, 'help.ask.com', 30015, 30018, delay, false);
+}
+
+window.onload = createDplOnLoadDelegate('1518514c-459a-4ed6-b5b1-4866f114d684', 'help.ask.com', 30015, 30018, window.onload, false,false);
+</script>
+<div class="bg"></div>
+<div class="bg1"></div>
+<div class="bg2"></div>
+<!--[if lt IE 7]>
+	<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+<![endif]-->
+
+<div id="mobile_logo">
+	<a title="Ask.com" href="http://www.ask.com"><img src="http://help.ask.com/FileManagement/Download/09815005ca9d46ea9778ad9beb2a0323" alt="Ask.com Logo"/></a>
+	<div id="mobile_welcome">
+		<h2>Welcome to the Ask.com Help Center</h2>
+	</div>
+</div>
+
+<div class="gridContainer">
+
+<div id="header">
+		<div id="header_bg">
+			<div id="left_bar"></div>
+			<figure id="arrow_cutout"></figure>
+			<div id="right_bar"></div>
+		</div>
+		<div class="ask_container">
+			<figure id="logo_container">
+				<h1><a title="Help Center Home" href="/ics/support/splash.asp">Help Center</a></h1>
+				<a title="Ask.com" href="http://www.ask.com"><img src="http://help.ask.com/FileManagement/Download/09815005ca9d46ea9778ad9beb2a0323" alt="Ask.com Logo"/></a>
+			</figure>
+			<div id="menu_search">
+				<nav>
+					
+					<ul>
+						<li id="ask_search"><a href="/link/portal/30015/30018/ArticleFolder/10/Ask-com-Search">Ask.com<br />Search</a></li>
+						<li id="ask_toolbar"><a href="/link/portal/30015/30018/ArticleFolder/11/Ask-com-Browser-Toolbar">Ask Toolbar<br />& Search Apps</a></li>
+					</ul>
+				</nav>
+				<aside>
+					Search Help Center
+					<form name="search" action="/ics/support/KBResult.asp" method="get">
+						<input type="search" id="search" name="searchFor" value="Type your question here..."/>
+						<input type="image" id="search_submit" src="http://help.ask.com/FileManagement/Download/1ddac3f3580d4ea19681b84163df3361" alt="submit"/>
+					</form>
+				</aside>
+			</div>
+		</div>
+	</div>
+	<div id="mobileHeader">
+		
+		<div id="top_links">
+			<ul>
+				<li>
+					<a class="mobile_home" href="/ics/support/splash.asp">Help Center</a>
+				</li>
+				<li>
+					<a class="mobile_top" href="/link/portal/30015/30018/ArticleFolder/10/Ask-com-Search">Ask.com Search</a>
+				</li>
+				<li>
+					<a class="mobile_top" href="/link/portal/30015/30018/ArticleFolder/9/Ask-com-Q-A-Community">Q&A Community</a>
+				</li>
+				<li>
+					<a class="mobile_top" href="/link/portal/30015/30018/ArticleFolder/12/Ask-com-Mobile-Apps">Mobile Apps</a>
+				</li>
+				<li>
+					<a class="mobile_top" href="/link/portal/30015/30018/ArticleFolder/11/Ask-com-Browser-Toolbar">Ask Toolbar</a>
+				</li>
+			</ul>
+		</div>
+	
+	</div>
+	<div id="main">
+        		<article id="hero_panel">
+					<div id="mobile_twitter">
+						<a href="https://twitter.com/intent/tweet?screen_name=AskDotCom" class="twitter-mention-button" data-size="large" data-lang="en">Tweet to @AskDotCom</a>
+					</div>
+					<div class="hero_section" id="home">
+						<h2>Welcome to the Ask.com Help Center</h2>
+						<p>At Ask.com, our millions of users are our friends - that means it's our duty to provide the best answers possible. If you're having trouble finding answers, help is here. After all, isn't that what friends are for? Get started by choosing the Ask.com product above, or feel free to browse the most popular topics below.</p>
+						<div class="hero_image"></div>
+					</div>
+					<style>
+					.ask_com_mobile_apps #main #hero_panel,
+					.ask_com_q_a_community #main #hero_panel {
+						height: 280px;
+					}
+					</style>
+					<div class="hero_section" id="QA">
+						<h2>Q&A Community – A Message to Our Users</h2>
+						<p>As you may have heard, Ask.com will no longer offer the Q&A Community feature or mobile app as of July 1, 2015.  There’s no action required of you at this time, but if you have questions, please visit our detailed <a href="http://help.ask.com/ics/support/kbanswer.asp?deptID=30018&task=knowledge&questionID=266">FAQ</a> for more information on this change.</p>
+						<p>We hope you will continue to come to Ask.com when curiosity piques and you’re looking for an answer, and follow us along our journey of building out Ask as a premier publisher of the best Q&A content out there!</p>
+						<p><a href="http://www.ask.com/answers/browse">Take me back to the Q&A Community</a></p>
+						<div class="hero_image"></div>
+					</div>
+					<div id="search" class="hero_section">
+						<h2>Help with Ask.com Search Results</h2>
+						<p>Have questions about Ask.com search results, Ask Local business listings, or anything else about finding answers at Ask.com? We're here to help. Let's get started.</p>
+						<div class="hero_image"></div>
+					</div>
+					<div id="mobile" class="hero_section">
+						<h2>Mobile App – A Message to Our Users</h2>
+						<p>As you may have heard, Ask.com will no longer offer the Q&A Community feature or mobile app as of July 1, 2015.  There’s no action required of you at this time, but if you have questions, please visit our detailed <a href="http://help.ask.com/ics/support/kbanswer.asp?deptID=30018&task=knowledge&questionID=267">FAQ</a> for more information on this change.</p>
+						<p>We hope you will continue to come to Ask.com when curiosity piques and you’re looking for an answer, and follow us along our journey of building out Ask as a premier publisher of the best Q&A content out there!</p>
+						<p><a href="http://www.ask.com/answers/browse">Take me back to the Q&A Community</a></p>
+						<div class="hero_image"></div>
+					</div>
+					<div id="toolbar" class="hero_section">
+						<h2>Ask Toolbar Help</h2>
+						<p>Need help figuring out how to best use - or remove - our browser toolbar? Have no fear, help is just a click away.</p>
+						<div class="hero_image"></div>
+					</div>
+        		</article>
+        		<div id="full_width" class="clearfix">
+        			<div class="ask_container" class="clearfix">
+						<div id="content_left">
+							
+<!-- top -->
+<!-- Parature Begin -->
+
+
+    <div id="parature_wrapper">
+      <div id="helpLayer" class="helplayer" style="position:absolute; visibility:hidden; z-index: 1;"></div>
+
+
+      <div id="parature_content">
+
+        <h1 class="title">Ask.com Help Center</h1>
+        <span class="titledesc"><p></p>
+<article id="tip_of_week">
+<section>
+<h3>Today's Tip</h3>
+<p>“<span id="tipOfWeek"> </span>”<br /> <a href="/link/portal/30015/30018/Article/116/Tip-of-the-week">Read more »</a></p>
+</section>
+<aside><img src="/FileManagement/Download/7a94e40b396c44d8adfcb6663b567446" alt="Eric" /> Eric and his team want you to get the most from using Ask.com. Get in touch anytime!</a></aside>
+</article></span>
+
+        <ul class="splash">
+          <li id="knowledge" class="splash_item"><a href="KBSplash.asp" class="splash_link" >Knowledgebase</a><span class="splash_description">Browse or search the Knowledge Base for a wide variety of solutions.</span></li>
+          <li id="ticket" class="splash_item"><a href="/ics/support/ticketNew.asp" class="splash_link" >How can we help you with our search apps?</a><span class="splash_description">Submit a trouble ticket to our service representatives. You can track the status of your ticket in My Support.</span></li>
+          <li id="realtime" class="splash_item"><a href="javascript:chatOpen%2830015%2C30018%29%3B" class="splash_link" >Live Chat</a><span class="splash_description">Eric and his team are happy to answer your questions specifically about Ask.com. If your question is not specifically about Ask.com, please close this chat window and contact the company responsible for the product or service you're wondering about.</span></li>
+        </ul>
+<div id='kbGlance'><ol class="mostpopular"><li class="heading"><span class="item"></span><span class="desc">Most Popular Topics</span></li><li class='first rank1 alt1'><span class='desc'><a href='/link/portal/30015/30018/Article/230/How-do-I-change-my-default-homepage' class=contentLinks >How do I change my default homepage?</a></span></li><li class='rank2 alt2'><span class='desc'><a href='/link/portal/30015/30018/Article/229/Why-is-Ask-com-my-new-browser-home-page' class=contentLinks >Why is Ask.com my new browser home page?</a></span></li><li class='rank3 alt1'><span class='desc'><a href='/link/portal/30015/30018/Article/1/How-do-I-remove-Ask-com-Toolbars-or-Search-Apps-from-a-web-browser-in-Windows' class=contentLinks >How do I remove Ask.com Toolbars or Search Apps from a web browser in Windows?</a></span></li><li class='rank4 alt2'><span class='desc'><a href='/link/portal/30015/30018/Article/134/Ask-com-is-my-default-Google-Chrome-home-page-or-search-engine-in-Windows-How-do-I-change-it' class=contentLinks >Ask.com is my default Google Chrome home page or search engine in Windows. How do I change it?</a></span></li><li class='rank5 alt1'><span class='desc'><a href='/link/portal/30015/30018/Article/137/Ask-com-is-my-default-Internet-Explorer-home-page-or-search-engine-in-Windows-How-do-I-change-it' class=contentLinks >Ask.com is my default Internet Explorer home page or search engine in Windows. How do I change it? </a></span></li></ol><ol class="mostrecent"><li class="heading"><span class="desc">Most Recent Topics</span></li><li class='first rank1 alt1'><span class='item'>10/05/2016</span><span class='desc'><a href='/link/portal/30015/30018/Article/307/How-did-I-get-the-Search-Extension-by-Ask' class='contentLinks'>How did I get the Search Extension by Ask?</a></span></li><li class='rank2 alt2'><span class='item'>10/05/2016</span><span class='desc'><a href='/link/portal/30015/30018/Article/306/How-do-I-uninstall-the-Search-Extension-by-Ask' class='contentLinks'>How do I uninstall the Search Extension by Ask?</a></span></li><li class='rank3 alt1'><span class='item'>10/05/2016</span><span class='desc'><a href='/link/portal/30015/30018/Article/304/Where-can-I-install-Search-Extension-by-Ask' class='contentLinks'>Where can I install Search Extension by Ask?</a></span></li><li class='rank4 alt2'><span class='item'>10/05/2016</span><span class='desc'><a href='/link/portal/30015/30018/Article/305/What-is-Search-Extension-by-Ask-and-what-does-it-do' class='contentLinks'>What is Search Extension by Ask, and what does it do?</a></span></li><li class='rank5 alt1'><span class='item'>04/28/2016</span><span class='desc'><a href='/link/portal/30015/30018/Article/284/Teoma-is-my-default-home-page-or-search-engine-in-Firefox-How-do-I-change-it' class='contentLinks'>Teoma is my default home page or search engine in Firefox. How do I change it?</a></span></li></ol></div><div id='treeView' class='treeViewContainer'><h4 class='treeViewRoot'>Knowledgebase</h4><div id='treeViewChildMarkup' class='treeViewChildFolders'><ul class='folder'><li class='leafFolder'><a href='/link/portal/30015/30018/ArticleFolder/6/FAQs'>FAQs</a></li><li class='leafFolder'><a href='/link/portal/30015/30018/ArticleFolder/10/Ask-com-Search'>Ask.com Search</a></li><li class='leafFolder'><a href='/link/portal/30015/30018/ArticleFolder/11/Ask-com-Browser-Toolbar'>Ask.com Browser Toolbar</a></li><li class='leafFolder'><a href='/link/portal/30015/30018/ArticleFolder/16/International-Toolbar'>International Toolbar</a></li><li class='leafFolder'><a href='/link/portal/30015/30018/ArticleFolder/25/Search-Better'>Search Better</a></li><li class='leafFolder'><a href='/link/portal/30015/30018/ArticleFolder/35/MySearch'>MySearch</a></li><li class='leafFolder'><a href='/link/portal/30015/30018/ArticleFolder/36/Teoma'>Teoma</a></li></ul></div></div><div id='myrecent'><ol class="myrecenttopics"><li class="heading"><span class="desc">My Recent Topics</span></li><li class="first alt1"><span class="noRecentTopic">You do not currently have any "My Recent Topic" information. You will see your most recent viewed topics when you begin to browse the Knowledgebase</span></li></ol></div>
+
+<script type="text/javascript">
+    function PassthroughLogin(loginpage) {
+        parent.document.location.href = loginpage;
+    }
+</script>
+
+      </div>
+      <!-- parature_content was just closed-->
+      <div id="parature_navigation">
+        <ul class="mainmenu">
+          <li id="mli_splash" class="selected"><a href="/ics/support/splash.asp" id="mli_splash_link">Home</a></li>
+          <li id="mli_knowledge_main"><a href="/ics/support/KBSplash.asp" id="mli_knowledge_main_link">Online Support</a></li>
+          <li id="mli_SRSplash"><a href="/ics/support/SRSplash.asp" id="mli_SRSplash_link">Request Support</a></li>
+        </ul>
+        <ul class="utilitymenu">
+          <li id="mli_Login"><a href="mylogin.asp" id="mli_Login_link">Sign in</a></li>
+          <li id="mli_Exit"><a href="javascript:exitSupport();" id="mli_Exit_link">Exit</a></li>
+        </ul>
+        <ul class="submenu splash">
+          <li id="mli_ticket"><a href="/ics/support/ticketNew.asp" id="mli_ticket_link">How can we help you with our search apps?</a></li>
+          <li id="mli_feedback"><a href="/ics/support/feedback.asp" id="mli_feedback_link">Submit Feedback</a></li>
+          <li id="mli_realtime"><a href="javascript:chatOpen(30015,30018);" id="mli_realtime_link">Live Chat</a></li>
+        </ul>
+      </div>
+
+          <div id="parature_search">
+            <form name="search" method="post" action="/ics/support/KBResult.asp" id="search">
+                <input type="hidden" name="ParatureCSRFSecurityToken" value="18ea7fa9-56cb-41a0-80a1-30bda40e41ec"/>
+              <input class="searchText" placeholder="Search" name="searchFor" />
+              <input name="button" class="button" type="submit" value="Search" />
+              <input name="task" value="knowledge" type="hidden" />
+              <input name="basicSearch" type="hidden" value="1" />
+            </form>
+            <a class="searchLinks" href="/ics/support/frameless/search.asp?task=knowledge&amp;pageContentIdentifier=0">
+              Advanced Search
+            </a>
+          </div>
+        
+
+      <div id="parature_footer">
+
+      </div>
+        <!-- parature_footer was just closed-->
+    </div>
+        <!-- parature_wrapper was just closed-->
+    <!-- Parature End -->
+
+</div>
+						<div id="sidebar_right">
+							<article id="help_links">
+								<h3>Help Center Links</h3>
+								<ul id="help_links_list">
+									<li><a href="/link/portal/30015/30018/Article/113/Ask-com-FAQs">FAQs</a></li>
+									<li><a href="/ics/support/ticketnewwizard.asp?style=classic&feedback=true">Give Feedback</a></li>
+									<li><a href="/ics/support/ticketnewwizard.asp?style=classic">Contact Customer Support</a></li>
+								</ul>
+							</article>
+							<article>
+								<div id="tweets">
+									<a class="twitter-timeline" href="https://twitter.com/AskDotCom" data-widget-id="347063319221370883">Tweets by @AskDotCom</a>
+</div>
+							</article>
+						</div>
+					</div>
+				</div>
+
+<div id="footer">
+        	<div class="ask_container">
+        		<section id="footer_links">
+					<a href="http://www.ask.com/about?o=0&amp;l=dir">About</a>
+					-
+					<a href="http://www.ask.com/about/legal/privacy?o=0&amp;l=dir">Privacy</a>
+					-
+				
+					<a href="http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qXY9VfwJ&amp;su=fsY9Vfwe&amp;cs=93q9Vfwh">Careers</a>
+					-
+					<a href="http://blog.ask.com" target="_blank">Ask Blog</a>
+					-
+					
+					<a href="http://help.ask.com">Help</a>
+					-
+					<a href="http://feedback.ask.com" target="_blank">Feedback</a>
+					<span>&copy; 2016 Ask.com</span>
+				</section>
+				<section id="social_links">
+					<span><img src="/FileManagement/Download/983f9ccde85b4a8fb0b21ffa4cdd5451" /></span>
+					<a class="youtube sprite" href="http://www.youtube.com/user/AskdotcomVideo" target="_blank" data-lc="youtube"></a>
+					<a class="facebook sprite" href="http://www.facebook.com/AskDotCom" target="_blank" data-lc="facebook"></a>
+					<a class="twitter sprite" href="http://twitter.com/askdotcom" target="_blank" data-lc="twitter"></a>
+					<a class="gplus sprite" href="https://plus.google.com/105149213719916216015/" target="_blank" data-lc="gplus"></a>
+					<a class="blog sprite" href="http://blog.ask.com" target="_blank" data-lc="blog"></a>
+				</section>
+				<div id="poweredby"><a href="http://www.parature.com"><img height="25" style="margin-right: 10px;" src="/FileManagement/Download/c5bfc274ff4e4a05994100a4f0726f76" />Customer Service Powered by Parature</a><img style="margin-left: 30px;" src="http://help.ask.com/FileManagement/Download/c974a7bf6d2e4d1581ea35299933eda1" alt=“better”></div>
+        	</div>
+        </div>
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/public/content/jquery/1.8.3/jquery.min.js"><\/script>')</script>
+<script src="/FileManagement/Download/3724ea970bb142158babcd3f8215e2ae"></script>
+<script src="/FileManagement/Download/5b404464876b46b985de8c6fcdf7cdd8"></script>
+<script charset="utf-8" src="/FileManagement/Download/4e3efe3635b54ece91326bcb709bd4f4"></script>
+<script type="text/javascript">
+//	$('#tweets').jTweetsAnywhere({
+//		username: ['askdotcom','askdotcom_eric'],
+//		count: 4
+//	});
+</script>
+
+<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+<script>
+	 var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-36943634-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+</script>
+<script type="text/javascript">
+var time = new Date().getMilliseconds();
+
+function loadScript(url) {
+	var script = document.createElement('script');
+	script.setAttribute('src', url);
+	document.getElementsByTagName('head')[0].appendChild(script);
+}
+
+function updateImage(image, id) {
+	if( $(image).hasClass('available') ) {
+		var chatLink = '<a href="javascript:chatOpen(30015,30018);" class="splash_link" title="Click to speak with Eric!" style="display: block; margin: 15px auto; position: absolute; top: 45px; right: -93px;"><img src="/FileManagement/Download/b68935aa3d9e4b22b468361af415bebf" alt="Chat Icon"/></a>';
+		$(chatLink).insertAfter($('#help_links_list'));
+	}
+}
+
+loadScript('/ics/csrchat/ChatButtonHttpModule.aspx?buttonId=edd8dc3c-8ea1-432c-a8d8-5a44a23022f4&clientId=30015&deptId=30018&time=' + time);
+
+</script>
+<script>
+var keyPressFunction;
+var keyPressCount = 0;
+var keyPressCounter = self.setInterval("keyPressCount = 0", 200);
+
+//Add a loader to an element
+function ajaxLoader() {
+	var loader = document.createElement('img');
+	loader.setAttribute("id", "loader");
+	loader.setAttribute("src", "https://d1.parature.com/public/pocs/parature_widget/loading.gif");
+	loader.setAttribute("style", "margin: 40px auto; display: block;");
+	return loader;
+}
+
+function closeLightbox() {
+	$('div.lightbox_wrapper').css('display','none');
+}
+
+//Perform custom easy answer style search, force is for forcing search
+function ajaxSearch(terms, target, folderID, force) {
+	if( keyPressCount == 0 || force ) {
+		$(target).empty();
+		$(target).css({'display':'block', 'margin':'15px 0 0'});
+		$(target).prepend(ajaxLoader());
+		$.get('/ics/support/KBResult.asp?searchFor='+terms+'&searchOption=anywords&questionID=&searchTime=-1&task=knowledge&folderID='+folderID+'&searchSubfolders=on&resultLimit=50&pageContentIdentifier=&submitsearch=Search', function(data) {
+			$(target).empty();
+			$(target).prepend($('<h3>Search Results</h3>'));
+			$(target).append($('.parature_page_content',data).html());
+			$('a.articleLink',target).each( function() {
+				var regExp = /\*\|\*(.*)\*\|\*/;
+				var match = $(this).html().match(regExp);
+				if( match != null ) {
+					var toReplace = match[0];
+					var newHTML = $.trim($(this).html().replace(toReplace,""));
+					$(this).html(newHTML);
+				}
+				$(this).attr('target','_blank');
+			});
+			if( $('.errormessage').length > 0 ) {
+				$('.errormessage').html('No results containing all your search terms were found.')
+				$('#searchResults').append('<p>Your search - '+$('.searchBox').val()+' - did not match any documents.</p>');
+				$('#searchResults').append('<h4>Suggestions:</h4><ul><li>Make sure all words are spelled correctly.</li><li>Try different keywords.</li><li>Try more general keywords.</li></ul>');
+			}
+			$('#searchResults').append($('<h5>Can\'t find your answer? Click <a href="/ics/support/ticketnewwizard.asp?style=classic">here</a> to talk to Eric.</h5>'));
+		});
+		keyPressFunction = window.clearInterval(keyPressFunction);
+	}
+}
+
+function convertCustomTabs(callback) { 
+	jQuery('a[id^="mli_widget"]').each( function() { 
+		var widgetLink = jQuery(this); 
+		jQuery.get( jQuery(this).attr('href'),function(data) {
+			widgetLink.attr('href',jQuery('iframe.parature_customTab',data).attr('src'));
+			if( callback ) callback();
+		});
+	});
+}
+
+$(document).ready( function () {
+
+	if( $('body').hasClass('kblist_asp') ) {
+		//Fix for 15.1 missing closing tag
+		$('#parature_navigation,#parature_search,#parature_footer').detach().insertAfter($('#parature_content'));
+		$('#sidebar_right').detach().insertAfter($('#content_left'));
+		$('#footer').detach().insertAfter($('#full_width'));
+	}
+
+	convertCustomTabs(	function() {
+		if( $('#mli_widget31317').length > 0 ) {
+			$.get('/ics/support/DLRedirect.asp?fileID=7479');
+		}
+	});
+	if( $('body').hasClass('ticketnewwizard_asp') ) {
+		if( getParameterByName('feedback') == "true" ) {
+				document.title = "Ask.com | Product Feedback";
+				$('h1.title').text("Talk to us!");
+				updateDep(89374, 1575);
+				$('legend','fieldset.ticketdetails').remove();
+				$('span.titledesc').text('Your input helps us improve our search apps for the millions of people who use us every day.');
+				$('<div class="divider"></div>').insertAfter($('.titledesc'));
+				$('#configFields').append($('<input type="hidden" name="FIELD_89374_DROPDOWN_null" value="1575" />'));
+				$('#ROW_89048').prepend($('<div class="divider"></div><h1>Please share your thoughts with us</h1><p>Every item of feedback submitted will be seen and acted upon as necessary.</p>'));
+				$('<div class="divider"></div><p>Thank you for your feedback!</p>').insertBefore($('#buttonContainer'));
+			}
+			if( getParameterByName('bug') == "true" ) {
+				document.title = "Ask.Com | Report a Bug";
+				$('h1.title').text("Report a Bug");
+			}
+			var referrer = getCookie('referrer');
+			if( referrer != "" )
+				$('#configFields','.ticketnewwizard_asp').append($('<input id="FIELD_90843_TEXT_varchar" type="hidden" name="FIELD_90843_TEXT_varchar" title="Referring URL" value="'+referrer+'" class="formText">'));
+	}
+	
+	$('.forminput').addClass('clearfix');
+	
+	if ( $('body').hasClass('ticketnewconfirm_asp' )) {
+		if( document.referrer.indexOf('feedback') != 1 ) {
+			$('h1.title').text('Thank you for your feedback!');
+		}
+	}
+	
+	if( $('body').hasClass('splash_asp') ) {
+		$.get('/FileManagement/Download/a8e77f378e454696bee0e04cf132d3cd', function(data) {
+			$('#tipOfWeek').text(data);
+		});
+	}
+	
+	if( $('body').hasClass('kbanswer_asp') ) {
+		$('#ratingContent').prepend('<h4 class="articleEnd">Still have questions? <a href="/ics/support/ticketNew.asp">Talk to Eric</a></h4>');
+		var subscribeLink = $('a','li#subscribe').attr('href');
+			$('a','li#subscribe').removeAttr('href');
+			$('a','li#subscribe').attr('rel',subscribeLink);
+			$('a','li#subscribe').click( function() {
+				articleSubscribe($(this).attr('rel'));
+			});
+		$('#imgTumbUp').removeAttr('onclick');
+	$('#imgTumbDown').removeAttr('onclick');
+	$('#imgTumbDown').click( function() {
+		document.getElementById("imgTumbDown").src = "/ics/support/images/thumbs_down_on.png";
+		document.getElementById("imgTumbUp").src = "/ics/support/images/thumbs_up_off.png";
+		document.getElementById("set_rating").value = "no";
+		$("#customVoteSubmit").removeAttr('disabled');
+	});
+	$('#imgTumbUp').click( function() {
+		document.getElementById("imgTumbDown").src = "/ics/support/images/thumbs_down_off.png";
+		document.getElementById("imgTumbUp").src = "/ics/support/images/thumbs_up_on.png";
+		document.getElementById("set_rating").value = "yes";
+		$("#customVoteSubmit").removeAttr('disabled');
+	});
+	$('#voteBoxSubmit').remove();
+	$('#voteBox').append('<input type="submit" id="customVoteSubmit" value="Submit" disabled="disabled">');
+	$('#customVoteSubmit').click( function() {
+		var str = $('div#voteBox form').attr('action');
+		var qId = str.substr(str.indexOf('questionID='));
+		$.post('/ics/support/KBAnswer.asp?'+qId,{set_rating: document.getElementById("set_rating").value},function() {
+			var rateConfirm = document.createElement('div');
+			$(rateConfirm).attr('id','rateConfirm');
+			$(rateConfirm).html('Successfully rated article!');
+			$('#ratingContent').append(rateConfirm);
+			$('#voteBox').remove();
+		});
+	});
+	$('#sidebar_right').append($('#relatedTopics'));
+	}
+	
+	$('input[type="radio"]').addClass('radio');
+	
+	if( $('#breadcrumbs').length == 0 && !$('body').hasClass('kbresult_asp') ) {
+		if( !$('body').hasClass('splash_asp') ) {
+			$('<div id="breadcrumbs"><span class="first breadcrumb"><a href="/ics/support/splash.asp">Help Center</a></span></div>').insertBefore($('h1.title'));
+			$('#breadcrumbs').append($('<span class="breadcrumb last">' + $('h1.title').text() + '</span>'));
+		}
+	} else {
+		$('#breadcrumbs').prepend($('<span class="first breadcrumb"><a href="/ics/support/splash.asp">Help Center</a></span>'));
+		$('#breadcrumbs').insertBefore($('h1.title'));
+	}
+	
+	$('span.breadcrumb').each( function() {
+		if( $('a[href="KBSplash.asp"]',this).length > 0 )  {
+			$(this).remove();
+		} else if ( !$(this).hasClass('last') ) {
+			$('<span class="spacer"> > </span>').insertAfter(this);
+		}
+	});
+	
+	$('.searchBox').keypress(function(e) {
+			var folderID = $('#folderID').attr('value');
+			keyPressCount++;
+			keyPressFunction=window.clearInterval(keyPressFunction);
+			if(e.which == 13) {
+				ajaxSearch($('.searchBox').val(),$('#searchResults'), folderID,true);
+			} else {
+				keyPressFunction = self.setInterval("ajaxSearch($('.searchBox').val(),$('#searchResults'),"+ folderID +",true)", 500);
+			}
+	});
+	
+	if( $('#folderID').length > 0 ) { 
+		$('.kbcontent').hide();
+	}
+	
+	$('#searchBoxClear').click( function() {
+		$('.searchBox').val('');
+		$('#searchResults').empty();
+		$('#searchResults').css({'display':'none'});
+	});
+		
+	$('.search_submit').click( function() {
+		var folderID = $('#folderID').attr('value');
+		ajaxSearch($('.searchBox').val(),$('#searchResults'), folderID,true);
+	});
+	
+	$('#viewAll').click( function() {
+		if( $('div.kbcontent').css('display') != 'block' ) {
+			$('div.kbcontent').prepend($('<h2>'+$('h1.title').text()+' Topics</h2>'));
+			$('div.kbcontent').css('display','block');
+		}
+	});
+	
+	$('a','#printArticle').text("Print topic");
+	
+	if( window.location.pathname == "/ics/support/ticketNewConfirm.asp" ) {
+		var ticketLink = document.getElementById('ticketnewconfirm');
+		var newSpan = document.createElement("span");
+		newSpan.innerHTML = ticketLink.innerHTML;
+		ticketLink.parentNode.replaceChild(newSpan, ticketLink);
+	}
+	
+	var cssLink = $('link[href*="nf_style"]').attr('href');
+	cssLink += "?v20140417";
+	$('link[href*="nf_style"]').attr('href', cssLink);	
+});
+</script>
+<script type="text/javascript">
+
+var helpLabelList;
+if ( helpLabelList != undefined ) {
+for( var i = 0; i < helpLabelList.length; i++) {
+	helpLabelList[i].show = function helpLabelShow(stick,width,showOnLeftSide){
+	if(stick)
+		this.stick=true;
+		this.over=true;
+		var adjustedY=y;
+		var adjustedX=x;
+		if(document.getElementById("parature_wrapper"))
+		{
+			adjustedY = adjustedY+document.getElementById("parature_wrapper").offsetTop-200;
+			if( document.location.pathname == '/ics/support/myprofile.asp' || document.location.pathname == '/ics/support/ticketsearch.asp') {
+				adjustedY = adjustedY+document.getElementById("parature_wrapper").offsetTop-320;
+			}
+			adjustedX = adjustedX+document.getElementById("parature_wrapper").offsetLeft-100;
+		}
+	if(showOnLeftSide) {
+		this.moveTo(adjustedX-190,adjustedY);
+	}
+	else {
+		this.moveTo(adjustedX+10,adjustedY);
+	}
+	if(width==null)
+		width=200;
+	if((!this.visible)||(this.stick))
+	{
+		var closeLink="";
+		var helpPopup=null;
+		if(document.getElementById){
+			helpPopup = document.getElementById("helpLayer");
+		}
+		if(this.stick)
+			closeLink="<div align=right><a align=right href=javascript:helpLabelList["+this.id+"].hide(true);><img src=/ics/images/common/iCloseSmall.gif border=0 width=10 height=10></a></div>";
+		
+		var text="<TABLE WIDTH="+width+" BORDER=0 CELLPADDING=5 CELLSPACING=1 BGCOLOR=#000000><TR><TD BGCOLOR=#FFFFE1>"+this.content+closeLink+"</td></TR></TABLE>";
+		if(helpPopup){
+			helpPopup.innerHTML=text;
+			helpPopup.style.visibility="visible";
+		} else if(is_nav4){
+			text="<TABLE WIDTH="+width+" BORDER=1 CELLPADDING=5 CELLSPACING=0 BGCOLOR=#FFFFE1><TR><TD>"+this.content+closeLink+"</td></TR></TABLE>";
+			help.document.write(text);
+			help.document.close();
+			help.style.visibility="show";
+		}
+		this.visible=true;
+		for(var i=0;i<helpLabelList.length;i++){
+			if(i!=this.id){
+				helpLabelList[i].visible=false;
+				helpLabelList[i].stick=false;
+			}
+		}
+	}
+}
+}
+}
+</script>
+<div id='1518514c-459a-4ed6-b5b1-4866f114d684' style='position: absolute; z-index: 100'></div>
+<script src='http://help.ask.com/ics/csrchat/inc/chatDeployment.js' type='text/javascript'></script>
+<script type='text/javascript'>
+function setProactiveDelay(delay, id){
+    chatDeploymentSetup(id, 'help.ask.com', 30015, 30018, delay, false);
+}
+
+window.onload = createDplOnLoadDelegate('1518514c-459a-4ed6-b5b1-4866f114d684', 'help.ask.com', 30015, 30018, window.onload, false,false);
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </body>
+</html>
+
+<form id="logoff" name="logoff" method="post"  action="/ics/support/custhandler.asp">
+	<input type="hidden" name="task" id="task" value="null" />
+	<input type="hidden" name="redirectURL" id="redirectURL" value="null" />
+</form>
+
+<script>
+function exitSupport() {
+	var frmExitSupport = document.forms.logoff;
+	frmExitSupport.task.value = "signOut";
+   	frmExitSupport.redirectURL.value = "/ics/support/default.asp?deptID=30018"; 
+	frmExitSupport.submit();
+}
+</script>
+
+<script type="text/javascript" src="/ics/inc/js/cookies.js?ver=5%2E8%2E8%2E28825"></script>
+<script type="text/javascript" src="/ics/support/inc/portalfooter.js?ver=5%2E8%2E8%2E28825"></script>
+<script type="text/javascript">
+    var encodedURL = encodeURIComponent(document.URL);
+    if (getCookie("newMetricsView") == "1" && getCookie("prevURLMetrics") != encodedURL) {
+        //update values
+        deleteCookie("newMetricsView", "/");
+        setCookie("prevURLMetrics", encodedURL, null, "/");
+
+        try {
+            var pvUrl = "/services/WebMetrics.bmp?";
+
+            var pvBody = "accountID=30015&deptID=30018&visitorGuid=feef9471b2494391be105ccec1b8cf37";
+            pvBody += "&url=" + encodedURL + "&referer=" + encodeURIComponent(document.referrer);
+            addImage(pvUrl + pvBody, false);
+        } 
+        catch (err) {
+            //do not do anything, don't want error propagating
+        }
+        
+        
+        setTimeout( deleteVisitCookies, 1000);
+    }
+
+    function deleteVisitCookies(){
+        deleteCookie("VisitGUID", "/");
+        deleteCookie("ArticlesVisited", "/");
+    }
+</script>

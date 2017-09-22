@@ -1,0 +1,368 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+	<head>
+		<title>Hobbies Games Sitemap | http://www.ask.com</title>  
+		<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' /> 
+		<style type='text/css'> 
+			
+body{
+	margin: 0px;
+}
+
+#description{      
+	display: block;      
+	background: top left no-repeat;      
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+}  
+.cat-list {
+	list-style-type: none;
+	padding: 0;
+}
+#footer{ 
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+.partial {
+	width: 1080px;
+	margin-left: 85px;
+	display: inline-block;
+	line-height: 20px;
+	font-size: 14px;
+	vertical-align: top;
+	position: relative;
+	overflow: visible;			
+}
+.partial-logo-body {
+	position: relative;
+	overflow: visible;
+	width: 0;
+	float: left;
+}
+.partial-logo-link {
+	position: absolute;
+	z-index: 1;
+	top: 12px;
+	right: 12px;
+	display: block;
+}
+.partial-logo-image-ask {
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: 0 0;
+    width: 75px;
+    height: 54px;
+}
+
+.partial-logo-image-reference {
+    background-image: url(https://www.reference.com/logo.png);
+    background-position: 0 0;
+    width: 162px;
+    height: 27px;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+.searchbar-body {
+	float: left;
+	height: 50px;
+	margin-top: 30px;
+}
+.partial-search-bar-box {
+	width: 696px;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	padding: 0 10px;
+	font-family: Sans-Serif;
+	font-size: 16px;
+	font-weight: lighter;
+	border: 1px solid silver;
+}
+.partial-search-bar-box:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.partial-search-bar-button {
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 50px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-image: url(http://sp.ask.com/sh/i/a16/serp/SERP_sprite_19.png);
+    background-position: -148px -198px;
+}
+.partial-search-bar-button:focus {
+	outline: -webkit-focus-ring-color auto 5px;
+	outline-offset: -2px;
+}
+.articles {
+	list-style-type: none;
+	padding: 0;
+}
+
+.reference {
+   margin-left: 0;
+   margin-top: 10px;
+}
+
+.reference .partial-logo-body {
+   width: 200px;
+   margin-left: 10px;
+   margin-top: 7px;
+}
+
+.reference .partial-logo-link {
+   position: relative;
+   top: 0;
+   right: 0;
+}
+
+.reference .partial-logo-image-reference {
+   top: 0;
+   left: 0;
+}
+
+.reference .searchbar-body {
+   width: 800px;
+   margin-top: 0;
+   margin-left: 0;
+}
+
+.reference .partial-search-bar-button {
+  background-image: url(https://www.reference.com/search-icon.png);
+  background-position: 12px 14px;
+  position: relative;
+  left: -48px;
+  border-left: 1px solid silver;
+}
+
+
+		</style>
+
+	</head>
+
+		<div class="partial partial-logo ask">
+			<div class="partial partial-logo-body">
+				<a class="partial-logo-link" href="http://www.ask.com">
+					<div class="partial-logo-image-ask"></div>
+				</a>
+			</div>
+
+			<div class="partial searchbar-body">
+			    <form action="http://www.ask.com/web" accept-charset="UTF-8">
+			        <input class="partial-search-bar-box" type="text" name="q" value="" maxlength="2048" autocomplete="off" placeholder="" />
+			        <input class="partial-search-bar-button" type="submit" value="" />
+			            <input type="hidden" name="qsrc" value="0" />
+			            <input type="hidden" name="o" value="0" />
+			            <input type="hidden" name="l" value="dir" />
+			            <input type="hidden" name="qo" value="contentSearchBox" />
+			    </form>
+			</div>  
+		</div>	
+
+
+		<div id='description'>
+				<div id='subcats'>
+					<h1> Subcategories for <a href="http://www.ask.com/hobbies-games"> Hobbies Games </a></h1>
+						<a href="http://www.ask.com/hobbies-games/explore/coins-currency">Coins Currency</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/crafting">Crafting</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/musical-instruments">Musical Instruments</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/pottery-ceramics">Pottery Ceramics</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/puzzles-brainteasers">Puzzles Brainteasers</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/pokemon">Pokemon</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/crafts-for-kids">Crafts For Kids</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/rpg-video-games">Rpg Video Games</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/adventure-games">Adventure Games</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/collecting">Collecting</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/online-games">Online Games</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/gaming-consoles">Gaming Consoles</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/board-games">Board Games</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/video-online-games">Video Online Games</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/jokes">Jokes</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/paper-crafts">Paper Crafts</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/magic-illusions">Magic Illusions</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/sewing">Sewing</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/group-games">Group Games</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/playing-music">Playing Music</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/photography">Photography</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/dolls">Dolls</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/stamps">Stamps</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/card-games">Card Games</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/contests-gambling">Contests Gambling</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/toys">Toys</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/dyeing">Dyeing</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/brainteasers">Brainteasers</a>&nbsp&nbsp 
+						<a href="http://www.ask.com/hobbies-games/explore/flower-arranging">Flower Arranging</a>&nbsp&nbsp 
+				</div> 
+			<h1>Articles for <a href="http://www.ask.com/hobbies-games">Hobbies Games </a></h1>
+			<ul class="articles">
+			  <li><a href="http://www.ask.com/hobbies-games/wild-thornberrys-wildlife-rescue-game-9810694d8a7cfa6c"> What was the &quot;Wild Thornberrys Wildlife Rescue&quot; game? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/make-tricorn-hat-out-paper-127fda806b4586e1"> How do you make a tricorn hat out of paper? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/answer-three-men-motel-riddle-db921c493762dcb5"> What is the answer to the &quot;three men go Into a motel&quot; riddle? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/clarinets-made-1d77458521db6e36"> How are clarinets made? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/clean-silver-coins-b6ca277b12d25ca3"> How do you clean silver coins? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/can-wild-thornberrys-fans-play-australian-wildlife-rescue-game-6f14ac91ce0340b9"> Where can Wild Thornberrys fans play the Australian Wildlife Rescue game? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/kind-game-monkey-madness-8be6b71bb7672ae9"> What kind of game is &quot;Monkey Madness&quot;? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/level-skitty-evolve-64b9fd86efa236cb"> At what level does Skitty evolve? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/rare-collectible-haeger-pottery-d719d76f4a71a05d"> Is there any rare and collectible Haeger pottery? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/many-armies-start-game-risk-eeae90245ad8b347"> How many armies do you start with in a game of Risk? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/call-stamp-collector-8fa5600c9c22757f"> What do you call a stamp collector? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/riddle-starts-goes-car-da1ad42c6b31e14d"> Which riddle starts &quot;What is that which goes with a car&quot;? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/revive-wilted-plant-2491d3edbac9f592"> How do you revive a wilted plant? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/make-knitting-board-dd19b801325d2ae2"> How do you make a knitting board? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/many-white-keys-piano-5116a41e5397bcd0"> How many white keys are on a piano? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/level-machop-evolve-19917a972c1ce7c5"> At what level does Machop evolve? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/can-value-old-currency-96667c8e89822acc"> Where can I find the value of old currency? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/telephone-game-sentences-70d084d1ca866bf5"> What are Telephone game sentences? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/can-origami-ball-made-c75676d93ac1b943"> How can an origami ball be made? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/play-playstation-2-games-ps3-console-27e1009fc4fdcd01"> How to play PlayStation 2 games on a PS3 console? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/build-simple-catapult-95783a642911b701"> How do you build a simple catapult? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/make-wolverine-claws-a0d2e7920f3379ef"> How do you make &quot;Wolverine&quot; claws? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/pranks-school-48cd27d9ad999fcd"> What are some pranks to do at school? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/musical-instruments-cordillera-highland-b865fcd777d42e2a"> What are some musical instruments of the Cordillera Highland? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/way-transfer-pokemon-pokemon-x-y-game-versions-13772cfcdb1f6bb1"> What is the way to transfer Pokemon to Pokemon X &amp; Y game versions? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/identify-german-beer-mugs-steins-874fe82ba0d21b9f"> How do you identify German beer mugs or steins? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/move-piano-749de8ac67d831cf"> How do you move a piano? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/slr-camera-8a4f20c4cabd1d10"> What is an SLR camera? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/values-holiday-barbie-dolls-2252057f325e82a8"> What are the values of Holiday Barbie dolls? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/indigenous-musical-instruments-found-palawan-c992681b2dce8b62"> What indigenous musical instruments are found in Palawan? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/build-lego-house-7cc03b581116fb1f"> How do you build a Lego house? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/did-game-hide-seek-originate-4f425d3fb18ccf4"> Where did the game of hide-and-seek originate? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/materials-kate-malone-use-581383aa9902b6cf"> What materials does Kate Malone use? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/peter-stone-horses-16073c9a88c074b4"> What are Peter Stone horses? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/uses-broken-christmas-tree-ornaments-73ee72a65e624540"> What are some uses for broken Christmas tree ornaments? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/helpful-chess-tips-fcacc31e0de74654"> What are some helpful chess tips? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/can-wooden-puzzle-plans-f92760a82b320df4"> Where can I find free wooden puzzle plans? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/simcity-2000-reticulating-spline-mean-40698cd2324cf702"> In &quot;SimCity 2000,&quot; what does &quot;reticulating spline&quot; mean? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/1963-silver-dime-c1bc844ee0462f3e"> What is a 1963 silver dime? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/can-used-postage-stamps-e49d0e15ca1117c9"> What can I do with used postage stamps? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/can-sell-model-cars-6c77bea136b6c0da"> Where can I sell model cars? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/catch-lugia-pokemon-leafgreen-6ab8087980a9256e"> How do you catch Lugia in &quot;Pokemon LeafGreen&quot;? </a></li>
+			  <li><a href="http://www.ask.com/hobbies-games/edges-coin-called-2f3f63132603ece7"> What are the edges on a coin called? </a></li>
+			</ul>		
+		</div>
+
+		<div id='footer'>
+			<div id='page_links'>
+				<a class="page-link" href="sitemap-hobbies-games1.html"> [1] </a>
+				<a class="page-link" href="sitemap-hobbies-games2.html"> [2] </a>
+				<a class="page-link" href="sitemap-hobbies-games3.html"> [3] </a>
+				<a class="page-link" href="sitemap-hobbies-games4.html"> [4] </a>
+				<a class="page-link" href="sitemap-hobbies-games5.html"> [5] </a>
+				<a class="page-link" href="sitemap-hobbies-games6.html"> [6] </a>
+				<a class="page-link" href="sitemap-hobbies-games7.html"> [7] </a>
+				<a class="page-link" href="sitemap-hobbies-games8.html"> [8] </a>
+				<a class="page-link" href="sitemap-hobbies-games9.html"> [9] </a>
+				<a class="page-link" href="sitemap-hobbies-games10.html"> [10] </a>
+				<a class="page-link" href="sitemap-hobbies-games11.html"> [11] </a>
+				<a class="page-link" href="sitemap-hobbies-games12.html"> [12] </a>
+				<a class="page-link" href="sitemap-hobbies-games13.html"> [13] </a>
+				<a class="page-link" href="sitemap-hobbies-games14.html"> [14] </a>
+				<a class="page-link" href="sitemap-hobbies-games15.html"> [15] </a>
+				<a class="page-link" href="sitemap-hobbies-games16.html"> [16] </a>
+				<a class="page-link" href="sitemap-hobbies-games17.html"> [17] </a>
+				<a class="page-link" href="sitemap-hobbies-games18.html"> [18] </a>
+				<a class="page-link" href="sitemap-hobbies-games19.html"> [19] </a>
+				<a class="page-link" href="sitemap-hobbies-games20.html"> [20] </a>
+				<a class="page-link" href="sitemap-hobbies-games21.html"> [21] </a>
+				<a class="page-link" href="sitemap-hobbies-games22.html"> [22] </a>
+				<a class="page-link" href="sitemap-hobbies-games23.html"> [23] </a>
+				<a class="page-link" href="sitemap-hobbies-games24.html"> [24] </a>
+				<a class="page-link" href="sitemap-hobbies-games25.html"> [25] </a>
+				<a class="page-link" href="sitemap-hobbies-games26.html"> [26] </a>
+				<a class="page-link" href="sitemap-hobbies-games27.html"> [27] </a>
+				<a class="page-link" href="sitemap-hobbies-games28.html"> [28] </a>
+				<a class="page-link" href="sitemap-hobbies-games29.html"> [29] </a>
+				<a class="page-link" href="sitemap-hobbies-games30.html"> [30] </a>
+				<a class="page-link" href="sitemap-hobbies-games31.html"> [31] </a>
+				<a class="page-link" href="sitemap-hobbies-games32.html"> [32] </a>
+				<a class="page-link" href="sitemap-hobbies-games33.html"> [33] </a>
+				<a class="page-link" href="sitemap-hobbies-games34.html"> [34] </a>
+				<a class="page-link" href="sitemap-hobbies-games35.html"> [35] </a>
+				<a class="page-link" href="sitemap-hobbies-games36.html"> [36] </a>
+				<a class="page-link" href="sitemap-hobbies-games37.html"> [37] </a>
+				<a class="page-link" href="sitemap-hobbies-games38.html"> [38] </a>
+				<a class="page-link" href="sitemap-hobbies-games39.html"> [39] </a>
+				<a class="page-link" href="sitemap-hobbies-games40.html"> [40] </a>
+				<a class="page-link" href="sitemap-hobbies-games41.html"> [41] </a>
+				<a class="page-link" href="sitemap-hobbies-games42.html"> [42] </a>
+				<a class="page-link" href="sitemap-hobbies-games43.html"> [43] </a>
+				<a class="page-link" href="sitemap-hobbies-games44.html"> [44] </a>
+				<a class="page-link" href="sitemap-hobbies-games45.html"> [45] </a>
+				<a class="page-link" href="sitemap-hobbies-games46.html"> [46] </a>
+				<a class="page-link" href="sitemap-hobbies-games47.html"> [47] </a>
+				<a class="page-link" href="sitemap-hobbies-games48.html"> [48] </a>
+				<a class="page-link" href="sitemap-hobbies-games49.html"> [49] </a>
+				<a class="page-link" href="sitemap-hobbies-games50.html"> [50] </a>
+				<a class="page-link" href="sitemap-hobbies-games51.html"> [51] </a>
+				<a class="page-link" href="sitemap-hobbies-games52.html"> [52] </a>
+				<a class="page-link" href="sitemap-hobbies-games53.html"> [53] </a>
+				<a class="page-link" href="sitemap-hobbies-games54.html"> [54] </a>
+				<a class="page-link" href="sitemap-hobbies-games55.html"> [55] </a>
+				<a class="page-link" href="sitemap-hobbies-games56.html"> [56] </a>
+				<a class="page-link" href="sitemap-hobbies-games57.html"> [57] </a>
+				<a class="page-link" href="sitemap-hobbies-games58.html"> [58] </a>
+				<a class="page-link" href="sitemap-hobbies-games59.html"> [59] </a>
+				<a class="page-link" href="sitemap-hobbies-games60.html"> [60] </a>
+				<a class="page-link" href="sitemap-hobbies-games61.html"> [61] </a>
+				<a class="page-link" href="sitemap-hobbies-games62.html"> [62] </a>
+				<a class="page-link" href="sitemap-hobbies-games63.html"> [63] </a>
+				<a class="page-link" href="sitemap-hobbies-games64.html"> [64] </a>
+				<a class="page-link" href="sitemap-hobbies-games65.html"> [65] </a>
+				<a class="page-link" href="sitemap-hobbies-games66.html"> [66] </a>
+				<a class="page-link" href="sitemap-hobbies-games67.html"> [67] </a>
+				<a class="page-link" href="sitemap-hobbies-games68.html"> [68] </a>
+				<a class="page-link" href="sitemap-hobbies-games69.html"> [69] </a>
+				<a class="page-link" href="sitemap-hobbies-games70.html"> [70] </a>
+				<a class="page-link" href="sitemap-hobbies-games71.html"> [71] </a>
+				<a class="page-link" href="sitemap-hobbies-games72.html"> [72] </a>
+				<a class="page-link" href="sitemap-hobbies-games73.html"> [73] </a>
+				<a class="page-link" href="sitemap-hobbies-games74.html"> [74] </a>
+				<a class="page-link" href="sitemap-hobbies-games75.html"> [75] </a>
+				<a class="page-link" href="sitemap-hobbies-games76.html"> [76] </a>
+				<a class="page-link" href="sitemap-hobbies-games77.html"> [77] </a>
+				<a class="page-link" href="sitemap-hobbies-games78.html"> [78] </a>
+				<a class="page-link" href="sitemap-hobbies-games79.html"> [79] </a>
+				<a class="page-link" href="sitemap-hobbies-games80.html"> [80] </a>
+				<a class="page-link" href="sitemap-hobbies-games81.html"> [81] </a>
+				<a class="page-link" href="sitemap-hobbies-games82.html"> [82] </a>
+				<a class="page-link" href="sitemap-hobbies-games83.html"> [83] </a>
+				<a class="page-link" href="sitemap-hobbies-games84.html"> [84] </a>
+				<a class="page-link" href="sitemap-hobbies-games85.html"> [85] </a>
+				<a class="page-link" href="sitemap-hobbies-games86.html"> [86] </a>
+				<a class="page-link" href="sitemap-hobbies-games87.html"> [87] </a>
+				<a class="page-link" href="sitemap-hobbies-games88.html"> [88] </a>
+				<a class="page-link" href="sitemap-hobbies-games89.html"> [89] </a>
+				<a class="page-link" href="sitemap-hobbies-games90.html"> [90] </a>
+				<a class="page-link" href="sitemap-hobbies-games91.html"> [91] </a>
+				<a class="page-link" href="sitemap-hobbies-games92.html"> [92] </a>
+				<a class="page-link" href="sitemap-hobbies-games93.html"> [93] </a>
+				<a class="page-link" href="sitemap-hobbies-games94.html"> [94] </a>
+				<a class="page-link" href="sitemap-hobbies-games95.html"> [95] </a>
+				<a class="page-link" href="sitemap-hobbies-games96.html"> [96] </a>
+				<a class="page-link" href="sitemap-hobbies-games97.html"> [97] </a>
+				<a class="page-link" href="sitemap-hobbies-games98.html"> [98] </a>
+				<a class="page-link" href="sitemap-hobbies-games99.html"> [99] </a>
+				<a class="page-link" href="sitemap-hobbies-games100.html"> [100] </a>
+				<a class="page-link" href="sitemap-hobbies-games101.html"> [101] </a>
+				<a class="page-link" href="sitemap-hobbies-games102.html"> [102] </a>
+				<a class="page-link" href="sitemap-hobbies-games103.html"> [103] </a>
+				<a class="page-link" href="sitemap-hobbies-games104.html"> [104] </a>
+				<a class="page-link" href="sitemap-hobbies-games105.html"> [105] </a>
+				<a class="page-link" href="sitemap-hobbies-games106.html"> [106] </a>
+				<a class="page-link" href="sitemap-hobbies-games107.html"> [107] </a>
+			</div>
+			<a href='../sitemap.html'> Sitemap Home </a>
+		</div>		
+	</body>
+</html>
