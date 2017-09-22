@@ -1,3 +1,5 @@
+# This is the recursive implementation of the web crawler
+
 import urllib.request
 from bs4 import BeautifulSoup as bs
 import os.path
